@@ -45,8 +45,13 @@ github添加id_rsa.pub公钥
 		hexo generate (hexo g)
 		本地测试修改 hexo server (hexo s)
 		提交到远端 hexo deploy (hexo d)
+
+4 插件安装
+		npm install hexo-generator-feed
+		npm install hexo-generator-sitemap
 		
-4 换电脑
+		
+5 换电脑
 git clone git@github.com:username/username.github.io.git
 npm install hexo
 npm install
