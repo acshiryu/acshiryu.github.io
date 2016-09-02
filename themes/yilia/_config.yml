@@ -26,7 +26,7 @@ fancybox: true
 mathjax: true
 
 # 是否开启动画效果
-#animate: true
+animate: true
 
 # 是否在新窗口打开链接
 open_in_new: false
@@ -62,7 +62,10 @@ aboutme: 小龙少，年二十有二。始从文，连考而不中。遂习武�
 
 #是否开启搜索(使用Swiftype Search)
 #true or false
-#search: true
+search: true
+
+### 主题BUG解决参考
+### https://linuxszp.github.io/2016/08/24/Fedora21-hexo-github-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
 
 #### Toc
 #### from theme iceman
