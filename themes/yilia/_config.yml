@@ -7,7 +7,7 @@ menu:
 
 # SubNav
 subnav:
-  github: "https://github.com/acshiryu/hexo"
+  github: "https://github.com/acshiryu/acshiryu.github.io"
   weibo: "http://weibo.com/acshiryu"
   rss: "/atom.xml"
   #zhihu: "#"
@@ -32,7 +32,7 @@ mathjax: true
 open_in_new: false
 
 # Miscellaneous
-google_analytics: ''
+# google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
@@ -62,7 +62,7 @@ aboutme: 小龙少，年二十有二。始从文，连考而不中。遂习武�
 
 #是否开启搜索(使用Swiftype Search)
 #true or false
-search: true
+#search: true
 
 #### Toc
 #### from theme iceman
