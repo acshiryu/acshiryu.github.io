@@ -24,6 +24,12 @@
       <% if (post.excerpt && index){ %>
         <%- post.excerpt %>
       <% } else { %>
+	    <% if(!index && (post.toc !== false) && theme.toc.article){ %>
+		<div id="toc" class="toc-article">
+			<strong class="toc-title"><%= __('文章目录') %></strong>
+		<%- toc(post.content) %>
+		</div>
+		<% } %>
         <%- post.content %>
       <% } %>
     </div>

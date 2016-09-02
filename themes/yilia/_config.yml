@@ -66,3 +66,14 @@ friends:
 #开启——
 aboutme: 小龙少，年二十有二。始从文，连考而不中。遂习武，练武场上发一矢，中鼓吏，逐之出。改学IT，自撰一函数，用之，堆栈溢出。
 
+#是否开启搜索
+#true or false
+search: true
+
+#### Toc
+#### from theme iceman
+toc:
+  article: true   ## show contents in article.
+  aside: true     ## show contents in aside.
+## you can set both of the value to true of neither of them.
+## if you don't want display contents in a specified post,you can modify `front-matter` and add `toc: false`.
