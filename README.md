@@ -28,15 +28,17 @@ github添加id_rsa.pub公钥
 		git checkout -b hexo
 		git remote add origin git@github.com:username/username.github.io.git
 3-5 修改文件
-		mv .npmignore .gitignore
 		修改_config.yml中的deploy参数，分支应为master
 			deploy:
 			type: git
 			repo: git@github.com:username/username.github.io.git
 			branch: master
-		Install hexo-deployer-git.
-			npm install hexo-deployer-git --save
-3-6 提交文件至hexo
+			
+3-6 插件安装
+		npm install hexo-deployer-git --save
+		npm install hexo-generator-feed --save
+		npm install hexo-generator-sitemap --save
+3-7 提交文件至hexo
 		git add .
 		git commit -m "...."
 		git push origin hexo
@@ -45,13 +47,8 @@ github添加id_rsa.pub公钥
 		hexo generate (hexo g)
 		本地测试修改 hexo server (hexo s)
 		提交到远端 hexo deploy (hexo d)
-
-4 插件安装
-		npm install hexo-generator-feed
-		npm install hexo-generator-sitemap
 		
-		
-5 换电脑
+4 换电脑
 git clone git@github.com:username/username.github.io.git
 npm install hexo
 npm install
