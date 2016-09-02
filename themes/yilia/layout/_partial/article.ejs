@@ -56,12 +56,8 @@
   <% } %>
 </article>
 
-<% if (!index && theme.share_jia && post.share){ %>
-<%- partial('post/share_jia') %>
-<% } %>
-
-<% if (!index && theme.share_addthis && post.share){ %>
-<%- partial('post/share_addthis') %>
+<% if (!index && theme.share){ %>
+<%- partial('post/share') %>
 <% } %>
 
 <% if (!index && theme.duoshuo && post.comments){ %>
