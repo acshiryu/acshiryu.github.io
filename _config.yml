@@ -40,8 +40,8 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
-  tab_replace:
+  auto_detect: true
+  tab_replace: ''
 
 # Category & Tag
 default_category: uncategorized
@@ -52,8 +52,8 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+date_format: MMM D
+time_format: H:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -62,10 +62,6 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-#plugins:
-#- hexo-generator-feed
-#- hexo-generator-sitemap
-
 ## Themes: https://hexo.io/themes/
 theme: yilia
 
@@ -75,3 +71,11 @@ deploy:
   type: git
   repo: git@github.com:acshiryu/acshiryu.github.io.git
   branch: master
+
+sitemap:
+  path: sitemap.xml
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 100

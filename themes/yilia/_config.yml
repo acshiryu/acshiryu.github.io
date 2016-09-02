@@ -20,11 +20,6 @@ subnav:
 
 rss: /atom.xml
 
-# 是否需要修改 root 路径
-# 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
-# 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-root: 
-
 # Content
 excerpt_link: more
 fancybox: true
@@ -41,7 +36,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: "http://tp2.sinaimg.cn/2080670177/180/40048791882/1"
+avatar: "/images/website/avatar.png"
 #是否开启分享
 share_jia: true
 share_addthis: false
