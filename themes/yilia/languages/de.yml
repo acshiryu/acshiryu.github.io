@@ -21,6 +21,7 @@ post:
   in: in
   read_more: Weiterlesen
   untitled: Unbenannt
+  toc: Artikel-Verzeichnis
   toc_empty: Dieser Artikel hat kein Inhaltsverzeichnis
 
 page:

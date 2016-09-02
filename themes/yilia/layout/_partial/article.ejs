@@ -26,7 +26,7 @@
       <% } else { %>
 	    <% if(!index && (post.toc !== false) && theme.toc.article){ %>
 		<div id="toc" class="toc-article">
-			<strong class="toc-title"><%= __('文章目录') %></strong>
+			<strong class="toc-title"><%= __('post.toc') %></strong>
 		<%- toc(post.content) %>
 		</div>
 		<% } %>

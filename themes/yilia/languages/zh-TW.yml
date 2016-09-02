@@ -21,6 +21,7 @@ post:
   in: 分類於
   read_more: 閱讀全文
   untitled: 未命名
+  toc: 本文目錄
   toc_empty: 此文章未包含目錄
 
 page:

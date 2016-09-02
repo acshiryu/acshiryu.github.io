@@ -20,6 +20,7 @@ post:
   in: в
   read_more: Читать дальше
   untitled: Без имени
+  toc: каталог Статья
   toc_empty: Этот пост не имеет оглавления
 
 page:

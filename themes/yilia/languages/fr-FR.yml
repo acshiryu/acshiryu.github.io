@@ -20,6 +20,7 @@ post:
   in: In
   read_more: Lire la suite
   untitled: Non titré
+  toc: article répertoire
   toc_empty: This post does not have a Table Of Contents
 
 page:
