@@ -134,6 +134,6 @@ COMMAND; sleep 30s; COMMAND
 但若要每秒都执行，则可以先写好shell脚本，然后让每一分钟去执行该脚本
 	
 ## 参考资料
+[Linux中的计划任务—Crontab](http://www.imooc.com/learn/216)
 [每天一个linux命令（50）：crontab命令](http://www.cnblogs.com/peida/archive/2013/01/08/2850483.html)  
-[Linux中的计划任务—Crontab](http://www.imooc.com/learn/216)  
 [CentOS安装crontab及使用方法](http://blog.163.com/victory_wxl/blog/static/14130530220115296180333/)
