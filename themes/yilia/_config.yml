@@ -66,7 +66,7 @@ friends:
 #开启——
 aboutme: 小龙少，年二十有二。始从文，连考而不中。遂习武，练武场上发一矢，中鼓吏，逐之出。改学IT，自撰一函数，用之，堆栈溢出。
 
-#是否开启搜索
+#是否开启搜索(使用Swiftype Search)
 #true or false
 search: true
 
