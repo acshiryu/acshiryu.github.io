@@ -15,7 +15,7 @@ timezone:
 url: http://acshiryu.github.io/
 root: /
 permalink: posts/:category/:year-:month-:day-:title.html
-permalink_defaults: /404
+permalink_defaults: /404.html
 
 # Directory
 source_dir: source
