@@ -8,7 +8,7 @@ menu:
 
 # SubNav
 subnav:
-  github: "https://github.com/acshiryu/acshiryu.github.io"
+  github: "https://github.com/acshiryu/"
   weibo: "http://weibo.com/acshiryu"
   rss: "/atom.xml"
   #zhihu: "#"
@@ -49,8 +49,8 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  逗逼疯: http://wangwenfeng.com/
-  Gavin: http://ligavin.net/
+  weibo: "http://weibo.com/acshiryu"
+  github: "https://github.com/acshiryu/"
 
 
 #是否开启“关于我”。
