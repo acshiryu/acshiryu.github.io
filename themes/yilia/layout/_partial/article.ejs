@@ -24,6 +24,9 @@
       <% if (post.excerpt && index){ %>
         <%- post.excerpt %>
       <% } else { %>
+		<% if (page.path === "categories/index.html"){ %>
+			<%- partial('post/categories') %>
+		<% } %>
 	    <% if(!index && (post.toc !== false) && theme.toc.article){ %>
 		<div id="toc" class="toc-article">
 			<strong class="toc-title"><%= __('post.toc') %></strong>
