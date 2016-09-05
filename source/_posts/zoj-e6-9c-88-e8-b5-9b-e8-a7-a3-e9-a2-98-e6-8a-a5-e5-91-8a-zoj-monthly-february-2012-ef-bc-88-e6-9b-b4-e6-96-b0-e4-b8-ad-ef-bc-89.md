@@ -70,7 +70,7 @@ int main()
 }</pre>
 
 **D: Under Attack II(zoj3574)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">[ZOJ4596 Under Attack II解题报告](http://acshiryu.com/archives/868 "ZOJ4596 Under Attack II解题报告")</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">[ZOJ4596 Under Attack II解题报告](/archives/868 "ZOJ4596 Under Attack II解题报告")</font>
 
 **E: Under Attack III(zoj3575)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;等待更新......

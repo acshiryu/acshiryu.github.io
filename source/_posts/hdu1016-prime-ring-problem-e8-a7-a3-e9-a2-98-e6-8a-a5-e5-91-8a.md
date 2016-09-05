@@ -12,7 +12,7 @@ date: 2012-03-15 20:34:31
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=1016](http://acm.hdu.edu.cn/showproblem.php?pid=1016 "Prime Ring Problem")
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;直接DFS水过，没什么意思，对于DFS还不是很熟的可以参见我的另一篇文章([POJ1426 Find The Multiple 解题报告](http://acshiryu.com/archives/939 "POJ1426 Find The Multiple 解题报告"))，代码注释很详细，这里略去
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;直接DFS水过，没什么意思，对于DFS还不是很熟的可以参见我的另一篇文章([POJ1426 Find The Multiple 解题报告](/archives/939 "POJ1426 Find The Multiple 解题报告"))，代码注释很详细，这里略去
 [code lang="cpp"]
 #include&lt;iostream&gt;
 #include&lt;cstdio&gt;

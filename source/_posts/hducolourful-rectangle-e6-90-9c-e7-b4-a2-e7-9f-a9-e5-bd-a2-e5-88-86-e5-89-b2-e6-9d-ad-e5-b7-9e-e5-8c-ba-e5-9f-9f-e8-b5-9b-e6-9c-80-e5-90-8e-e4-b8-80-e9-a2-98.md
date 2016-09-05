@@ -13,7 +13,7 @@ date: 2012-09-23 17:24:58
 
 这题就是一个矩阵分割，因为之前做过USACO上类似的一题，所以最开始就看了这题
 
-矩阵分割，有多种情况，具体可以参考我的[USACO3.1.4 Shaping Regions 搜索+矩形切割](http://acshiryu.com/archives/1367 "USACO3.1.4 Shaping Regions 搜索+矩形切割")
+矩阵分割，有多种情况，具体可以参考我的[USACO3.1.4 Shaping Regions 搜索+矩形切割](/archives/1367 "USACO3.1.4 Shaping Regions 搜索+矩形切割")
 
 但这题略有不同，USACO上面是颜色覆盖，这里是颜色相加，所以对于相交的区域不能那个直接计算面积，还要继续递推直到最后一个矩形
 

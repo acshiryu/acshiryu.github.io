@@ -12,7 +12,7 @@ date: 2012-03-25 14:53:33
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=2222](http://acm.hdu.edu.cn/showproblem.php?pid=2222 "Keywords Search")
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AC自动机，直接套模版水过，模版地址：[http://acshiryu.com/archives/1044](http://acshiryu.com/archives/1044 "AC自动机 模版")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AC自动机，直接套模版水过，模版地址：[/archives/1044](/archives/1044 "AC自动机 模版")
 [code lang="cpp"]
 #include&lt;stdio.h&gt;
 #include&lt;string.h&gt;

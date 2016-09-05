@@ -11,12 +11,12 @@ date: 2012-09-21 17:20:37
 ---
 
 从题意中可得出两个递推关系：
-![](http://acshiryu.com/wp-content/uploads/2012/09/2971_13.png "2971_1")
+![](/wp-content/uploads/2012/09/2971_13.png "2971_1")
 
 要求Sn，显然这题是矩阵快速幂的问题，所以我们首先要将两个递推公式合并成一个只含有Sn递推的公式
 
 显然，第二个式子含有平方项，所以，首先我们要将第一式平方并带入Sn中
-![](http://acshiryu.com/wp-content/uploads/2012/09/2971_2.png "2971_2")
+![](/wp-content/uploads/2012/09/2971_2.png "2971_2")
 
 这样就可以运用矩阵快速幂求Sn了
 [code lang="cpp"]
