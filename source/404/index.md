@@ -1,0 +1,73 @@
+---
+title: 404 Not Found：该页无法显示
+toc: false
+comments: false
+date: 2016-09-05 22:53:13
+---
+<style type="text/css">
+	.article-header {
+		padding: 0;
+		padding-top: 26px;
+		border-left: none;
+		text-align: center;
+	}
+	.article-header:hover {
+		border-left: none;
+	}
+	.article-title {
+		font-size: 2.1em;
+	}
+	strong a {
+		color: #747474;
+	}
+	.article-meta {
+		display: none;
+	}
+	.share {
+		display: none;
+	}
+	.ds-meta {
+		display: none;
+	}
+	.player {
+		margin-left: -10px;
+	}
+	.sign {
+		text-align: right;
+		font-style: italic;
+	}
+  	#page-visit {
+		display: none;
+	}
+	.center {
+		text-align: center;
+		height: 2.5em;
+		font-weight: bold;
+	}
+	.article-entry hr {
+		margin: 0;
+	}
+	.pic {
+		text-align: center;
+		margin: 0;
+	}
+	.pic br {
+  		display: none;
+  	}
+	#container .article-info-post.article-info {
+  	display: none;
+  	}
+	#container .article .article-title {
+	padding: 0;
+	}
+</style>
+
+<hr>
+<div class="pic"><br><img src="/images/pal4-end.png" title="pal4-end"><br></div>
+
+<p class="center">很抱歉，您所访问的地址并不存在: </p>
+
+<p class="center"><a href="/">回主页</a> · <a href="/archives">所有文章</a> · <a href="/sgs">三国杀</a></p>
+
+
+<div style="text-align: center"><br>涛山阻绝秦帝船，汉宫彻夜捧金盘。<br>玉肌枉然生白骨，不如剑啸易水寒。<br> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="330" src="http://music.163.com/outchain/player?type=0&id=41830914&auto=0&height=500"></iframe><br></div>

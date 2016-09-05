@@ -14,7 +14,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://acshiryu.github.io/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: posts/:category/:year-:month-:day-:title.html
 permalink_defaults: /404.html
 
 # Directory
@@ -47,6 +47,13 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  不懂事系列: acm
+  读书笔记: notes
+  算法竞赛: acm
+  学习笔记: notes
+  学习资料: datas
+  游戏人生: games
+  转载分享: share
 tag_map:
 
 # Date / Time format
