@@ -1,9 +1,9 @@
 # Header
 menu:
   主页: /
-  文章分类: /categories
-  所有文章: /archives
-  三国杀: /sgs
+  分类: /categories
+  文章列表: /archives
+  三国闯关杀: /sgs
   # 随笔: /tags/随笔
 
 # SubNav
