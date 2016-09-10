@@ -1,11 +1,13 @@
 title: 6个变态的C语言Hello World程序
 toc: true
 tags:
-  - C语言
-  - 代码大赛
+  - cpp
+  - 程序
+  - 源代码
+  - 混乱
 categories:
   - 转载分享
-date: 2014-12-21 14:02:19
+date: 2016-09-10 14:02:19
 ---
 
 本文转载自：[http://coolshell.cn/articles/914.html](http://coolshell.cn/articles/914.html "6个变态的C语言Hello World程序") 作者：陈皓
@@ -15,7 +17,7 @@ date: 2014-12-21 14:02:19
 *   混乱C语言的源代码
 说明：前五个程序都可以在GCC下编译通过，只有最后一个需要动用C++的编译器g++才能编程通过。
 
-###hello1.c
+### hello1.c
 
 ``` c++
 #define _________ }
@@ -31,7 +33,7 @@ date: 2014-12-21 14:02:19
 _____
 ```
 <!--more-->
-###hello2.c
+### hello2.c
 
 ``` c++
 #include<stdio.h>
@@ -45,7 +47,7 @@ main(){
 }
 ```
 
-###hello3.c
+### hello3.c
 
 ``` c++
 #include<stdio.h>
@@ -64,7 +66,7 @@ main()
   x:_('l',c)y:_('\t',g)z:___(0x0)}
 ```
 
-###hello4.c
+### hello4.c
 
 ``` c++
 int n[]={0x48,
@@ -78,7 +80,7 @@ main(n){putchar
 (m++):exit(n++);}
 ```
 
-###hello5.c
+### hello5.c
 
 ``` c++
 main(){int i,n[]={(((1<<1)<<(1<<1)<<(1<<
@@ -111,7 +113,7 @@ main(){int i,n[]={(((1<<1)<<(1<<1)<<(1<<
 ))) + (1<<1)); i++) printf("%c",n[i]); }
 ```
 
-###hello6.c
+### hello6.c
 
 下面的程序只能由C++的编译器编译（比如：g++）
 ``` c++
