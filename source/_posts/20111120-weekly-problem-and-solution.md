@@ -6,7 +6,7 @@ tags:
   - 进制
 categories:
   - 算法竞赛
-date: 206-09-11 00:02:21
+date: 2016-09-11 00:02:21
 ---
 
 ## Problem A: 不服气的数字
@@ -17,7 +17,7 @@ date: 206-09-11 00:02:21
 
 如果要求取得数含有0,则答案为:$k+{(k-1)}k+(k-1)k^2+(k-1)k^3+...(k-1)k^{(n-1)}=k^n$（也可以看成k进制，直接得出答案）
 
-{% include_code 不服气的数字参考代码 lang:cpp 20111120WeeklyCode/A.cpp %}
+{% include_code 不服气的数字参考代码 lang:cpp 20111120/A.cpp %}
 
 &nbsp;
 
@@ -35,7 +35,7 @@ date: 206-09-11 00:02:21
 
 那么很明显，最多可参加的组数是$min(N/2,M,(M+N-K)/3)$
 
-{% include_code 运动会参考代码 lang:cpp 20111120WeeklyCode/B.cpp %}
+{% include_code 运动会参考代码 lang:cpp 20111120/B.cpp %}
 
 &nbsp;
 
@@ -43,7 +43,7 @@ date: 206-09-11 00:02:21
 
 明显 如果距离井口的距离小于A，则只需要1天，则明显答案是$\left\lfloor\frac{H-A}{A-B}\right\rfloor + 1$
 
-{% include_code 井底有一条蛇参考代码 lang:cpp 20111120WeeklyCode/C.cpp %}
+{% include_code 井底有一条蛇参考代码 lang:cpp 20111120/C.cpp %}
 
 &nbsp;
 
@@ -55,7 +55,7 @@ date: 206-09-11 00:02:21
 
 然后atoi函数把字符串转化为数字
 
-{% include_code 话说实验室加了块白板参考代码 lang:cpp 20111120WeeklyCode/D.cpp %}
+{% include_code 话说实验室加了块白板参考代码 lang:cpp 20111120/D.cpp %}
 
 &nbsp;
 
@@ -65,16 +65,16 @@ date: 206-09-11 00:02:21
 
 注意不能用浮点数 有精度损失，用字符串代替小数的输入
 
-{% include_code 选卡片参考代码 lang:cpp 20111120WeeklyCode/E.cpp %}
+{% include_code 选卡片参考代码 lang:cpp 20111120/E.cpp %}
 
 &nbsp;
 
 ## 参考资料
 
-比赛题目: [Problem.doc](/assets/code/20111120WeeklyCode/Problem.doc)
+比赛题目: [Problem.doc](/assets/code/20111120/Problem.doc)
 
-比赛题解: [Solution.doc](/assets/code/20111120WeeklyCode/Solution.doc)
+比赛题解: [Solution.doc](/assets/code/20111120/Solution.doc)
 
 ## 讲题课件
 
-简单数学题：[Mathematics.ppt](/assets/code/20111120WeeklyCode/Mathematics.ppt)
+简单数学题：[Mathematics.ppt](/assets/code/20111120/Mathematics.ppt)
