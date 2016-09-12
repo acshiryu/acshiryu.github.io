@@ -1,37 +1,37 @@
 /*
-AC×Ô¶¯»úÄ£°æ£»
-Insert()½¨Ê÷£»
-build_ac_automation()¹¹ÔìÊ§°ÜÖ¸Õë£»
-query()²éÑ¯£»
+ACè‡ªåŠ¨æœºæ¨¡ç‰ˆï¼›
+Insert()å»ºæ ‘ï¼›
+build_ac_automation()æ„é€ å¤±è´¥æŒ‡é’ˆï¼›
+query()æŸ¥è¯¢ï¼›
 */
 
 #include<stdio.h>
 #include<string.h>
 
-const int kind = 26; //×Ö·ûÖÖÀà 
+const int kind = 26; //å­—ç¬¦ç§ç±» 
 
-struct node{ //TireÊ÷½Úµã½á¹¹ 
-    node *fail; //Ê§°ÜÖ¸Õë 
-    node *next[kind]; //TireÃ¿¸ö½ÚµãµÄ×Ó½Úµã 
-    int count; //ÒÑµ±Ç°½ÚµãÎªµ¥´Ê½áÎ²µÄ¸öÊı 
-    node(){ //¹¹Ôìº¯Êı 
+struct node{ //Tireæ ‘èŠ‚ç‚¹ç»“æ„ 
+    node *fail; //å¤±è´¥æŒ‡é’ˆ 
+    node *next[kind]; //Tireæ¯ä¸ªèŠ‚ç‚¹çš„å­èŠ‚ç‚¹ 
+    int count; //å·²å½“å‰èŠ‚ç‚¹ä¸ºå•è¯ç»“å°¾çš„ä¸ªæ•° 
+    node(){ //æ„é€ å‡½æ•° 
         fail = NULL;
         count = 0;
         memset(next, 0, sizeof(next));
     }
-}*que[1000000]; //¶ÓÁĞ 
+}*que[1000000]; //é˜Ÿåˆ— 
 
-char key_word[100]; //Ä¿µÄ´® 
-char str[10000000]; //Ä£Ê½´® 
+char key_word[100]; //ç›®çš„ä¸² 
+char str[10000000]; //æ¨¡å¼ä¸² 
 
-int front, rear; //¶ÓÁĞµÄÍ·Î² 
+int front, rear; //é˜Ÿåˆ—çš„å¤´å°¾ 
 
-void  insert(char *str, node *root){ //°Ñµ¥´Ê¼ÓÈëTireÖĞ 
+void  insert(char *str, node *root){ //æŠŠå•è¯åŠ å…¥Tireä¸­ 
     node *p = root;
     int i = 0;
     int index;
 
-    while(str[i]){ //½«Ã¿¸ö×ÖÄ¸¼ÓÈëµ½TireÊ÷ÖĞ 
+    while(str[i]){ //å°†æ¯ä¸ªå­—æ¯åŠ å…¥åˆ°Tireæ ‘ä¸­ 
         index = str[i] - 'a';
         if(p->next[index] == NULL){
             p->next[index] = new node();
@@ -39,16 +39,16 @@ void  insert(char *str, node *root){ //°Ñµ¥´Ê¼ÓÈëTireÖĞ
         p = p->next[index];
         i++;
     }
-    p->count++; //ÔÚµ¥´ÊµÄ×îºóÒ»¸ö½Úµãcount++£¬´ú±íÒ»¸öµ¥´Ê
+    p->count++; //åœ¨å•è¯çš„æœ€åä¸€ä¸ªèŠ‚ç‚¹count++ï¼Œä»£è¡¨ä¸€ä¸ªå•è¯
 }
 
-/*ÉèÕâ¸ö½ÚµãÉÏµÄ×ÖÄ¸ÎªC£¬ÑØ×ÅËû¸¸Ç×µÄÊ§°ÜÖ¸Õë×ß£¬Ö±µ½×ßµ½Ò»¸ö½Úµã£¬ËûµÄ¶ù×ÓÖĞÒ²ÓĞ×ÖÄ¸ÎªCµÄ½Úµã¡£È»ºó°Ñµ±Ç°½ÚµãµÄÊ§°ÜÖ¸ÕëÖ¸ÏòÄÇ¸ö×ÖÄ¸Ò²ÎªCµÄ¶ù×Ó¡£Èç¹ûÒ»Ö±×ßµ½ÁËroot¶¼Ã»ÕÒµ½£¬ÄÇ¾Í°ÑÊ§°ÜÖ¸ÕëÖ¸Ïòroot¡£*/
-void build_ac_automation(node *root){ //¹¹ÔìÊ§°ÜÖ¸Õë 
+/*è®¾è¿™ä¸ªèŠ‚ç‚¹ä¸Šçš„å­—æ¯ä¸ºCï¼Œæ²¿ç€ä»–çˆ¶äº²çš„å¤±è´¥æŒ‡é’ˆèµ°ï¼Œç›´åˆ°èµ°åˆ°ä¸€ä¸ªèŠ‚ç‚¹ï¼Œä»–çš„å„¿å­ä¸­ä¹Ÿæœ‰å­—æ¯ä¸ºCçš„èŠ‚ç‚¹ã€‚ç„¶åæŠŠå½“å‰èŠ‚ç‚¹çš„å¤±è´¥æŒ‡é’ˆæŒ‡å‘é‚£ä¸ªå­—æ¯ä¹Ÿä¸ºCçš„å„¿å­ã€‚å¦‚æœä¸€ç›´èµ°åˆ°äº†rootéƒ½æ²¡æ‰¾åˆ°ï¼Œé‚£å°±æŠŠå¤±è´¥æŒ‡é’ˆæŒ‡å‘rootã€‚*/
+void build_ac_automation(node *root){ //æ„é€ å¤±è´¥æŒ‡é’ˆ 
     int i;
 
     root->fail = NULL;
     que[rear++] = root;
-    while(front < rear){//¶ÓÁĞ 
+    while(front < rear){//é˜Ÿåˆ— 
         node *temp = que[front];
         node *p = NULL;
         for(i = 0; i < 26; ++i){
@@ -74,7 +74,7 @@ void build_ac_automation(node *root){ //¹¹ÔìÊ§°ÜÖ¸Õë
     }
 }
 
-//¸ù¾İ¾ßÌåÌâÄ¿£¬ÖØĞ´²éÑ¯·½·¨
+//æ ¹æ®å…·ä½“é¢˜ç›®ï¼Œé‡å†™æŸ¥è¯¢æ–¹æ³•
 int query(node *root, char *str){
     int i = 0, cnt = 0;
     int index;
@@ -99,7 +99,7 @@ int query(node *root, char *str){
     return cnt;
 }
 
-//Ó¦ÓÃ¾ÙÀı£¬hdu2222
+//åº”ç”¨ä¸¾ä¾‹ï¼Œhdu2222
 int main()
 {
 	int T;
