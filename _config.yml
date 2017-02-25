@@ -47,7 +47,6 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
-  读书笔记: notes
   算法竞赛: acm
   学习笔记: notes
   学习资料: datas
