@@ -6,7 +6,7 @@ tags:
  - 归并排序
  - 逆序对
 categories:
- - 不懂事系列
+ - 算法竞赛
 ---
 原题地址：[ZOJ3574 Under Attack II](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemId=4596)
 题目大意就是给出一个y无限的矩形区域，他的左边界在x=a,又边界x=b，求，现在给出n条直线，把这个矩形区域分成多少份？

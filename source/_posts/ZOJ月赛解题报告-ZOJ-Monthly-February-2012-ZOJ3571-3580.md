@@ -9,7 +9,7 @@ tags:
  - 数据结构
  - 矩阵
 categories:
- - 不懂事系列
+ - 算法竞赛
 ---
 ### A: Good Rectangle(zoj3571)
 等待更新......

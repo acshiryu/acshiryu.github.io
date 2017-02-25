@@ -1,13 +1,10 @@
-title: HDU4162 Shape Number 解题报告
+title: hdu4162 Shape Number 解题报告
 toc: true
 tags:
-  - 串的最小表示
   - 后缀数组
   - 数据结构
   - 旋转
-  - 暴力
   - 枚举
-  - 题解
 categories:
   - 算法竞赛
 id: 830
