@@ -89,19 +89,23 @@ date: 2013-08-21 14:21:00
 	</tr> 
 	<tr>
 		<td>(extra)[UVa10163](http://uva.onlinejudge.org/external/101/10163.html)</td>
-		<td>Storage Keepers</td>		
+		<td>Storage Keepers</td>	
+		<td></td>
 	</tr> 
 	<tr>
 		<td>(extra)[UVa10453](http://uva.onlinejudge.org/external/104/10453.html)</td>
-		<td>Make Palindrome</td>		
+		<td>Make Palindrome</td>
+		<td></td>
 	</tr> 
 	<tr>
 		<td><tt>*</tt>(extra)UVa10254</td>
 		<td>The Priest Mathematician</td>
+		<td></td>
 	</tr> 
 	<tr>
 		<td><tt>**</tt>(extra)UVa437</td>
 		<td>The Tower of Babylon</td>
+		<td></td>
 	</tr> 
 	<tr>
 		<td><tt>**</tt>(extra)UVa442</td>
@@ -116,10 +120,12 @@ date: 2013-08-21 14:21:00
 	<tr>
 		<td><tt>**</tt>(extra)UVa590</td>
 		<td>Always on the Run</td>
+		<td></td>
 	</tr> 
 	<tr>
 		<td><tt>**</tt>(extra)UVa607</td>
 		<td>Scheduling Lectures</td>
+		<td></td>
 	</tr> 
 	<tr>
 		<td><tt>**</tt>(extra)UVa662</td>
@@ -129,6 +135,7 @@ date: 2013-08-21 14:21:00
 	<tr>
 		<td><tt>**</tt>(extra)UVa672</td>
 		<td>Gangsters</td>
+		<td></td>
 	</tr> 
 </table>
 
@@ -152,6 +159,7 @@ date: 2013-08-21 14:21:00
     <tr>
         <td>[LA4490](http://livearchive.onlinejudge.org/external/44/4490.html)</td>
         <td>Help Bubu</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[UVa11600](http://uva.onlinejudge.org/external/116/11600.html)</td>
@@ -161,18 +169,22 @@ date: 2013-08-21 14:21:00
     <tr>
         <td>[LA4987](http://livearchive.onlinejudge.org/external/49/4987.html)</td>
         <td>Evacuation Plan</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA4613](http://livearchive.onlinejudge.org/external/46/4613.html)</td>
         <td>Mountain Road</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA4614](http://livearchive.onlinejudge.org/external/46/4614.html)</td>
         <td>Moving to Nuremberg</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA4050](http://livearchive.onlinejudge.org/external/40/4050.html)</td>
         <td>Hanoi Towers</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA3305](http://livearchive.onlinejudge.org/external/33/3305.html)</td>
@@ -192,10 +204,12 @@ date: 2013-08-21 14:21:00
     <tr>
         <td>[LA3605](http://livearchive.onlinejudge.org/external/36/3605.html)</td>
         <td>Roommate</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA3608](http://livearchive.onlinejudge.org/external/36/3608.html)</td>
         <td>Period</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA3610](http://livearchive.onlinejudge.org/external/36/3610.html)</td>
@@ -210,6 +224,7 @@ date: 2013-08-21 14:21:00
     <tr>
         <td>[LA3132](http://livearchive.onlinejudge.org/external/31/3132.html)</td>
         <td>Minimax Triangulation</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA3710](http://livearchive.onlinejudge.org/external/37/3710.html)</td>
@@ -233,63 +248,78 @@ date: 2013-08-21 14:21:00
     </tr> 
     <tr>
         <td>(extra)[UVa10239](http://uva.onlinejudge.org/external/102/10239.html)</td>
-        <td>The Book-shelver&#x27;s Problem</td>        
+        <td>The Book-shelver&#x27;s Problem</td> 
+		<td></td>		
     </tr> 
     <tr>
         <td>(extra)[UVa10271](http://uva.onlinejudge.org/external/102/10271.html)</td>
-        <td>Chopsticks</td>        
+        <td>Chopsticks</td> 
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa10304](http://uva.onlinejudge.org/external/103/10304.html)</td>
-        <td>Optimal Binary Search Tree</td>        
+        <td>Optimal Binary Search Tree</td>     
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa10599](http://uva.onlinejudge.org/external/105/10599.html)</td>
-        <td>Robots(II)</td>        
+        <td>Robots(II)</td>      
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa10604](http://uva.onlinejudge.org/external/106/10604.html)</td>
-        <td>Chemical Reaction</td>        
+        <td>Chemical Reaction</td>  
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa10618](http://uva.onlinejudge.org/external/106/10618.html)</td>
-        <td>Tango Tango Insurrection</td>        
+        <td>Tango Tango Insurrection</td>     
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa10641](http://uva.onlinejudge.org/external/106/10641.html)</td>
-        <td>Barisal Stadium</td>        
+        <td>Barisal Stadium</td>  
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa10671](http://uva.onlinejudge.org/external/106/10671.html)</td>
-        <td>Grid Speed</td>        
+        <td>Grid Speed</td>
+		<td></td> 
     </tr> 
     <tr>
         <td>(extra)[UVa10688](http://uva.onlinejudge.org/external/106/10688.html)</td>
-        <td>The Poor Giant</td>        
+        <td>The Poor Giant</td>  
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa11263](http://uva.onlinejudge.org/external/112/11263.html)</td>
-        <td>Nested Rectangles</td>        
+        <td>Nested Rectangles</td>   
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa11400](http://uva.onlinejudge.org/external/114/11400.html)</td>
-        <td>Lighting System Design</td>        
+        <td>Lighting System Design</td>    
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa11578](http://uva.onlinejudge.org/external/115/11578.html)</td>
-        <td>Situp Benches</td>        
+        <td>Situp Benches</td>  
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa11691](http://uva.onlinejudge.org/external/116/11691.html)</td>
-        <td>Allergy Test</td>        
+        <td>Allergy Test</td>   
+		<td></td>  
     </tr> 
     <tr>
         <td>(extra)[UVa11766](http://uva.onlinejudge.org/external/117/11766.html)</td>
-        <td>Racing Car Computer</td>        
+        <td>Racing Car Computer</td>     
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa12002](http://uva.onlinejudge.org/external/120/12002.html)</td>
-        <td>Happy Birthday</td>        
+        <td>Happy Birthday</td>    
+		<td></td>
     </tr> 
     <tr>
         <td><tt>*</tt>(extra)UVa10723</td>
@@ -314,18 +344,22 @@ date: 2013-08-21 14:21:00
     <tr>
         <td><tt>*</tt>(extra)UVa11456</td>
         <td>Trainsorting</td>
+		<td></td>
     </tr> 
     <tr>
         <td><tt>*</tt>(extra)UVa11782</td>
         <td>Optimal Cut</td>
+		<td></td>
     </tr> 
     <tr>
         <td><tt>**</tt>(extra)LA2096</td>
         <td>Taekwondo</td>
+		<td></td>
     </tr> 
     <tr>
         <td><tt>**</tt>(extra)LA2151</td>
         <td>Telescope</td>
+		<td></td>
     </tr> 
 </table>
 
@@ -339,6 +373,7 @@ date: 2013-08-21 14:21:00
     <tr>
         <td>[LA4593](http://livearchive.onlinejudge.org/external/45/4593.html)</td>
         <td>Exclusive Access 2</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA4048](http://livearchive.onlinejudge.org/external/40/4048.html)</td>
@@ -348,6 +383,7 @@ date: 2013-08-21 14:21:00
     <tr>
         <td>[LA4625](http://livearchive.onlinejudge.org/external/46/4625.html)</td>
         <td>Garlands</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA3683](http://livearchive.onlinejudge.org/external/36/3683.html)</td>
@@ -382,6 +418,7 @@ date: 2013-08-21 14:21:00
     <tr>
         <td>[LA2923](http://livearchive.onlinejudge.org/external/29/2923.html)</td>
         <td>Bundling</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA2930](http://livearchive.onlinejudge.org/external/29/2930.html)</td>
@@ -391,6 +428,7 @@ date: 2013-08-21 14:21:00
     <tr>
         <td>[LA3181](http://livearchive.onlinejudge.org/external/31/3181.html)</td>
         <td>Fixing the Great Wall</td>
+		<td></td>
     </tr> 
     <tr>
         <td>[LA4290](http://livearchive.onlinejudge.org/external/42/4290.html)</td>
@@ -414,23 +452,28 @@ date: 2013-08-21 14:21:00
     </tr> 
     <tr>
         <td>(extra)[UVa10949](http://uva.onlinejudge.org/external/109/10949.html)</td>
-        <td>Kids in a Grid</td>        
+        <td>Kids in a Grid</td>    
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa11193](http://uva.onlinejudge.org/external/111/11193.html)</td>
-        <td>Infinix</td>        
+        <td>Infinix</td>   
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa11194](http://uva.onlinejudge.org/external/111/11194.html)</td>
-        <td>Stone Grid</td>        
+        <td>Stone Grid</td>  
+		<td></td>
     </tr> 
     <tr>
         <td>(extra)[UVa11810](http://uva.onlinejudge.org/external/118/11810.html)</td>
-        <td>Gentle ping, to the old King</td>        
+        <td>Gentle ping, to the old King</td> 
+		<td></td>
     </tr> 
     <tr>
         <td><tt>*</tt>(extra)UVa11171</td>
         <td>SMS</td>
+		<td></td>
     </tr> 
     <tr>
         <td><tt>*</tt>(extra)UVa11435</td>
@@ -440,6 +483,7 @@ date: 2013-08-21 14:21:00
     <tr>
         <td><tt>*</tt>(extra)UVa11502</td>
         <td>Rocket Stages</td>
+		<td></td>
     </tr> 
     <tr>
         <td><tt>*</tt>(extra)UVa11750</td>
@@ -449,5 +493,6 @@ date: 2013-08-21 14:21:00
     <tr>
         <td><tt>*</tt>(extra)UVa11803</td>
         <td>The Great Merge</td>
+		<td></td>
     </tr> 
 </table>
