@@ -54,6 +54,8 @@ category_map:
   转载分享: share
   模板编程: template
 tag_map:
+  动态规划: dp
+  算法竞赛入门经典训练指南: acm-training-guide
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -92,3 +94,9 @@ admin:
   username: acshiryu
   password_hash: $2a$10$EmIQDgIaLVgRMIFE.wC7T.Q.b4EnMa/2LQ50LvLAkInT5TYfM9RX.
   secret: acshiryu.github.io.git
+  
+# 似乎hexo对表格支持不好。 · Issue #1388 · hexojs/hexo · GitHub
+## Links:https://github.com/hexojs/hexo/issues/1388
+marked:
+  gfm: true
+  breaks: false

@@ -1,25 +1,453 @@
 title: 《算法竞赛入门经典训练指南》动态规划习题1
 toc: true
 tags:
-  - DP
+  - 算法竞赛入门经典训练指南
   - 动态规划
-  - 小结与习题
 categories:
-  - 学习笔记
+  - 算法竞赛
 id: 1996
-date: 2013-08-21 14:21:15
+date: 2013-08-21 14:21:00
 ---
-
 # 动态规划习题(1)
 
-## <a name="入门习题_（Exercises:_Beginner）"></a>入门习题 （Exercises: Beginner）[](#入门习题_（Exercises:_Beginner）)
+## 入门习题 (Exercises: Beginner)
+<table>
+	<tr>
+		<td>[UVa11584](http://uva.onlinejudge.org/external/115/11584.html)</td>
+		<td>Partitioning by Palindromes</td>
+		<td>入门题目</td>
+	</tr> 
+	<tr>
+		<td>[LA4256](http://livearchive.onlinejudge.org/external/42/4256.html)</td>
+		<td>Salesman</td>
+		<td>入门题目</td>
+	</tr> 
+	<tr>
+		<td>[UVa10534](http://uva.onlinejudge.org/external/105/10534.html)</td>
+		<td>Wavio Sequence</td>
+		<td>可以转化为经典问题，时间O(nlogn)</td>
+	</tr> 
+	<tr>
+		<td>[UVa11552](http://uva.onlinejudge.org/external/115/11552.html)</td>
+		<td>Fewest Flops</td>
+		<td>序列划分模型；状态设计</td>
+	</tr> 
+	<tr>
+		<td>[UVa11404](http://uva.onlinejudge.org/external/114/11404.html)</td>
+		<td>Palindromic Subsequence</td>
+		<td>可以转化为LCS</td>
+	</tr> 
+	<tr>
+		<td>[LA4731](http://livearchive.onlinejudge.org/external/47/4731.html)</td>
+		<td>Cellular Network</td>
+		<td>需要一点概率知识和推理</td>
+	</tr> 
+	<tr>
+		<td>[UVa11795](http://uva.onlinejudge.org/external/117/11795.html)</td>
+		<td>Mega Man&#x27;s Missions</td>
+		<td>基础的集合动态规划</td>
+	</tr> 
+	<tr>
+		<td>[LA4727](http://livearchive.onlinejudge.org/external/47/4727.html)</td>
+		<td>Jump</td>
+		<td>Joseph问题的变形</td>
+	</tr> 
+	<tr>
+		<td>[LA3530](http://livearchive.onlinejudge.org/external/35/3530.html)</td>
+		<td>Martian Mining</td>
+		<td>模型简单，但需要减少重复计算</td>
+	</tr> 
+	<tr>
+		<td>[UVa10564](http://uva.onlinejudge.org/external/105/10564.html)</td>
+		<td>Paths through the Hourglass</td>
+		<td>类似01 背包问题</td>
+	</tr> 
+	<tr>
+		<td>[UVa10817](http://uva.onlinejudge.org/external/108/10817.html)</td>
+		<td>Headmaster&#x27;s Headache</td>
+		<td>集合动态规划</td>
+	</tr> 
+	<tr>
+		<td>[LA2038](http://livearchive.onlinejudge.org/external/20/2038.html)</td>
+		<td>Strategic Game</td>
+		<td>树上动态规划（基础题）</td>
+	</tr> 
+	<tr>
+		<td>[LA3363](http://livearchive.onlinejudge.org/external/33/3363.html)</td>
+		<td>String Compression</td>
+		<td>字符串动态规划</td>
+	</tr> 
+	<tr>
+		<td>[LA2031](http://livearchive.onlinejudge.org/external/20/2031.html)</td>
+		<td>Dance Dance Revolution</td>
+		<td>以跳舞机为背景的题目</td>
+	</tr> 
+	<tr>
+		<td>[LA4643](http://livearchive.onlinejudge.org/external/46/4643.html)</td>
+		<td>Twenty Questions</td>
+		<td>有趣的问题；比较基础的动态规划</td>
+	</tr> 
+	<tr>
+		<td>(extra)[UVa10163](http://uva.onlinejudge.org/external/101/10163.html)</td>
+		<td>Storage Keepers</td>		
+	</tr> 
+	<tr>
+		<td>(extra)[UVa10453](http://uva.onlinejudge.org/external/104/10453.html)</td>
+		<td>Make Palindrome</td>		
+	</tr> 
+	<tr>
+		<td><tt>*</tt>(extra)UVa10254</td>
+		<td>The Priest Mathematician</td>
+	</tr> 
+	<tr>
+		<td><tt>**</tt>(extra)UVa437</td>
+		<td>The Tower of Babylon</td>
+	</tr> 
+	<tr>
+		<td><tt>**</tt>(extra)UVa442</td>
+		<td>Matrix Chain Multiplication</td>
+		<td>最优矩阵乘法</td>
+	</tr> 
+	<tr>
+		<td><tt>**</tt>(extra)UVa473</td>
+		<td>Raucous Rockers</td>
+		<td>可以优化</td>
+	</tr> 
+	<tr>
+		<td><tt>**</tt>(extra)UVa590</td>
+		<td>Always on the Run</td>
+	</tr> 
+	<tr>
+		<td><tt>**</tt>(extra)UVa607</td>
+		<td>Scheduling Lectures</td>
+	</tr> 
+	<tr>
+		<td><tt>**</tt>(extra)UVa662</td>
+		<td>Fast Food</td>
+		<td>可以优化</td>
+	</tr> 
+	<tr>
+		<td><tt>**</tt>(extra)UVa672</td>
+		<td>Gangsters</td>
+	</tr> 
+</table>
 
-<table class="wikitable"><tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa11584](http://uva.onlinejudge.org/external/115/11584.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Partitioning by Palindromes</td><td style="border: 1px solid #ccc; padding: 5px;">入门题目</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4256](http://livearchive.onlinejudge.org/external/42/4256.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Salesman</td><td style="border: 1px solid #ccc; padding: 5px;">入门题目</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa10534](http://uva.onlinejudge.org/external/105/10534.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Wavio Sequence</td><td style="border: 1px solid #ccc; padding: 5px;">可以转化为经典问题，时间O(nlogn)</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa11552](http://uva.onlinejudge.org/external/115/11552.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Fewest Flops</td><td style="border: 1px solid #ccc; padding: 5px;">序列划分模型；状态设计</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa11404](http://uva.onlinejudge.org/external/114/11404.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Palindromic Subsequence</td><td style="border: 1px solid #ccc; padding: 5px;">可以转化为LCS</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4731](http://livearchive.onlinejudge.org/external/47/4731.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Cellular Network</td><td style="border: 1px solid #ccc; padding: 5px;">需要一点概率知识和推理</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa11795](http://uva.onlinejudge.org/external/117/11795.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Mega Man&#x27;s Missions</td><td style="border: 1px solid #ccc; padding: 5px;">基础的集合动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4727](http://livearchive.onlinejudge.org/external/47/4727.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Jump</td><td style="border: 1px solid #ccc; padding: 5px;">Joseph问题的变形</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3530](http://livearchive.onlinejudge.org/external/35/3530.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Martian Mining</td><td style="border: 1px solid #ccc; padding: 5px;">模型简单，但需要减少重复计算</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa10564](http://uva.onlinejudge.org/external/105/10564.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Paths through the Hourglass</td><td style="border: 1px solid #ccc; padding: 5px;">类似01 背包问题</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa10817](http://uva.onlinejudge.org/external/108/10817.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Headmaster&#x27;s Headache</td><td style="border: 1px solid #ccc; padding: 5px;">集合动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA2038](http://livearchive.onlinejudge.org/external/20/2038.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Strategic Game</td><td style="border: 1px solid #ccc; padding: 5px;">树上动态规划（基础题）</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3363](http://livearchive.onlinejudge.org/external/33/3363.html)</td><td style="border: 1px solid #ccc; padding: 5px;">String Compression</td><td style="border: 1px solid #ccc; padding: 5px;">字符串动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA2031](http://livearchive.onlinejudge.org/external/20/2031.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Dance Dance Revolution</td><td style="border: 1px solid #ccc; padding: 5px;">以跳舞机为背景的题目</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4643](http://livearchive.onlinejudge.org/external/46/4643.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Twenty Questions</td><td style="border: 1px solid #ccc; padding: 5px;">有趣的问题；比较基础的动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10163](http://uva.onlinejudge.org/external/101/10163.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Storage Keepers</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10453](http://uva.onlinejudge.org/external/104/10453.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Make Palindrome</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa10254</td><td style="border: 1px solid #ccc; padding: 5px;">The Priest Mathematician</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>**</tt>(extra)UVa437</td><td style="border: 1px solid #ccc; padding: 5px;">The Tower of Babylon</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>**</tt>(extra)UVa442</td><td style="border: 1px solid #ccc; padding: 5px;">Matrix Chain Multiplication</td><td style="border: 1px solid #ccc; padding: 5px;">最优矩阵乘法</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>**</tt>(extra)UVa473</td><td style="border: 1px solid #ccc; padding: 5px;">Raucous Rockers</td><td style="border: 1px solid #ccc; padding: 5px;">可以优化</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>**</tt>(extra)UVa590</td><td style="border: 1px solid #ccc; padding: 5px;">Always on the Run</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>**</tt>(extra)UVa607</td><td style="border: 1px solid #ccc; padding: 5px;">Scheduling Lectures</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>**</tt>(extra)UVa662</td><td style="border: 1px solid #ccc; padding: 5px;">Fast Food</td><td style="border: 1px solid #ccc; padding: 5px;">可以优化</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>**</tt>(extra)UVa672</td><td style="border: 1px solid #ccc; padding: 5px;">Gangsters</td></tr> </table>
+## 中级习题 (Exercises：Intermediate)
+<table>
+    <tr>
+        <td>[LA4945](http://livearchive.onlinejudge.org/external/49/4945.html)</td>
+        <td>Free Goodies</td>
+        <td>也可以贪心，时间效率更高</td>
+    </tr>
+    <tr>
+        <td>[LA4327](http://livearchive.onlinejudge.org/external/43/4327.html)</td>
+        <td>Parade</td>
+        <td>模型不难想，但需要优化</td>
+    </tr> 
+    <tr>
+        <td>[LA4015](http://livearchive.onlinejudge.org/external/40/4015.html)</td>
+        <td>Cave</td>
+        <td>树的动态规划</td>
+    </tr> 
+    <tr>
+        <td>[LA4490](http://livearchive.onlinejudge.org/external/44/4490.html)</td>
+        <td>Help Bubu</td>
+    </tr> 
+    <tr>
+        <td>[UVa11600](http://uva.onlinejudge.org/external/116/11600.html)</td>
+        <td>Masud Rana</td>
+        <td>注意状态表示</td>
+    </tr> 
+    <tr>
+        <td>[LA4987](http://livearchive.onlinejudge.org/external/49/4987.html)</td>
+        <td>Evacuation Plan</td>
+    </tr> 
+    <tr>
+        <td>[LA4613](http://livearchive.onlinejudge.org/external/46/4613.html)</td>
+        <td>Mountain Road</td>
+    </tr> 
+    <tr>
+        <td>[LA4614](http://livearchive.onlinejudge.org/external/46/4614.html)</td>
+        <td>Moving to Nuremberg</td>
+    </tr> 
+    <tr>
+        <td>[LA4050](http://livearchive.onlinejudge.org/external/40/4050.html)</td>
+        <td>Hanoi Towers</td>
+    </tr> 
+    <tr>
+        <td>[LA3305](http://livearchive.onlinejudge.org/external/33/3305.html)</td>
+        <td>Tour</td>
+        <td>经典问题</td>
+    </tr> 
+    <tr>
+        <td>[LA3412](http://livearchive.onlinejudge.org/external/34/3412.html)</td>
+        <td>Pesky Heroes</td>
+        <td>树的动态规划（题目不太好理解）</td>
+    </tr> 
+    <tr>
+        <td>[LA3679](http://livearchive.onlinejudge.org/external/36/3679.html)</td>
+        <td>Pitcher Rotation</td>
+        <td>需要一点优化（精简状态）</td>
+    </tr> 
+    <tr>
+        <td>[LA3605](http://livearchive.onlinejudge.org/external/36/3605.html)</td>
+        <td>Roommate</td>
+    </tr> 
+    <tr>
+        <td>[LA3608](http://livearchive.onlinejudge.org/external/36/3608.html)</td>
+        <td>Period</td>
+    </tr> 
+    <tr>
+        <td>[LA3610](http://livearchive.onlinejudge.org/external/36/3610.html)</td>
+        <td>Log Jumping</td>
+        <td>可以转化为经典问题</td>
+    </tr> 
+    <tr>
+        <td>[LA2221](http://livearchive.onlinejudge.org/external/22/2221.html)</td>
+        <td>Frontier</td>
+        <td>涉及到几何（见第四章）的动态规划</td>
+    </tr> 
+    <tr>
+        <td>[LA3132](http://livearchive.onlinejudge.org/external/31/3132.html)</td>
+        <td>Minimax Triangulation</td>
+    </tr> 
+    <tr>
+        <td>[LA3710](http://livearchive.onlinejudge.org/external/37/3710.html)</td>
+        <td>Interconnect</td>
+        <td>注意状态表示</td>
+    </tr> 
+    <tr>
+        <td>[LA5088](http://livearchive.onlinejudge.org/external/50/5088.html)</td>
+        <td>Alice and Bob&#x27;s Trip</td>
+        <td>树上的动态规划</td>
+    </tr> 
+    <tr>
+        <td>[LA3782](http://livearchive.onlinejudge.org/external/37/3782.html)</td>
+        <td>Bigger is Better</td>
+        <td>有多种方法。可以不用高精度</td>
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10003](http://uva.onlinejudge.org/external/100/10003.html)</td>
+        <td>Cutting Sticks</td>
+        <td>经典的动态规划题目。可以用四边形不等式优化</td>
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10239](http://uva.onlinejudge.org/external/102/10239.html)</td>
+        <td>The Book-shelver&#x27;s Problem</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10271](http://uva.onlinejudge.org/external/102/10271.html)</td>
+        <td>Chopsticks</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10304](http://uva.onlinejudge.org/external/103/10304.html)</td>
+        <td>Optimal Binary Search Tree</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10599](http://uva.onlinejudge.org/external/105/10599.html)</td>
+        <td>Robots(II)</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10604](http://uva.onlinejudge.org/external/106/10604.html)</td>
+        <td>Chemical Reaction</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10618](http://uva.onlinejudge.org/external/106/10618.html)</td>
+        <td>Tango Tango Insurrection</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10641](http://uva.onlinejudge.org/external/106/10641.html)</td>
+        <td>Barisal Stadium</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10671](http://uva.onlinejudge.org/external/106/10671.html)</td>
+        <td>Grid Speed</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10688](http://uva.onlinejudge.org/external/106/10688.html)</td>
+        <td>The Poor Giant</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa11263](http://uva.onlinejudge.org/external/112/11263.html)</td>
+        <td>Nested Rectangles</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa11400](http://uva.onlinejudge.org/external/114/11400.html)</td>
+        <td>Lighting System Design</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa11578](http://uva.onlinejudge.org/external/115/11578.html)</td>
+        <td>Situp Benches</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa11691](http://uva.onlinejudge.org/external/116/11691.html)</td>
+        <td>Allergy Test</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa11766](http://uva.onlinejudge.org/external/117/11766.html)</td>
+        <td>Racing Car Computer</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa12002](http://uva.onlinejudge.org/external/120/12002.html)</td>
+        <td>Happy Birthday</td>        
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa10723</td>
+        <td>Cyborg Genes</td>
+        <td>推荐</td>
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa10934</td>
+        <td>Dropping water</td>
+        <td>推荐</td>
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa10981</td>
+        <td>String Morphing</td>
+        <td>推荐</td>
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa11307</td>
+        <td>Alternative Arborescene</td>
+        <td>推荐</td>
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa11456</td>
+        <td>Trainsorting</td>
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa11782</td>
+        <td>Optimal Cut</td>
+    </tr> 
+    <tr>
+        <td><tt>**</tt>(extra)LA2096</td>
+        <td>Taekwondo</td>
+    </tr> 
+    <tr>
+        <td><tt>**</tt>(extra)LA2151</td>
+        <td>Telescope</td>
+    </tr> 
+</table>
 
-## <a name="中级习题_(Exercises：Intermediate)"></a>中级习题 (Exercises：Intermediate)[](#中级习题_(Exercises：Intermediate))
-
-<table class="wikitable"><tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4945](http://livearchive.onlinejudge.org/external/49/4945.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Free Goodies</td><td style="border: 1px solid #ccc; padding: 5px;">也可以贪心，时间效率更高</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4327](http://livearchive.onlinejudge.org/external/43/4327.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Parade</td><td style="border: 1px solid #ccc; padding: 5px;">模型不难想，但需要优化</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4015](http://livearchive.onlinejudge.org/external/40/4015.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Cave</td><td style="border: 1px solid #ccc; padding: 5px;">树的动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4490](http://livearchive.onlinejudge.org/external/44/4490.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Help Bubu</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa11600](http://uva.onlinejudge.org/external/116/11600.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Masud Rana</td><td style="border: 1px solid #ccc; padding: 5px;">注意状态表示</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4987](http://livearchive.onlinejudge.org/external/49/4987.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Evacuation Plan</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4613](http://livearchive.onlinejudge.org/external/46/4613.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Mountain Road</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4614](http://livearchive.onlinejudge.org/external/46/4614.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Moving to Nuremberg</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4050](http://livearchive.onlinejudge.org/external/40/4050.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Hanoi Towers</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3305](http://livearchive.onlinejudge.org/external/33/3305.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Tour</td><td style="border: 1px solid #ccc; padding: 5px;">经典问题</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3412](http://livearchive.onlinejudge.org/external/34/3412.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Pesky Heroes</td><td style="border: 1px solid #ccc; padding: 5px;">树的动态规划（题目不太好理解）</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3679](http://livearchive.onlinejudge.org/external/36/3679.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Pitcher Rotation</td><td style="border: 1px solid #ccc; padding: 5px;">需要一点优化（精简状态）</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3605](http://livearchive.onlinejudge.org/external/36/3605.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Roommate</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3608](http://livearchive.onlinejudge.org/external/36/3608.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Period</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3610](http://livearchive.onlinejudge.org/external/36/3610.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Log Jumping</td><td style="border: 1px solid #ccc; padding: 5px;">可以转化为经典问题</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA2221](http://livearchive.onlinejudge.org/external/22/2221.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Frontier</td><td style="border: 1px solid #ccc; padding: 5px;">涉及到几何（见第四章）的动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3132](http://livearchive.onlinejudge.org/external/31/3132.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Minimax Triangulation</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3710](http://livearchive.onlinejudge.org/external/37/3710.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Interconnect</td><td style="border: 1px solid #ccc; padding: 5px;">注意状态表示</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA5088](http://livearchive.onlinejudge.org/external/50/5088.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Alice and Bob&#x27;s Trip</td><td style="border: 1px solid #ccc; padding: 5px;">树上的动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3782](http://livearchive.onlinejudge.org/external/37/3782.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Bigger is Better</td><td style="border: 1px solid #ccc; padding: 5px;">有多种方法。可以不用高精度</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10003](http://uva.onlinejudge.org/external/100/10003.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Cutting Sticks</td><td style="border: 1px solid #ccc; padding: 5px;">经典的动态规划题目。可以用四边形不等式优化</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10239](http://uva.onlinejudge.org/external/102/10239.html)</td><td style="border: 1px solid #ccc; padding: 5px;">The Book-shelver&#x27;s Problem</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10271](http://uva.onlinejudge.org/external/102/10271.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Chopsticks</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10304](http://uva.onlinejudge.org/external/103/10304.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Optimal Binary Search Tree</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10599](http://uva.onlinejudge.org/external/105/10599.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Robots(II)</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10604](http://uva.onlinejudge.org/external/106/10604.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Chemical Reaction</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10618](http://uva.onlinejudge.org/external/106/10618.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Tango Tango Insurrection</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10641](http://uva.onlinejudge.org/external/106/10641.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Barisal Stadium</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10671](http://uva.onlinejudge.org/external/106/10671.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Grid Speed</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10688](http://uva.onlinejudge.org/external/106/10688.html)</td><td style="border: 1px solid #ccc; padding: 5px;">The Poor Giant</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa11263](http://uva.onlinejudge.org/external/112/11263.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Nested Rectangles</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa11400](http://uva.onlinejudge.org/external/114/11400.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Lighting System Design</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa11578](http://uva.onlinejudge.org/external/115/11578.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Situp Benches</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa11691](http://uva.onlinejudge.org/external/116/11691.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Allergy Test</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa11766](http://uva.onlinejudge.org/external/117/11766.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Racing Car Computer</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa12002](http://uva.onlinejudge.org/external/120/12002.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Happy Birthday</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa10723</td><td style="border: 1px solid #ccc; padding: 5px;">Cyborg Genes</td><td style="border: 1px solid #ccc; padding: 5px;">推荐</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa10934</td><td style="border: 1px solid #ccc; padding: 5px;">Dropping water</td><td style="border: 1px solid #ccc; padding: 5px;">推荐</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa10981</td><td style="border: 1px solid #ccc; padding: 5px;">String Morphing</td><td style="border: 1px solid #ccc; padding: 5px;">推荐</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa11307</td><td style="border: 1px solid #ccc; padding: 5px;">Alternative Arborescene</td><td style="border: 1px solid #ccc; padding: 5px;">推荐</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa11456</td><td style="border: 1px solid #ccc; padding: 5px;">Trainsorting</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa11782</td><td style="border: 1px solid #ccc; padding: 5px;">Optimal Cut</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>**</tt>(extra)LA2096</td><td style="border: 1px solid #ccc; padding: 5px;">Taekwondo</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>**</tt>(extra)LA2151</td><td style="border: 1px solid #ccc; padding: 5px;">Telescope</td></tr> </table>
-
-## <a name="提高习题（Exercises:_Advanced）"></a>提高习题（Exercises: Advanced）[](#提高习题（Exercises:_Advanced）)
-
-<table class="wikitable"><tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4394](http://livearchive.onlinejudge.org/external/43/4394.html)</td><td style="border: 1px solid #ccc; padding: 5px;">String Painter</td><td style="border: 1px solid #ccc; padding: 5px;">序列的动态规划，有一定难度</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4593](http://livearchive.onlinejudge.org/external/45/4593.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Exclusive Access 2</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4048](http://livearchive.onlinejudge.org/external/40/4048.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Fund Management</td><td style="border: 1px solid #ccc; padding: 5px;">注意状态表示</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4625](http://livearchive.onlinejudge.org/external/46/4625.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Garlands</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3683](http://livearchive.onlinejudge.org/external/36/3683.html)</td><td style="border: 1px solid #ccc; padding: 5px;">A Scheduling Problem</td><td style="border: 1px solid #ccc; padding: 5px;">树的动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3637](http://livearchive.onlinejudge.org/external/36/3637.html)</td><td style="border: 1px solid #ccc; padding: 5px;">The Bookcase</td><td style="border: 1px solid #ccc; padding: 5px;">不太容易想到，且需要优化</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA5717](http://livearchive.onlinejudge.org/external/57/5717.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Peach Blossom Spring</td><td style="border: 1px solid #ccc; padding: 5px;">一类经典题目（最早出现在NWERC2006，但本题数据更强）</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3623](http://livearchive.onlinejudge.org/external/36/3623.html)</td><td style="border: 1px solid #ccc; padding: 5px;">The Best Name for Your Baby</td><td style="border: 1px solid #ccc; padding: 5px;">有难度的动态规划；注意计算顺序</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4002](http://livearchive.onlinejudge.org/external/40/4002.html)</td><td style="border: 1px solid #ccc; padding: 5px;">The Ultimate Password</td><td style="border: 1px solid #ccc; padding: 5px;">有难度的动态规划；注意计算顺序</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA2178](http://livearchive.onlinejudge.org/external/21/2178.html)</td><td style="border: 1px solid #ccc; padding: 5px;">The Minimum Number of Rooks</td><td style="border: 1px solid #ccc; padding: 5px;">有难度的动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA2923](http://livearchive.onlinejudge.org/external/29/2923.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Bundling</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA2930](http://livearchive.onlinejudge.org/external/29/2930.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Minimizing Maximizer</td><td style="border: 1px solid #ccc; padding: 5px;">01 原则；数据结构优化动态规划</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA3181](http://livearchive.onlinejudge.org/external/31/3181.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Fixing the Great Wall</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4290](http://livearchive.onlinejudge.org/external/42/4290.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Easy Climb</td><td style="border: 1px solid #ccc; padding: 5px;">需要优化</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa10559](http://uva.onlinejudge.org/external/105/10559.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Blocks</td><td style="border: 1px solid #ccc; padding: 5px;">重点是设计状态及其转移</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[LA4031](http://livearchive.onlinejudge.org/external/40/4031.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Integer Transmission</td><td style="border: 1px solid #ccc; padding: 5px;">需要认真思考。可以做到O(n^2)时间。</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">[UVa11521](http://uva.onlinejudge.org/external/115/11521.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Compressor</td><td style="border: 1px solid #ccc; padding: 5px;">需要认真思考。很容易写错。</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa10949](http://uva.onlinejudge.org/external/109/10949.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Kids in a Grid</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa11193](http://uva.onlinejudge.org/external/111/11193.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Infinix</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa11194](http://uva.onlinejudge.org/external/111/11194.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Stone Grid</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;">(extra)[UVa11810](http://uva.onlinejudge.org/external/118/11810.html)</td><td style="border: 1px solid #ccc; padding: 5px;">Gentle ping, to the old King</td><td style="border: 1px solid #ccc; padding: 5px;"></td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa11171</td><td style="border: 1px solid #ccc; padding: 5px;">SMS</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa11435</td><td style="border: 1px solid #ccc; padding: 5px;">Network EXTREME!!!</td><td style="border: 1px solid #ccc; padding: 5px;">推荐</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa11502</td><td style="border: 1px solid #ccc; padding: 5px;">Rocket Stages</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa11750</td><td style="border: 1px solid #ccc; padding: 5px;">Red-Blue Tree</td><td style="border: 1px solid #ccc; padding: 5px;">推荐</td></tr> <tr><td style="border: 1px solid #ccc; padding: 5px;"><tt>*</tt>(extra)UVa11803</td><td style="border: 1px solid #ccc; padding: 5px;">The Great Merge</td></tr> </table>
+## 提高习题 (Exercises: Advanced)
+<table>
+    <tr>
+        <td>[LA4394](http://livearchive.onlinejudge.org/external/43/4394.html)</td>
+        <td>String Painter</td>
+        <td>序列的动态规划，有一定难度</td>
+    </tr> 
+    <tr>
+        <td>[LA4593](http://livearchive.onlinejudge.org/external/45/4593.html)</td>
+        <td>Exclusive Access 2</td>
+    </tr> 
+    <tr>
+        <td>[LA4048](http://livearchive.onlinejudge.org/external/40/4048.html)</td>
+        <td>Fund Management</td>
+        <td>注意状态表示</td>
+    </tr> 
+    <tr>
+        <td>[LA4625](http://livearchive.onlinejudge.org/external/46/4625.html)</td>
+        <td>Garlands</td>
+    </tr> 
+    <tr>
+        <td>[LA3683](http://livearchive.onlinejudge.org/external/36/3683.html)</td>
+        <td>A Scheduling Problem</td>
+        <td>树的动态规划</td>
+    </tr> 
+    <tr>
+        <td>[LA3637](http://livearchive.onlinejudge.org/external/36/3637.html)</td>
+        <td>The Bookcase</td>
+        <td>不太容易想到，且需要优化</td>
+    </tr> 
+    <tr>
+        <td>[LA5717](http://livearchive.onlinejudge.org/external/57/5717.html)</td>
+        <td>Peach Blossom Spring</td>
+        <td>一类经典题目（最早出现在NWERC2006，但本题数据更强）</td>
+    </tr> 
+    <tr>
+        <td>[LA3623](http://livearchive.onlinejudge.org/external/36/3623.html)</td>
+        <td>The Best Name for Your Baby</td>
+        <td>有难度的动态规划；注意计算顺序</td>
+    </tr> 
+    <tr>
+        <td>[LA4002](http://livearchive.onlinejudge.org/external/40/4002.html)</td>
+        <td>The Ultimate Password</td>
+        <td>有难度的动态规划；注意计算顺序</td>
+    </tr> 
+    <tr>
+        <td>[LA2178](http://livearchive.onlinejudge.org/external/21/2178.html)</td>
+        <td>The Minimum Number of Rooks</td>
+        <td>有难度的动态规划</td>
+    </tr> 
+    <tr>
+        <td>[LA2923](http://livearchive.onlinejudge.org/external/29/2923.html)</td>
+        <td>Bundling</td>
+    </tr> 
+    <tr>
+        <td>[LA2930](http://livearchive.onlinejudge.org/external/29/2930.html)</td>
+        <td>Minimizing Maximizer</td>
+        <td>01 原则；数据结构优化动态规划</td>
+    </tr> 
+    <tr>
+        <td>[LA3181](http://livearchive.onlinejudge.org/external/31/3181.html)</td>
+        <td>Fixing the Great Wall</td>
+    </tr> 
+    <tr>
+        <td>[LA4290](http://livearchive.onlinejudge.org/external/42/4290.html)</td>
+        <td>Easy Climb</td>
+        <td>需要优化</td>
+    </tr> 
+    <tr>
+        <td>[UVa10559](http://uva.onlinejudge.org/external/105/10559.html)</td>
+        <td>Blocks</td>
+        <td>重点是设计状态及其转移</td>
+    </tr> 
+    <tr>
+        <td>[LA4031](http://livearchive.onlinejudge.org/external/40/4031.html)</td>
+        <td>Integer Transmission</td>
+        <td>需要认真思考。可以做到O(n^2)时间。</td>
+    </tr> 
+    <tr>
+        <td>[UVa11521](http://uva.onlinejudge.org/external/115/11521.html)</td>
+        <td>Compressor</td>
+        <td>需要认真思考。很容易写错。</td>
+    </tr> 
+    <tr>
+        <td>(extra)[UVa10949](http://uva.onlinejudge.org/external/109/10949.html)</td>
+        <td>Kids in a Grid</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa11193](http://uva.onlinejudge.org/external/111/11193.html)</td>
+        <td>Infinix</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa11194](http://uva.onlinejudge.org/external/111/11194.html)</td>
+        <td>Stone Grid</td>        
+    </tr> 
+    <tr>
+        <td>(extra)[UVa11810](http://uva.onlinejudge.org/external/118/11810.html)</td>
+        <td>Gentle ping, to the old King</td>        
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa11171</td>
+        <td>SMS</td>
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa11435</td>
+        <td>Network EXTREME!!!</td>
+        <td>推荐</td>
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa11502</td>
+        <td>Rocket Stages</td>
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa11750</td>
+        <td>Red-Blue Tree</td>
+        <td>推荐</td>
+    </tr> 
+    <tr>
+        <td><tt>*</tt>(extra)UVa11803</td>
+        <td>The Great Merge</td>
+    </tr> 
+</table>
