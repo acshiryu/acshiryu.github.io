@@ -1,7 +1,6 @@
 title: 6个变态的C语言Hello World程序
 toc: true
 tags:
-  - cpp
   - 程序
   - 源代码
   - 混乱
