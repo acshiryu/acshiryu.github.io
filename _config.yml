@@ -95,8 +95,3 @@ admin:
   password_hash: $2a$10$EmIQDgIaLVgRMIFE.wC7T.Q.b4EnMa/2LQ50LvLAkInT5TYfM9RX.
   secret: acshiryu.github.io.git
   
-# 似乎hexo对表格支持不好。 · Issue #1388 · hexojs/hexo · GitHub
-## Links:https://github.com/hexojs/hexo/issues/1388
-marked:
-  gfm: true
-  breaks: false
