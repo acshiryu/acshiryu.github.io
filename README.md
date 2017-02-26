@@ -38,6 +38,7 @@ github添加id_rsa.pub公钥
 		npm install hexo-deployer-git --save
 		npm install hexo-generator-feed --save
 		npm install hexo-generator-sitemap --save
+		npm install js-yaml
 		npm install hexo-admin --save
 3-7 提交文件至hexo
 		git add .

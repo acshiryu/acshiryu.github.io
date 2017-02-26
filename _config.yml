@@ -86,3 +86,9 @@ feed:
   type: atom
   path: atom.xml
   limit: 100
+ 
+# hexo-admin authentification
+admin:
+  username: acshiryu
+  password_hash: $2a$10$EmIQDgIaLVgRMIFE.wC7T.Q.b4EnMa/2LQ50LvLAkInT5TYfM9RX.
+  secret: acshiryu.github.io.git
