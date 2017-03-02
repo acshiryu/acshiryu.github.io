@@ -19,11 +19,11 @@ const long long inf=(1LL)<<55;
 int main()
 {
 	int T;
-	scanf("%d",&amp;T);
+	scanf("%d",&T);
 	while(T--)
 	{
 		int a,b,c;
-		scanf("%d%d%d",&amp;a,&amp;b,&amp;c);
+		scanf("%d%d%d",&a,&b,&c);
 		int i,j,k;
 		zero(mp);
 		zero(sum);
@@ -33,7 +33,7 @@ int main()
 			{
 				for(k=1;k<=c;k++)
 				{
-					scanf("%lld",&amp;mp[i][j][k]);
+					scanf("%lld",&mp[i][j][k]);
 				}
 			}
 		}

@@ -32,11 +32,11 @@ int erfen(int i,int j,int k)
 int main()
 {
 	int n;
-	while(~scanf("%d",&amp;n))
+	while(~scanf("%d",&n))
 	{
 		int i,j;
 		for(i=1;i<=n;i++)
-			scanf("%d",&amp;a[i]);
+			scanf("%d",&a[i]);
 
 		zero(dp);
 		zero(dp2);

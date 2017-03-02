@@ -4,10 +4,11 @@ tags:
   - 离散
   - 动态规划
   - 二分
+  - 算法竞赛入门经典训练指南
 categories:
-  - 学习资料
+  - 算法竞赛
 id: 1964
-date: 2014-01-04 00:00:00
+date: 2017-01-04 00:00:00
 ---
 
 # 高效算法设计举例(2)
@@ -39,6 +40,6 @@ DP46题之一，算是DP系列的入门题
 
 ## 例题25 侏罗纪（Jurassic Remains, SEERC 2003, [POJ 1903](http://poj.org/problem?id=1903 "Jurassic Remains"), [LA 2965](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=966 "2965 - Jurassic Remains")）
 
-最好想的办法是穷举，但复杂度是$$O({2}^{n})$$，有点大。这题就可以用中途相遇法，先求前$$n/2$$个字符串能得到的值，再求剩余字符串能得到的值，最后二分判断是否可以相遇
+最好想的办法是穷举，但复杂度是$O({2}^{n})$，有点大。这题就可以用中途相遇法，先求前$n/2$个字符串能得到的值，再求剩余字符串能得到的值，最后二分判断是否可以相遇
 
 {% include_code poj 1903 - Jurassic Remains lang:cpp poj/1903.cpp %}

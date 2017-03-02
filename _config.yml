@@ -61,6 +61,9 @@ tag_map:
   贪心: greedy
   离散: disperse
   二分: dichotomize
+  深度优先搜索: dfs
+  递归: recursive
+  状态压缩: state-compression
   
 
 # Date / Time format
