@@ -3,9 +3,9 @@ toc: true
 tags:
   - 仙剑
   - 感动
-  - 游戏
 categories:
   - 游戏人生
+id: 1021
 date: 2014-11-14 20:47:38
 ---
 
