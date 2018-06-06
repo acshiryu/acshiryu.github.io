@@ -2,6 +2,7 @@ title: 欧拉函数模板
 toc: true
 tags:
   - 欧拉函数
+  - 素数
   - 筛选
 categories:
   - 模板编程

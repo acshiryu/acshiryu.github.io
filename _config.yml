@@ -64,6 +64,10 @@ tag_map:
   深度优先搜索: dfs
   递归: recursive
   状态压缩: state-compression
+  欧拉函数: euler-function
+  素数: prime
+  筛选: filter
+
   
 
 # Date / Time format
