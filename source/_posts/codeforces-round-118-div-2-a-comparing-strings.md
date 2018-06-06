@@ -4,7 +4,7 @@ tags:
   - codeforces
 categories:
   - 算法竞赛
-id: 1345
+id: 1011
 date: 2016-09-15 21:37:57
 ---
 

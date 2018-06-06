@@ -1,11 +1,11 @@
-title: 欧拉函数
+title: 欧拉函数模板
 toc: true
 tags:
   - 欧拉函数
   - 筛选
 categories:
-  - 算法竞赛
-id: 1464
+  - 模板编程
+id: 1017
 date: 2012-08-03 16:00:10
 ---
 
