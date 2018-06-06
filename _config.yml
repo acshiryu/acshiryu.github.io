@@ -67,6 +67,10 @@ tag_map:
   欧拉函数: euler-function
   素数: prime
   筛选: filter
+  素性测试: prime-test
+  快速幂: fast-power
+  矩阵: matrix
+  
 
   
 
