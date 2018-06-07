@@ -3,7 +3,6 @@ toc: true
 tags:
   - 最大公约数
   - 数论
-  - 进制
 categories:
   - 算法竞赛
 id: 1010

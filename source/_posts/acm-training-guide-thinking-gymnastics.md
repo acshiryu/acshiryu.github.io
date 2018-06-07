@@ -3,7 +3,7 @@ toc: true
 tags:
   - 算法竞赛入门经典训练指南
   - 贪心
-  - 数学
+  - 数论
 categories:
   - 算法竞赛
 id: 1009

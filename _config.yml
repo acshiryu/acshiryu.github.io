@@ -64,6 +64,7 @@ tag_map:
   仙剑: pal
   感动: moving
   语录: quotations
+  数论: number-theory
   快速幂: fast-power
   字典树: dictionary-tree
   计算几何: computation-geometry
@@ -74,6 +75,7 @@ tag_map:
   素性测试: prime-test
   AC自动机: ac-automation
   字符串匹配: string-match
+  最大公约数: greatest-common-divisor
   深度优先搜索: dfs
   算法竞赛入门经典训练指南: acm-training-guide
   
