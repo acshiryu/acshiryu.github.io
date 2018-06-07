@@ -53,27 +53,29 @@ category_map:
   转载分享: share
   模板编程: template
 tag_map:
-  动态规划: dp
-  算法竞赛入门经典训练指南: acm-training-guide
   排序: sort
-  计算几何: computation-geometry
   贪心: greedy
   离散: disperse
   二分: dichotomize
-  深度优先搜索: dfs
   递归: recursive
-  状态压缩: state-compression
-  欧拉函数: euler-function
   素数: prime
   筛选: filter
-  素性测试: prime-test
-  快速幂: fast-power
   矩阵: matrix
   仙剑: pal
   感动: moving
   语录: quotations
-  
-
+  快速幂: fast-power
+  字典树: dictionary-tree
+  计算几何: computation-geometry
+  动态规划: dp
+  状态压缩: state-compression
+  欧拉函数: euler-function
+  数据结构: data-structure
+  素性测试: prime-test
+  AC自动机: ac-automation
+  字符串匹配: string-match
+  深度优先搜索: dfs
+  算法竞赛入门经典训练指南: acm-training-guide
   
 
 # Date / Time format
