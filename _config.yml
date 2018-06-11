@@ -67,12 +67,16 @@ tag_map:
   数论: number-theory
   快速幂: fast-power
   字典树: dictionary-tree
+  并查集: union-set
+  线段树: segment-tree
   计算几何: computation-geometry
   动态规划: dp
   状态压缩: state-compression
   欧拉函数: euler-function
   数据结构: data-structure
   素性测试: prime-test
+  优先队列: priority-queue
+  背包问题: backpack-problem
   AC自动机: ac-automation
   字符串匹配: string-match
   最大公约数: greatest-common-divisor
