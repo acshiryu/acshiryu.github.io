@@ -1,6 +1,7 @@
-title: HDU4602Partition 2013多校第一场100
+title: hdu4602 Partition 2013多校第一场100
 toc: true
 tags:
+  - hdu
   - 数学
   - 数论
   - 递推
@@ -35,98 +36,7 @@ $$f(n)=(n-k+3)*{2}^{n-k-2}(n>k)$$
 
 <!--more-->
 我的代码
-[code lang="cpp"]
-#include &lt;algorithm&gt;
-#include &lt;iostream&gt;
-#include &lt;string&gt;
-#include &lt;cstring&gt;
-#include &lt;cstdio&gt;
-#include &lt;cmath&gt;
-using namespace std;
-
-#define zero(a) memset(a,0,sizeof(a))
-#define one(a) memset(a,1,sizeof(a))
-#define fone(a) memset(a,-1,sizeof(a))
-#define pow2(a) ((a)*(a))
-#define pow3(a) ((pow2(a))*(a))
-
-const int mod=1e9+7;
-__int64 mul(__int64 n,__int64 k)
-{
-	__int64 ans=1;
-	while(k&gt;=1)
-	{
-		if(k&amp;1)
-			ans=ans*n%mod;
-		k=k/2;
-		n=n*n%mod;
-	}
-	return ans;
-}
-int main()
-{
-	int T;
-	scanf(&quot;%d&quot;,&amp;T);
-	while(T--)
-	{
-		__int64 n,k;
-		scanf(&quot;%I64d%I64d&quot;,&amp;n,&amp;k);
-		__int64 m=n-k;
-
-		if(m&lt;0)
-		{
-			printf(&quot;0\n&quot;);
-			continue;
-		}
-		if(m==0||m==1)
-		{
-			printf(&quot;%I64d\n&quot;,m+1);
-			continue;
-		}
-
-		printf(&quot;%I64d\n&quot;,mul(2,m-2)*(m+3)%mod);
-	}
-    return 0;
-}
-[/code]
+{% include_code hdu4602 Partition lang:cpp hdu/4602-1.cpp %}
 
 标程
-[code lang="cpp"]
-#include &quot;iostream&quot;
-#include &quot;cstring&quot;
-#include &quot;cstdio&quot;
-using namespace std;
-typedef long long LOL;
-const LOL MOD = 1000000007ll;
-LOL solve(LOL n,LOL k)
-{
-    if(n&lt;k) return 0;
-    if(n==k) return 1;
-    LOL ans=n-k+3;
-    LOL tmp=2;
-    k=n-k-2;
-    if(k==-1){
-        return ans/2;
-    }
-    while(k){
-        if(k%2){
-            ans=(ans*tmp)%MOD;
-        }
-        tmp=(tmp*tmp)%MOD;
-        k/=2;
-    }
-    return ans;
-}
-int main(void)
-{
-    LOL n,k;
-    int T;
-    scanf(&quot;%d&quot;,&amp;T);
-    while(T--){
-        cin&gt;&gt;n&gt;&gt;k;
-        cout&lt;&lt;solve(n,k)&lt;&lt;endl;
-    }
-    return 0;
-}
-
-[/code]
+{% include_code hdu4602 Partition 标程 lang:cpp hdu/4602-2.cpp %}

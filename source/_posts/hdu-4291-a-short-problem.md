@@ -1,6 +1,7 @@
-title: hdu4291A Short problem 矩阵快速幂 成都区预赛的一题
+title: hdu4291 A Short problem 矩阵快速幂 成都区预赛的一题
 toc: true
 tags:
+  - hdu
   - hdu
   - 快速幂
   - 矩阵
@@ -14,74 +15,4 @@ date: 2012-09-18 21:11:09
 
 既然对1e9+7取余有循环节，假设是k1，则我们就有g(n)%1000000007=g(n%k1)%1000000007,则就要求g(g(g(n)))就相当于求g(g(g(n))%k1)，而求g(g(n))%k1，同理，可爆出g(n)对k1取余的循环节k2，则题目就暂时变成了求g(g(g(n%k2))%k1)，然后就可以用矩阵快速幂求解（程序爆出k1=222222224，k2=183120）
 
-[code lang="cpp"]
-#include&lt;iostream&gt;
-#include&lt;cstdio&gt;
-using namespace std;
-const int mod[3]={1000000007,222222224,183120};
-typedef unsigned __int64 uint64;
-const int mat_n=2;//矩阵的维度
-void matrix_mul(uint64 a[][mat_n],uint64 b[][mat_n],uint64 mod)
-{//a=a*b
-	uint64 c[mat_n][mat_n];
-	int i,j,k;
-	for(i=0;i&lt;mat_n;i++)
-	{
-		for(j=0;j&lt;mat_n;j++)
-		{
-			c[i][j]=0;
-			for(k=0;k&lt;mat_n;k++)
-			{
-				c[i][j]=(c[i][j]+(a[i][k]*b[k][j])%mod)%mod;
-			}
-		}
-	}
-
-	for(i=0;i&lt;mat_n;i++)
-		for(j=0;j&lt;mat_n;j++)
-			a[i][j]=c[i][j];
-}
-void matrix_power(uint64 s[][mat_n],uint64 k,uint64 mod)
-{// return s[n][n]^k%mod
-	uint64 ans[mat_n][mat_n];
-	memset(ans,0,sizeof(ans));
-	int i,j;
-	for(i=0;i&lt;mat_n;i++)
-		ans[i][i]=1;
-
-	while(k&gt;0)
-	{
-		if(k%2==1)
-		{
-			matrix_mul(ans,s,mod);
-		}
-		k=k/2;
-		matrix_mul(s,s,mod);
-	}
-
-	for(i=0;i&lt;mat_n;i++)
-		for(j=0;j&lt;mat_n;j++)
-			s[i][j]=ans[i][j];
-}
-
-__int64 fun(__int64 n,int mod)
-{
-	uint64 s[mat_n][mat_n];
-	s[0][1]=s[1][0]=1;
-	s[0][0]=3;
-	s[1][1]=0;
-	matrix_power(s,n,mod);
-	return s[0][1];
-}
-int main()
-{
-	__int64 n;
-	while(~scanf(&quot;%I64d&quot;,&amp;n))
-	{
-		__int64 t1=fun(n,mod[2]);
-		__int64 t2=fun(t1,mod[1]);
-		__int64 t3=fun(t2,mod[0]);
-		printf(&quot;%I64d\n&quot;,t3);
-	}
-}
-[/code]
+{% include_code hdu4291 A Short problem lang:cpp hdu/4291.cpp %}
