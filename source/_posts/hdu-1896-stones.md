@@ -2,7 +2,6 @@ title: hdu1896 Stones 解题报告
 toc: true
 tags:
   - hdu
-  - STL
   - 优先队列
 categories:
   - 算法竞赛

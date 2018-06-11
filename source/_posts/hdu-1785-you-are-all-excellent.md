@@ -2,7 +2,7 @@ title: hdu1785 You Are All Excellent
 toc: true
 tags:
   - hdu
-  - 数学
+  - 数论
 categories:
   - 算法竞赛
 id: 1029

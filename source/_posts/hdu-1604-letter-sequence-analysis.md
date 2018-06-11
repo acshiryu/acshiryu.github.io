@@ -2,9 +2,7 @@ title: hdu1604 Deque 2013多校第一场1005
 toc: true
 tags:
   - hdu
-  - DP
   - 动态规划
-  - 多校
 categories:
   - 算法竞赛
 id: 1026

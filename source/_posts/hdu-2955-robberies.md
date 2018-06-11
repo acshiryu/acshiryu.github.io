@@ -2,7 +2,6 @@ title: hdu2955 Robberies 教你怎样抢银行划算！
 toc: true
 tags:
   - hdu
-  - DP
   - 动态规划
   - 背包问题
 categories:

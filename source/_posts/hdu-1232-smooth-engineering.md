@@ -12,6 +12,6 @@ date: 2010-01-01 00:01:00
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=1232](http://acm.hdu.edu.cn/showproblem.php?pid=1232 "畅通工程")
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;并查集，将连通的点归结在一起，然后再扫描，看有多少个团队，然后团队数-1，详细看代码
+并查集，将连通的点归结在一起，然后再扫描，看有多少个团队，然后团队数-1，详细看代码
 
 {% include_code hdu1232 畅通工程 lang:cpp hdu/1232.cpp %}
