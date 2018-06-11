@@ -5,8 +5,8 @@ tags:
   - kmp
 categories:
   - 算法竞赛
-id: 1066
-date: 2012-03-25 14:59:21
+id: 1027
+date: 2010-01-01 00:04:00
 ---
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=1711](http://acm.hdu.edu.cn/showproblem.php?pid=1711 "Number Sequence")

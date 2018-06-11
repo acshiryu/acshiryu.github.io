@@ -7,8 +7,8 @@ tags:
   - 数据结构
 categories:
   - 算法竞赛
-id: 1069
-date: 2012-03-25 15:03:16
+id: 1025
+date: 2010-01-01 00:02:00
 ---
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=1247](http://acm.hdu.edu.cn/showproblem.php?pid=1247 "Hat’s Words")

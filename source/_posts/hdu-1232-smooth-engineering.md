@@ -6,8 +6,8 @@ tags:
   - 数据结构
 categories:
   - 算法竞赛
-id: 1028
-date: 2012-03-15 21:05:03
+id: 1024
+date: 2010-01-01 00:01:00
 ---
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=1232](http://acm.hdu.edu.cn/showproblem.php?pid=1232 "畅通工程")

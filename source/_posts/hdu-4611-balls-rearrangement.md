@@ -8,8 +8,8 @@ tags:
   - 数论
 categories:
   - 算法竞赛
-id: 1939
-date: 2013-07-27 14:59:11
+id: 1046
+date: 2010-01-01 00:23:00
 ---
 
 题目实际上就是求$$\sum_{i=0}^{n-1}\left | i \mod a-i \mod b \right |$$

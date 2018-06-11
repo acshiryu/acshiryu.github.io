@@ -8,8 +8,8 @@ tags:
   - 枚举
 categories:
   - 算法竞赛
-id: 830
-date: 2012-03-03 09:12:17
+id: 1036
+date: 2010-01-01 00:13:00
 ---
 
 <font size=3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;原题地址：[http://acm.hdu.edu.cn/showproblem.php?pid=4162](http://acm.hdu.edu.cn/showproblem.php?pid=4162)

@@ -7,8 +7,8 @@ tags:
   - 素数
 categories:
   - 算法竞赛
-id: 1024
-date: 2012-03-15 20:34:31
+id: 1023
+date: 2010-01-01 00:00:00
 ---
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=1016](http://acm.hdu.edu.cn/showproblem.php?pid=1016 "Prime Ring Problem")

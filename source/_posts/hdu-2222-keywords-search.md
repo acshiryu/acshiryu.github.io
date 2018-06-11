@@ -7,8 +7,8 @@ tags:
   - 数据结构
 categories:
   - 算法竞赛
-id: 1064
-date: 2012-03-25 14:53:33
+id: 1032
+date: 2010-01-01 00:09:00
 ---
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=2222](http://acm.hdu.edu.cn/showproblem.php?pid=2222 "Keywords Search")
