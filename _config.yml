@@ -67,10 +67,13 @@ tag_map:
   语录: quotations
   旋转: rotating
   数论: number-theory
+  划分: division
+  矩形: rectangle
   快速幂: fast-power
   字典树: dictionary-tree
   并查集: union-set
   线段树: segment-tree
+  最短路: shortest-road
   计算几何: computation-geometry
   动态规划: dp
   卡特兰数: catalan-number
@@ -85,6 +88,7 @@ tag_map:
   字符串匹配: string-match
   最大公约数: greatest-common-divisor
   深度优先搜索: dfs
+  广度优先搜索: bfs
   算法竞赛入门经典训练指南: acm-training-guide
   
 
