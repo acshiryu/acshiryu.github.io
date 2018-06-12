@@ -62,8 +62,10 @@ tag_map:
   筛选: filter
   矩阵: matrix
   仙剑: pal
+  枚举: enumerate
   感动: moving
   语录: quotations
+  旋转: rotating
   数论: number-theory
   快速幂: fast-power
   字典树: dictionary-tree
@@ -71,12 +73,14 @@ tag_map:
   线段树: segment-tree
   计算几何: computation-geometry
   动态规划: dp
+  卡特兰数: catalan-number
   状态压缩: state-compression
   欧拉函数: euler-function
   数据结构: data-structure
   素性测试: prime-test
   优先队列: priority-queue
   背包问题: backpack-problem
+  后缀数组: suffix-array
   AC自动机: ac-automation
   字符串匹配: string-match
   最大公约数: greatest-common-divisor

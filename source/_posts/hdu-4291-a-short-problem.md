@@ -2,7 +2,6 @@ title: hdu4291 A Short problem 矩阵快速幂 成都区预赛的一题
 toc: true
 tags:
   - hdu
-  - hdu
   - 快速幂
   - 矩阵
 categories:
