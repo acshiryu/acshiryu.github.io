@@ -2,9 +2,8 @@ title: hdu4419 Colourful Rectangle  搜索+矩形分割  杭州赛区网赛最�
 toc: true
 tags:
   - hdu
-  - DFS
   - 深度优先搜索
-  - 矩阵
+  - 矩形
   - 划分
 categories:
   - 算法竞赛
