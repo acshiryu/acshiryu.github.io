@@ -1,10 +1,8 @@
-title: hdu4611 Balls Rearrangement gcd问题 2013多校2-1001
+title: hdu4611 Balls Rearrangement 最大公约数 2013多校2-1001
 toc: true
 tags:
   - hdu
-  - gcd
-  - 循环
-  - 找规律
+  - 最大公约数
   - 数论
 categories:
   - 算法竞赛

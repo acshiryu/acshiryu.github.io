@@ -2,7 +2,7 @@ title: hdu4632 Palindrome subsequence 20103多校4-1001
 toc: true
 tags:
   - hdu
-  - DP
+  - 动态规划
 categories:
   - 算法竞赛
 id: 1048

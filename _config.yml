@@ -69,6 +69,8 @@ tag_map:
   数论: number-theory
   划分: division
   矩形: rectangle
+  图论: graph-theory
+  二分图: binary-picture
   快速幂: fast-power
   字典树: dictionary-tree
   并查集: union-set
@@ -76,6 +78,7 @@ tag_map:
   最短路: shortest-road
   计算几何: computation-geometry
   动态规划: dp
+  最大匹配: maximum-match
   卡特兰数: catalan-number
   状态压缩: state-compression
   欧拉函数: euler-function
