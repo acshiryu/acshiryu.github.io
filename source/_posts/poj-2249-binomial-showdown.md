@@ -22,27 +22,4 @@ Pascal公式
 要解答出这道题主要运用的就是恒等式（1）
 
 [code lang="cpp"]
-#include&lt;iostream&gt;
- #include&lt;cstdlib&gt;
- #include&lt;cstdio&gt;
- #include&lt;cstring&gt;
- #include&lt;algorithm&gt;
- #include&lt;cmath&gt;
- using namespace std;
- __int64 a[ 100000000];
- int main()
- {
-
-     __int64 m , n ;
-     while ( scanf(&quot;%I64d%I64d&quot;,&amp;m,&amp;n), m || n )
-     {
-         a[0]=1;
-         if ( n &gt; m / 2 )
-             n = m - n ;
-
-         for ( int i = 1; i &lt;= n ; i ++ )
-             a[i] = a[i-1] * ( m - i + 1 ) / i ;
-         printf(&quot;%I64d\n&quot;, a[n] );
-     }
-     return 0;
- }[/code]
+[/code]

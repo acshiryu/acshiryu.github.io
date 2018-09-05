@@ -93,46 +93,4 @@ ax0*c/gcd(a,b)+by0*c/gcd(a,b)=c;（则可知人如果c不是gcd（a，b）的倍
 刚开始的时候没有注意到怎样就解答系，WA了两次
 
 [code lang="cpp"]
-#include&lt;iostream&gt;
- #include&lt;cstdlib&gt;
- #include&lt;cstdio&gt;
- #include&lt;cstring&gt;
- #include&lt;algorithm&gt;
- #include&lt;cmath&gt;
- using namespace std;
-
- void gcd ( __int64 a , __int64 b , __int64 &amp;d , __int64 &amp;x , __int64 &amp;y )
- {
-
-     if ( ! b ) 
-         d = a , x = 1 , y = 0 ;
-     else 
-         gcd ( b , a%b , d , y , x ) , y -= x * ( a / b ) ; 
- }
-
- int main()
- {
-     __int64 s , t , m , n , l ;
-     while ( ~ scanf (&quot;%I64d%I64d%I64d%I64d%I64d&quot; , &amp; s , &amp; t , &amp; m , &amp; n , &amp; l ) )
-     {
-         __int64 a , b , d , ans ;
-         __int64 x , y ;
-         a = l ;
-         b = m - n ;
-         ans = t - s ;
-         if ( b &lt; 0 )
-             b = n - m , ans = s - t ;
-         gcd ( a , b , d , x , y ) ;
-         if ( ans % d )//无解出现的情况
-             printf(&quot;Impossible\n&quot;) ;
-         else
-         {
-             __int64 tmp = l / d ;        
-             ans = (  ans / d * y ) % tmp ;//求出答案，因答案要求最小，故还得对答案的“周期”取余
-             if ( ans &lt; 0 )//如果出现的是负数，就要加上周期
-                 ans += tmp ;
-             printf (&quot;%I64d\n&quot;,ans);
-         }
-     }
-     return 0;
- }[/code]
+[/code]

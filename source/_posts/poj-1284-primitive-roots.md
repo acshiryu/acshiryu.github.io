@@ -44,34 +44,4 @@ date: 2012-03-10 01:22:29
 然后直接套用那个求欧拉函数的模板1A了，我发现我最近好喜欢套模板啊，没办法，知道的太少了
 
 [code lang="cpp"]
-#include&lt;iostream&gt;
- #include&lt;cstdlib&gt;
- #include&lt;cstdio&gt;
- #include&lt;cstring&gt;
- #include&lt;algorithm&gt;
- #include&lt;cmath&gt;
- using namespace std;
- int phi[66000];
- int main()
- {
-     int i , j ;
-     for ( i = 2 ; i &lt;=  65536 ; i ++ )
-         phi[i]=0;
-     phi[1]=1;
-     for ( i = 2 ; i &lt;=  65536 ; i ++ )
-         if ( !phi[i] )
-         {
-             for ( j = i ; j &lt;=  65536 ; j += i )
-             {
-                 if ( !phi[j] )
-                     phi[j] = j ;
-                 phi[j] = phi[j] / i * (i - 1 ) ;
-             }
-         }
-
-     int n ;
-     while ( cin &gt;&gt; n )
-         cout&lt;&lt;phi[n-1]&lt;&lt;endl;
-
-     return 0;
- }[/code]
+[/code]

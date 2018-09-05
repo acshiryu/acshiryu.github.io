@@ -16,32 +16,4 @@ date: 2012-03-10 01:10:54
 行开始时分解合数时到sqrt（n）时停止，WA了一次，应该是n/2
 
 [code lang="cpp"]
-#include&lt;iostream&gt;
- #include&lt;cstdlib&gt;
- #include&lt;cstdio&gt;
- #include&lt;cstring&gt;
- #include&lt;algorithm&gt;
- #include&lt;cmath&gt;
- using namespace std;
- bool isprime ( int k )
- {
-     int t = sqrt ( k + 0.5 ) ;
-     for ( int i = 2  ; i &lt;= t ; i ++ )
-         if ( k % i == 0 )
-             return false ;
-     return true ;
- }
- int main()
- {
-     int n ;
-     while ( scanf (&quot;%d&quot;, &amp;n) , n )
-     {
-         int i ;
-         int t = n / 2 ;
-         for ( i = 3 ; i &lt;= t ; i += 2 )
-             if ( isprime ( i ) &amp;&amp; isprime ( n - i ) )
-                 break ;
-         printf ( &quot;%d = %d + %d\n&quot; , n , i , n - i ) ;
-     }
-     return 0;
- }[/code]
+[/code]

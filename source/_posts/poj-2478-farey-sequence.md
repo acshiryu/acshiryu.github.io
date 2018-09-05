@@ -25,37 +25,4 @@ http://www.cnblogs.com/ACShiryu/archive/2011/08/04/poj2407.html
 题目就是比较简单的欧拉运用，1A
 
 [code lang="cpp"]
-#include&lt;iostream&gt;
-#include&lt;cstdlib&gt;
-#include&lt;cstdio&gt;
-#include&lt;cstring&gt;
-#include&lt;algorithm&gt;
-#include&lt;cmath&gt;
-usingnamespace std;
-int phi[1000005];
-int main()
-{
-    int i , j ;
-    memset ( phi , 0 ,sizeof ( phi ) ) ;
-    for ( i =2 ; i &lt;=1000000 ; i ++ )
-    {//筛选求phi
-if ( ! phi [i] )
-        {
-            for ( j = i ; j &lt;=1000000 ; j += i )
-            {
-                if ( ! phi [j] )
-                    phi [j ] = j ;
-                phi [j] = phi [j] / i * ( i -1 ) ;
-            }
-        }
-    }
-    int n ;
-    while ( cin &gt;&gt; n  , n )
-    {
-        __int64 sum =0 ;
-        for ( i =2 ; i &lt;= n ; i ++ )
-            sum += phi [i] ;
-        cout&lt;&lt;sum&lt;&lt;endl;
-    }
-    return0;
-}[/code]
+[/code]

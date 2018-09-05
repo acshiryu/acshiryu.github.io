@@ -27,44 +27,4 @@ date: 2012-03-10 01:19:42
 刚开始是求欧拉函数没考虑边界大情形，RE了两次，最后发现问题，修正了一下，果然AC了
 
 [code lang="cpp"]
-#include&lt;iostream&gt;
- #include&lt;cstdlib&gt;
- #include&lt;cstdio&gt;
- #include&lt;cstring&gt;
- #include&lt;algorithm&gt;
- #include&lt;cmath&gt;
- using namespace std;
- int phi[1005];
- int main()
- {
-     int i , j ;
-     memset ( phi , 0 ,sizeof ( phi ) ) ;
-     phi[1]=1;
-     for ( i = 2 ; i &lt;1005 ; i ++ )
-     {//筛选求phi
-         if ( ! phi [i] )
-         {
-             for ( j = i ; j &lt;1005 ; j += i )
-             {
-                 if ( ! phi [j] )
-                     phi [j ] = j ;
-                 phi [j] = phi [j] / i * ( i - 1 ) ;
-             }
-         }
-     }
-     int t ;
-     int k = 1 ;
-     cin &gt;&gt; t ;
-     while ( t-- )
-     {
-         int n ;
-         cin &gt;&gt; n ;
-         cout &lt;&lt; k &lt;&lt; ' ' &lt;&lt; n &lt;&lt; ' ';
-         int sum = 3 ;//特别考虑的三个点，（1，0）（0，1）（1，1）
-         for ( i = 2 ; i &lt;= n ; i ++ )
-             sum += 2 *(phi [i] );
-         cout&lt;&lt;sum&lt;&lt;endl;
-         k++;
-     }
-     return 0;
- }[/code]
+[/code]

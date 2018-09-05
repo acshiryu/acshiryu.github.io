@@ -16,48 +16,5 @@ date: 2012-03-10 23:55:26
 枚举所有的行组合，将这些行压缩成一个数列，进行上述操作就可以了
 
 [code lang="cpp"]
-#include&lt;iostream&gt;
-#include&lt;cstdlib&gt;
-#include&lt;cstdio&gt;
-#include&lt;cstring&gt;
-#include&lt;algorithm&gt;
-#include&lt;cmath&gt;
-using namespace std;
-int a[105][105];
-int sum[105];
-int dp[105];
-int main()
-{
-    int n ;
-    while ( cin &gt;&gt; n )
-    {
-        int i , j , k , t;
-        for ( i = 0 ; i &lt; n ; i ++ )
-            for ( j = 0 ; j &lt; n ; j ++ )
-                cin &gt;&gt; a[i][j] ;
-        int sumall = - (1 &lt;&lt; 30 );
-        for ( i = 0 ; i &lt; n  ; i ++ )
-        {
-            int sumdp;    
-            for ( t = i + 1 ; t &lt;= n ; t ++ )
-            {
-                for ( j = 0 ; j &lt; n ; j ++ )
-                {
-                    int sumi = 0 ;
-                    for ( k = i ; k &lt; t ; k ++ )
-                    {
-                        sumi += a[k][j] ;
-                    }
-                     sum[j] = sumi ;
-                    if ( j )
-                        sumall = max ( sumall , sumdp = max ( sumdp + sum[j] , sum[j] ) ) ;
-                    else
-                       sumall = max ( sumall , sumdp = sum[j] ) ;
-                }
-            }
-        }
-        cout &lt;&lt; sumall &lt;&lt; endl ; 
-    }
-    return 0 ;
-}
+
 [/code]

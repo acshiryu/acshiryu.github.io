@@ -24,37 +24,4 @@ for (variable = A; variable != B; variable += C)
 题目数据虽然都是32位，但在中间算的时候有可能超int 故要用__int64 刚开始没注意到，WA了2次，有一次是对1左移时没强制转换。
 
 [code lang="cpp"]
- #include&lt;iostream&gt;
- #include&lt;cstdlib&gt;
- #include&lt;cstdio&gt;
- #include&lt;cstring&gt;
- #include&lt;algorithm&gt;
- #include&lt;cmath&gt;
- using namespace std;
- void gcd ( __int64 a , __int64 b , __int64 &amp;d , __int64 &amp;x ,__int64 &amp;y )
- {
-     if ( ! b ) 
-         d = a , x = 1 , y = 0 ;
-     else
-         gcd ( b , a % b , d , y , x ) , y -= x * ( a / b ) ;
- }
- int main()
- {
-     __int64 a, b , c, k ;
-     while ( cin &gt;&gt; a &gt;&gt; b &gt;&gt; c &gt;&gt; k , a || b || c || k )
-     {
-         __int64 d , x , y ;
-         gcd ( c ,  ( ( __int64 ) 1 )&lt;&lt; k , d , x , y ) ;
-         if ( ( b - a ) % d != 0 )
-             cout &lt;&lt; &quot;FOREVER&quot; &lt;&lt;endl;
-         else
-         {
-             __int64 ans = ( b - a ) / d * x ;
-             ans = ans % ( (  ( ( __int64 ) 1 )&lt;&lt; k ) / d ) ;
-             if ( ans &lt; 0 )
-                 ans += (  ( ( __int64 ) 1 )&lt;&lt; k ) / d ;
-             cout &lt;&lt; ans &lt;&lt; endl ;
-         }
-     }
-     return 0;
- }[/code]
+ [/code]
