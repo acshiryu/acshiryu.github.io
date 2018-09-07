@@ -21,5 +21,4 @@ AGTGAT--G
 
 此题为dp,详见代码
 
-[code lang="cpp"]
- [/code]
+{% include_code poj1080 Human Gene Functions lang:cpp poj/1080.cpp %}

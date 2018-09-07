@@ -15,6 +15,4 @@ date: 2012-03-10 23:55:26
 
 枚举所有的行组合，将这些行压缩成一个数列，进行上述操作就可以了
 
-[code lang="cpp"]
-
-[/code]
+{% include_code poj1050 To the Max lang:cpp poj/1050.cpp %}

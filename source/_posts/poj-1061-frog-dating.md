@@ -92,5 +92,4 @@ ax0*c/gcd(a,b)+by0*c/gcd(a,b)=c;（则可知人如果c不是gcd（a，b）的倍
 
 刚开始的时候没有注意到怎样就解答系，WA了两次
 
-[code lang="cpp"]
-[/code]
+{% include_code poj1061 青蛙的约会 lang:cpp poj/1061.cpp %}
