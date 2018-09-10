@@ -81,3 +81,14 @@ npm install hexo-deployer-git
 ## 5 其他
 ### 5-1 Hexo下mathjax的转义问题
 https://segmentfault.com/a/1190000007261752
+
+## 6 写作帮助
+### 6-1 插入本文链接
+```
+{% post_link poj-1426-find-the-multiple %}
+```
+### 6-2 插入代码文件
+代码文件需存放于source/assets/code文件夹
+```
+{% include_code main Prime Ring lang:cpp main.cpp %}
+```
