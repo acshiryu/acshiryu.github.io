@@ -14,8 +14,7 @@ date: 2012-03-10 23:56:37
 
 参考代码：
 poj2479
-[code lang="cpp"]
- [/code]
-　　poj2593
-[code lang="cpp"]
-[/code]
+{% include_code poj2479 Maximum sum lang:cpp poj/2479.cpp %}
+
+poj2593
+{% include_code poj2593 Max Sequence lang:cpp poj/2593.cpp %}

@@ -15,5 +15,4 @@ date: 2012-03-09 17:20:29
 关于数据的输入和输出详见样例，要注意输出完数据后还有个'.'，这题是一个稠密图，用Prim算法比较好，关于Prim算法详见：
 http://www.nocow.cn/index.php/Prim%E7%AE%97%E6%B3%95
 
-[code lang="cpp"]
-[/code]
+{% include_code poj1789 Truck History lang:cpp poj/1789.cpp %}

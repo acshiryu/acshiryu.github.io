@@ -24,5 +24,4 @@ http://www.cnblogs.com/ACShiryu/archive/2011/08/04/poj2407.html
 
 题目就是比较简单的欧拉运用，1A
 
-[code lang="cpp"]
-[/code]
+{% include_code poj2478 Farey Sequence lang:cpp poj/2478.cpp %}

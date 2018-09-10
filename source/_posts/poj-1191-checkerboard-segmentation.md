@@ -15,6 +15,5 @@ date: 2012-05-05 15:26:12
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dp[k-1 x1 y1 x2 a]+dp[0 x1 a+1 x2 y2] , dp[k-1 x1 a+1 x2 y2]+dp[0 x1 y1 x2 a] ,  （y1≤a﹤y2）
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;};`
 然后就是5个嵌套的for循环，这题还有一个问题，不知道为什么，我之前用int和__int64都wa了，改成long double才ac了，难道卡在精度上？
-[code lang="cpp"]
 
-[/code]
+{% include_code poj1191 棋盘分割 lang:cpp poj/1191.cpp %}

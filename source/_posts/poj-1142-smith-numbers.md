@@ -27,5 +27,4 @@ date: 2012-03-10 01:09:49
 
 提交1次就A了，刚开始时想复杂了，准备筛选做的，看了一下讨论，好像没必要，可直接暴力
 
-[code lang="cpp"]
- [/code]
+{% include_code poj1142 Smith Numbers lang:cpp poj/1142.cpp %}

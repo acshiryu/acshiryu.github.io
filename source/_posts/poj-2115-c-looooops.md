@@ -23,5 +23,4 @@ for (variable = A; variable != B; variable += C)
 
 题目数据虽然都是32位，但在中间算的时候有可能超int 故要用__int64 刚开始没注意到，WA了2次，有一次是对1左移时没强制转换。
 
-[code lang="cpp"]
- [/code]
+{% include_code poj2115 C Looooops lang:cpp poj/2115.cpp %}

@@ -13,6 +13,4 @@ date: 2012-03-08 23:36:21
 
 这题是一道搜索题，可以用DFS直接解决。每次从左到右，从上到下进行搜索，并标记搜索过的地方；
 
-[code lang="cpp"]
-
-[/code]
+{% include_code poj2488 Snakes lang:cpp poj/2488.cpp %}

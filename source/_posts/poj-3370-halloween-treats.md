@@ -23,5 +23,4 @@ http://www.cnblogs.com/ACShiryu/archive/2011/08/09/poj2356.html
 
 刚开始时没注意到数据范围，TLE和WA分别一次，这题数据明显比2356强，中间有可能超int，故要用__int64，并且cin比scanf慢
 
-[code lang="cpp"]
-[/code]
+{% include_code poj3370 Halloween treats lang:cpp poj/3370.cpp %}

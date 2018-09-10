@@ -34,6 +34,4 @@ Sk = A + A2 + A3 + … + Ak
 
 然后就是写矩阵乘法与加法部分，可直接套模板
 
-[code lang="cpp"]
-
-[/code]
+{% include_code poj3233 Matrix Power Series lang:cpp poj/3233.cpp %}

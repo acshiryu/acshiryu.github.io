@@ -15,5 +15,4 @@ date: 2012-03-10 01:10:54
 
 行开始时分解合数时到sqrt（n）时停止，WA了一次，应该是n/2
 
-[code lang="cpp"]
-[/code]
+{% include_code poj2262 Goldbach's Conjecture lang:cpp poj/2262.cpp %}

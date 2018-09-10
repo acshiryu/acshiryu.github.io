@@ -16,6 +16,4 @@ date: 2012-03-09 17:17:24
 
 例如，对于数据1，可知如果从3开始传播，则1，2得知谣言的时间都是2，所用的时间比从1，2开始传播所用的时间要短，故程序的输出时3 2；
 
-[code lang="cpp"]
- 
-[/code]
+{% include_code poj1125 Stockbroker Grapevine lang:cpp poj/1125.cpp %}

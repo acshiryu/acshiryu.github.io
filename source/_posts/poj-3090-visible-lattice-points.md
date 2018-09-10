@@ -26,5 +26,4 @@ date: 2012-03-10 01:19:42
 
 刚开始是求欧拉函数没考虑边界大情形，RE了两次，最后发现问题，修正了一下，果然AC了
 
-[code lang="cpp"]
-[/code]
+{% include_code poj3090 Visible Lattice Points lang:cpp poj/3090.cpp %}

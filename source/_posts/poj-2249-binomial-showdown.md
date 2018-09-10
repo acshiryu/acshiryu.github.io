@@ -21,5 +21,4 @@ Pascal公式
 
 要解答出这道题主要运用的就是恒等式（1）
 
-[code lang="cpp"]
-[/code]
+{% include_code poj2249 Binomial Showdown lang:cpp poj/2249.cpp %}

@@ -25,6 +25,4 @@ date: 2012-03-09 17:19:40
 
 刚开始输出没注意，WA了一次，这还是要提醒我们要小心注意题目的输入输出，别遗漏，确保万无一失才能交；
 
-[code lang="cpp"]
-
-[/code]
+{% include_code poj2253 Frogger lang:cpp poj/2253.cpp %}

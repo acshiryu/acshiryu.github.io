@@ -27,5 +27,4 @@ a[i]=2*a[i-2]+a[i-1];
 
 直接套用模板就1A了，只是简单的递推题，算是练习套模板能力或验证模板的正确性吧！
 
-[code lang="cpp"]
-[/code]
+{% include_code poj2506 Tiling lang:cpp poj/2506.cpp %}

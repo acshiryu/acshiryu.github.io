@@ -24,10 +24,6 @@ date: 2012-03-09 17:18:47
 
 如果有时间，这题还会再做一遍的，用Prim算法和Dijkstra试一下！
 
-[code lang="cpp"]
-
-[/code]
+{% include_code poj1797 Heavy Transportation lang:cpp poj/1797-1.cpp %}
 　　附：第一次参考代码
-[code lang="cpp"]
-
-[/code]
+{% include_code poj1797 Heavy Transportation lang:cpp poj/1797-2.cpp %}

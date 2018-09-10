@@ -30,5 +30,4 @@ date: 2012-03-11 00:03:40
 
 开始时因为很久没写并查集了，竟然写错了，WA了一个，然后就是对a和b都有对象的情况考虑不完整，也WA了一次，修正后果然AC了！
 
-[code lang="cpp"]
-[/code]
+{% include_code poj2492 Standard Point System lang:cpp poj/2492.cpp %}

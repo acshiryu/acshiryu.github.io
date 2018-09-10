@@ -13,6 +13,4 @@ categories:
 
 第一次做，刚开始不懂，看了nocow的代码后，自己当CPU运行了一遍，知道了大概，直接套模板把这题给AC了
 <!--more-->
-``` C++
-
-```
+{% include_code poj1274 The Perfect Stall lang:cpp poj/1274.cpp %}

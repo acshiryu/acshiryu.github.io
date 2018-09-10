@@ -45,5 +45,4 @@ date: 2012-03-10 01:16:54
 
 http://www.cnblogs.com/ACShiryu/archive/2011/08/09/poj3370.html
 
-[code lang="cpp"]
-[/code]
+{% include_code poj2356 Find a multiple lang:cpp poj/2356.cpp %}

@@ -16,5 +16,4 @@ date: 2012-03-09 17:22:47
 
 该题图为稀疏图，用Kruskal算法比较好，经过昨天对于生成树的题目的训练，今天终于对该类题目有所感觉，这题只是纯粹的求最小生成树，难度不大，我1次提交就AC了，点此进入关于Kruskal算法的详细介绍
 
-[code lang="cpp"]
-[/code]
+{% include_code poj1251 Jungle Roads lang:cpp poj/1251.cpp %}

@@ -43,5 +43,4 @@ date: 2012-03-10 01:22:29
 
 然后直接套用那个求欧拉函数的模板1A了，我发现我最近好喜欢套模板啊，没办法，知道的太少了
 
-[code lang="cpp"]
-[/code]
+{% include_code poj1284 Primitive Roots lang:cpp poj/1284.cpp %}

@@ -21,6 +21,4 @@ date: 2012-03-09 17:10:52
 刚开始的时候把标记数组开小了，没注意到×2可能会出现超过100,000的情况，提交时RE了一次，把数组改打就AC了
 ![](http://pic002.cnblogs.com/images/2011/315754/2011072317145432.png)
 
-[code lang="cpp"]
-
-[/code]
+{% include_code poj3278 Catch That Cow lang:cpp poj/3278.cpp %}

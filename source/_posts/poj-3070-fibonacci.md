@@ -22,5 +22,4 @@ date: 2012-03-10 23:58:50
 
 矩阵的快速幂我是直接抄的模板，刚开始时不理解，现在懂了，详情直接看代码
 
-[code lang="cpp"]
-[/code]
+{% include_code poj3070 Fibonacci lang:cpp poj/3070.cpp %}

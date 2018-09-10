@@ -20,5 +20,4 @@ date: 2012-03-10 01:07:57
 关于求二分图最大匹配的算法这里不再重复，详见POJ 1274 The Perfect Stall 解题报告
 
 参考代码（未加注释，因为代码和POJ 1274很像，建议直接看[POJ 1274 The Perfect Stall 解题报告](/archives/958 "POJ 1274 The Perfect Stall 解题报告")）：
-[code lang="cpp"]
-[/code]
+{% include_code poj1325 Machine Schedule lang:cpp poj/1325.cpp %}

@@ -18,5 +18,4 @@ date: 2012-03-10 01:07:04
 
 但做这题的时候，用临界矩阵做刚开始时数组开小了，RE了一次，第二次TLE，后改为临界表，依旧TLE，最后，无奈，把cin全换成scanf时过了，在此要感谢laputa大神的提醒，Orz！
 
-[code lang="cpp"]
-[/code]
+{% include_code poj1469 COURSES lang:cpp poj/1469.cpp %}

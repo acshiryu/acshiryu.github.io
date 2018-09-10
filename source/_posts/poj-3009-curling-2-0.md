@@ -15,5 +15,4 @@ date: 2012-03-09 17:08:25
 
 在搜索时如果发现此时搜索的层次已经大于最优解，则可以回溯，因为继续向下搜也不会再出现更优解。
 
-[code lang="cpp"]
- [/code]
+{% include_code poj3009 Curling 2.0 lang:cpp poj/3009.cpp %}

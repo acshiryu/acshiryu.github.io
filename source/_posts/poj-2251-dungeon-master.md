@@ -23,6 +23,4 @@ date: 2012-03-09 17:12:58
 
 这题用BFS解，每次去队首元素，如果是终点则输出结果移动的次数，否则，从该点开始分别向东南西北上下移动（如果可以走的话）并继续搜，如果到队列为空还没搜到解法，则说明无解。
 
-[code lang="cpp"]
- 
-[/code]
+{% include_code poj2251 Dungeon Master lang:cpp poj/2251.cpp %}
