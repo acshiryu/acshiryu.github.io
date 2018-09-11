@@ -1,13 +1,14 @@
 title: poj1141 Brackets Sequence(经典DP) 解题报告另附官方测试数据
 toc: true
 tags:
+  - poj
   - DP
   - 字符串
   - 字符串匹配
 categories:
   - 算法竞赛
 id: 1330
-date: 2012-05-03 22:20:06
+date: 2012-01-01 01:08:00
 ---
 
 好久没写解题报告了！
@@ -17,7 +18,3 @@ date: 2012-05-03 22:20:06
 另开一个数组，记录dp分成更小的子问题的过程，这个数组的值分两部分，xxxy，我们用个位数表示划分子问题的情况，如果y是-1，表示是去掉两边的括号，y是8表示分裂成两部分。而前面的xxx部分表示划分的区域，最后，开始递推，输出括号的位置。这题有一个trick，就是最后一组数据是空串，而用scanf读取字符串会wa。详细看代码和测试数据
 
 {% include_code poj1141 Brackets Sequence lang:cpp poj/1141.cpp %}
-
-## <font color="red">另测试数据下载地址：</font>
-
-[http://down.qiannao.com/space/file/ftyyl2009/share/2012/5/3/poj1141.zip/.page](/golinks.php?url=http://down.qiannao.com/space/file/ftyyl2009/share/2012/5/3/poj1141.zip/.page "poj测试数据")

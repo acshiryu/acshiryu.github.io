@@ -1,12 +1,12 @@
 title: POJ测试数据及官方标程，你能HOLD住吗？
 toc: true
 tags:
-  - POJ
+  - poj
   - 测试数据
 categories:
   - 算法竞赛
 id: 918
-date: 2014-10-08 23:32:22
+date: 2012-01-01 00:00:00
 ---
 
 **１、USACO**

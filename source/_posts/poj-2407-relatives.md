@@ -1,13 +1,14 @@
 title: POJ2407Relatives --欧拉函数的简单运用
 toc: true
 tags:
+  - poj
   - 互素
   - 欧拉函数
   - 素数
 categories:
   - 算法竞赛
 id: 969
-date: 2012-03-10 01:12:14
+date: 2012-01-01 01:33:00
 ---
 
 题目大意就是给一个数n，求出不大于n且与n互素的数的个数，

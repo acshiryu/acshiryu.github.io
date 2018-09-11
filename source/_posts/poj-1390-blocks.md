@@ -1,12 +1,13 @@
 title: POJ1390 Blocks 常见动态规划模型
 toc: true
 tags:
+  - poj
   - DP
   - 动态规划
 categories:
   - 算法竞赛
 id: 1359
-date: 2012-05-08 22:11:06
+date: 2012-01-01 01:18:00
 ---
 
 黑书真不是盖的！lrj黑书的常见模型分析的第一道例题（P123）

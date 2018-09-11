@@ -1,12 +1,13 @@
 title: poj2663 Tri Tiling 解题报告
 toc: true
 tags:
+  - poj
   - 数学
   - 递推
 categories:
   - 算法竞赛
 id: 1026
-date: 2012-03-15 20:46:07
+date: 2012-01-01 01:41:00
 ---
 
 题目地址：[http://poj.org/problem?id=2663](http://poj.org/problem?id=2663 "Tri Tiling")

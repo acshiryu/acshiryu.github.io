@@ -1,13 +1,14 @@
 title: poj 2891 Strange Way to Express Integers 扩展欧几里得
 toc: true
 tags:
+  - poj
   - gcd
   - 扩展欧几里得
   - 欧几里得
 categories:
   - 算法竞赛
 id: 1457
-date: 2012-07-22 10:35:52
+date: 2012-01-01 01:44:00
 ---
 
 题目大意就是给出a和r，求c,其中c mod ai = ri；这题就是扩展欧几里得的一个简单应用
