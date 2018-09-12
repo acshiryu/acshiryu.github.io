@@ -11,10 +11,12 @@ id: 1457
 date: 2012-01-01 01:44:00
 ---
 
-题目大意就是给出a和r，求c,其中c mod ai = ri；这题就是扩展欧几里得的一个简单应用
+题目大意就是给出$a$和$r$，求$c$,其中$c \bmod a_i = r_i$ 这题就是扩展欧几里得的一个简单应用
 
-首先我们可以假设c=a0*x+r0=a1*y+r1;则a0*x-a1*y=r1-r0;此时可以求出x，故可以求出c。
+首先我们可以假设$c=a_0x+r_0=a_1y+r_1$则$a_0x-a_1y=r_1-r_0$;此时可以求出$x$，故可以求出$c$。
 
-假设A=lcm(a0,a1),则A=a0*t1=a1*t1；那么可以推出C'=A*z+C=a0*t*z+a0*x+r0=a0*(t0*z+x)+r0=a1*(t1*z+y)+r1;故这时再将这两个式子合并写成C'=lcm(a0,a1)*z+C；再与接下来的ai和ri合并即可
+假设$A= \mathrm{lcm} (a_0,a_1)$,则$A=a_0t_1=a_1t_1$；那么可以推出$C'=Az+C=a_0tz+a_0x+r_0=a_0(t_0z+x)+r_0=a_1(t_1z+y)+r_1$
+
+故这时再将这两个式子合并写成$C'= \mathrm{lcm} (a_0,a_1)z+C$再与接下来的$a_i$和$r_i$合并即可
 
 {% include_code poj2891 Strange Way to Express Integers lang:cpp poj/2891.cpp %}
