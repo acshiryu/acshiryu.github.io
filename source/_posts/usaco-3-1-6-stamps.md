@@ -17,55 +17,5 @@ date: 2012-05-10 17:19:23
 最后，就顺序遍历dp数组，找出中断点。没什么难度
 
 [code lang="cpp"]
-/*
-ID:shiryuw1
-PROG:stamps
-LANG:C++
-*/
-#include &lt;algorithm&gt;
-#include &lt;iostream&gt;
-#include &lt;string&gt;
-#include &lt;cstring&gt;
-#include &lt;cstdio&gt;
-#include &lt;cmath&gt;
-using namespace std;
 
-#define zero(a) memset(a,0,sizeof(a))
-#define one(a) memset(a,1,sizeof(a))
-#define fone(a) memset(a,-1,sizeof(a))
-#define pow2(a) ((a)*(a))
-#define pow3(a) ((pow2(a))*(a))
-
-int dp[2000005];
-int a[55];
-int main()
-{
-	freopen(&quot;stamps.in&quot;,&quot;r&quot;,stdin);
-	freopen(&quot;stamps.out&quot;,&quot;w&quot;,stdout);
-	int k,n,i,j,maxn=-1;;
-	scanf(&quot;%d%d&quot;,&amp;k,&amp;n);
-	for(i=0;i&lt;n;i++)
-	{
-		scanf(&quot;%d&quot;,&amp;a[i]);
-		maxn=max(maxn,a[i]);
-	}
-
-	maxn*=k;
-	for(i=1;i&lt;=maxn;i++)
-		dp[i]=(1&lt;&lt;25);
-	dp[0]=0;
-	for(i=0;i&lt;n;i++)
-	{
-		for(j=a[i];j&lt;=maxn;j++)
-		{
-			dp[j]=min(dp[j-a[i]]+1,dp[j]);
-		}
-	}
-
-	for(i=1;i&lt;=maxn;i++)
-		if(dp[i]&gt;k)
-			break;
-	printf(&quot;%d\n&quot;,i-1);
-    return 0;
-}
 [/code]
