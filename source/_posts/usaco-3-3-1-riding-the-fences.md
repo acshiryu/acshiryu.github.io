@@ -10,6 +10,4 @@ date: 2012-07-14 10:48:26
 ---
 
 欧拉回路，模板题
-[code lang="cpp"]
-
-[/code]
+{% include_code usaco 3.3.1 Riding The Fences lang:cpp usaco/3-3-1.cpp %}

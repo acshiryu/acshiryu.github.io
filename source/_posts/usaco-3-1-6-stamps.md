@@ -1,6 +1,7 @@
-title: USACO3.1.6 Stamps（动态规划）解题报告
+title: USACO 3.1.6 Stamps（动态规划）解题报告
 toc: true
 tags:
+  - usaco
   - DP
   - 动态规划
   - 背包问题
@@ -16,6 +17,4 @@ date: 2012-05-10 17:19:23
 
 最后，就顺序遍历dp数组，找出中断点。没什么难度
 
-[code lang="cpp"]
-
-[/code]
+{% include_code usaco 3.1.6 Stamps lang:cpp usaco/3-1-6.cpp %}
