@@ -1,6 +1,7 @@
 title: USACO 2.3.3 Zero Sum 解题报告
 toc: true
 tags:
+  - usaco
   - DFS
   - 搜索
   - 枚举
@@ -14,6 +15,4 @@ date: 2012-03-08 23:25:53
 
 这题可以用DFS直接求解，通过在每两个连续的数间指定可能的运算符（按空格，+，-的顺序指定）。当运算到最后一个数时如果结果为0，则输出
 
-[code lang="cpp"]
-
-[/code]
+{% include_code usaco 2.3.3 Zero Sum lang:cpp usaco/2-3-3.cpp %}

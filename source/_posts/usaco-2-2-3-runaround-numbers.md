@@ -1,6 +1,7 @@
 title: USACO 2.2.3 Runaround Numbers解题报告
 toc: true
 tags:
+  - usaco
   - 循环
   - 枚举
 categories:
@@ -18,5 +19,4 @@ date: 2012-03-07 23:02:17
 *   又一次: 6 2 8 这是你回到了起点, 在从每一个数字开始数1次之后. 如果你在从每一个数字开始数一次以后没有回到起点, 你的数字不是一个循环数。
 
 这题可以从M开始，一个个枚举数据，知道遇到循环数，没什么技术含量
-[code lang="cpp"]
-[/code]
+{% include_code usaco 2.2.3 Runaround Numbers lang:cpp usaco/2-2-3.cpp %}

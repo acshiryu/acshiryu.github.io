@@ -1,6 +1,7 @@
 title: USACO 2.3.5 Controlling Companies 解题报告
 toc: true
 tags:
+  - usaco
   - 图论
 categories:
   - 算法竞赛
@@ -14,12 +15,10 @@ date: 2012-03-08 23:30:22
 *   公司A拥有大于50%的公司B的股票。
 *   公司A能管理K(K >= 1)个公司，记为C1, ..., CK，每个公司Ci拥有xi%的公司B的股票，并且x1+ .... + xK > 50%。
 
-这题可以将i从1出发到100，找到没被i管理的公司j，求出sum=∑map[k][j] (其中，k是被i管理的公司)
+这题可以将i从1出发到100，找到没被i管理的公司j，求出$sum=∑map_{kj}$ (其中，k是被i管理的公司)
 
 如果sum>50,则i控制j。再继续寻找下一个j。如果一直没找到可被管理的公司，这再从下一个i开始查找
 
 数据分析：数据量不大，最坏的情况是有100个公司，程序的时间复杂度为O（n^3），不会超时，但还要注意自己的能被自己所管理，也就是说当使用第三条规则时还要加上a管理a的情况，刚开始时没加上，提交一直WA；
 
-[code lang="cpp"]
-
-[/code]
+{% include_code usaco 2.3.5 Controlling Companies lang:cpp usaco/2-3-5.cpp %}

@@ -15,5 +15,4 @@ date: 2012-03-08 23:28:45
 
 其中money [ j ] [ i ] 表示用前i种币拼出j的情况总数，明显题目要求的是money [ n ] [ v ]
 
-[code lang="cpp"]
-[/code]
+{% include_code usaco 2.3.4 Money Systems lang:cpp usaco/2-3-4.cpp %}

@@ -1,6 +1,7 @@
 title: USACO 2.2.2 Subset Sums解题报告
 toc: true
 tags:
+  - usaco
   - DP
   - 记忆化搜索
   - 递推
@@ -26,6 +27,4 @@ date: 2012-03-07 22:57:25
 
 数据分析：N最大为39，32位整数可能存不下，故要使用64位扩展，故要将数据声明为long long .因为使用的是记忆化搜索，很大程度上减少了重复搜索的情况，时间复杂度为O（n^3），远优于O（2^n），不会超时.。
 
-[code lang="cpp"]
-
-[/code]
+{% include_code usaco 2.2.2 Subset Sums lang:cpp usaco/2-2-2.cpp %}
