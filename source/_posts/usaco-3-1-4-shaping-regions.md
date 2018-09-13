@@ -38,17 +38,17 @@ Var k1,k2
 	Begin
 		Case Direction of
 		1:Begin
-			k1 ← Max(x1,x3) ｛计算线段(x1,x2)，(x3,x4)交集的左边界｝
-			k2 ← Min(x2,x4) ｛计算线段(x1,x2)，(x3,x4)交集的右边界｝
-			if x1&lt;k1 then Add(x1,y1,k1,y2)
-			if k2&lt;x2 then Add(k2,y1,x2,y2)
+			k1 := Max(x1,x3) ｛计算线段(x1,x2)，(x3,x4)交集的左边界｝
+			k2 := Min(x2,x4) ｛计算线段(x1,x2)，(x3,x4)交集的右边界｝
+			if x1 < k1 then Add(x1,y1,k1,y2)
+			if k2 < x2 then Add(k2,y1,x2,y2)
 			Cut(k1,y1,k2,y2,Direction+1)
 		End
 		2:Begin
-			k1 ← Max(y1,y3)
-			k2 ← Min(y2,y4)
-			if y1&lt;k1 then Add(x1,y1,x2,k1)
-			if k2&lt;y2 then Add(x1,k2,x2,y2)
+			k1 := Max(y1,y3)
+			k2 := Min(y2,y4)
+			if y1 < k1 then Add(x1,y1,x2,k1)
+			if k2 < y2 then Add(x1,k2,x2,y2)
 		End
 	End
 End
