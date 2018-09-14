@@ -1,14 +1,14 @@
 title: "ZOJ月赛解题报告-ZOJ Monthly, February 2012(ZOJ3571-3580)"
 toc: true
-date: 2014-12-16 22:31:12
 tags:
  - zoj
- - gcd
- - 数学
+ - 最大公约数
+ - 数论
  - 数据结构
  - 矩阵
 categories:
  - 算法竞赛
+date: 2018-09-14 12:12:12
 ---
 ### A: Good Rectangle(zoj3571)
 等待更新......

@@ -14,7 +14,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://acshiryu.github.io/
 root: /
-permalink: archives/:category/:year-:month-:day-:title.html
+permalink: archives/:category/:title.html
 permalink_defaults: /404.html
 
 # Directory
@@ -70,24 +70,31 @@ tag_map:
   划分: division
   矩形: rectangle
   图论: graph-theory
+  反素数: anti-prime
   二分图: binary-picture
   快速幂: fast-power
   字典树: dictionary-tree
   并查集: union-set
   线段树: segment-tree
   最短路: shortest-road
+  逆序对: reverse-order
   计算几何: computation-geometry
   动态规划: dp
   最大匹配: maximum-match
   卡特兰数: catalan-number
   状态压缩: state-compression
   欧拉函数: euler-function
+  欧拉回路: euler-loop
   数据结构: data-structure
   素性测试: prime-test
   优先队列: priority-queue
   背包问题: backpack-problem
   后缀数组: suffix-array
+  归并排序: merge-sort
   AC自动机: ac-automation
+  组合数学: combinatorial-mathematics
+  康托展开: cantor-expand
+  高斯消元: gaussian-elimination
   字符串匹配: string-match
   最大公约数: greatest-common-divisor
   深度优先搜索: dfs

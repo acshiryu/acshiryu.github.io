@@ -1,12 +1,11 @@
 title: USACO 3.2.3 Spinning Wheels
-toc: true
+toc: false
 tags:
   - usaco
   - 枚举
 categories:
   - 算法竞赛
-id: 1416
-date: 2012-06-08 16:51:47
+date: 2018-09-14 12:23:47
 ---
 
 随便写的，估计明天我就会忘了每个函数的意思

@@ -1,6 +1,5 @@
 title: ZOJ 3574 Under Attack II解题报告
 toc: false
-date: 2014-12-16 22:41:16
 tags:
  - zoj
  - 矩形
@@ -8,6 +7,7 @@ tags:
  - 逆序对
 categories:
  - 算法竞赛
+date: 2018-09-14 12:14:16
 ---
 原题地址：[ZOJ3574 Under Attack II](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemId=4596)
 题目大意就是给出一个y无限的矩形区域，他的左边界在x=a,又边界x=b，求，现在给出n条直线，把这个矩形区域分成多少份？

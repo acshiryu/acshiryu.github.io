@@ -1,12 +1,11 @@
 title: USACO 3.3.1 Riding The Fences 欧拉回路
-toc: true
+toc: false
 tags:
   - usaco
   - 欧拉回路
 categories:
   - 算法竞赛
-id: 1444
-date: 2012-07-14 10:48:26
+date: 2018-09-14 12:19:26
 ---
 
 欧拉回路，模板题
