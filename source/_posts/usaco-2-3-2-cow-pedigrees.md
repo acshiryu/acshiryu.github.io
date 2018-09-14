@@ -1,14 +1,11 @@
 title: USACO 2.3.2 Cow Pedigrees 解题报告
-toc: true
 tags:
   - usaco
-  - DP
   - 二叉树
   - 动态规划
 categories:
   - 算法竞赛
-id: 908
-date: 2012-03-08 23:24:30
+date: 2018-09-14 18:13:30
 ---
 
 题目意思很简单，就是给出N和K，找出满足只有N个节点，并且每个节点的度为0或2，深度为K的二叉树的总数。

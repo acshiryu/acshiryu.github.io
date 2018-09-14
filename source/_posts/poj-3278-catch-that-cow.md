@@ -1,14 +1,12 @@
 title: POJ3278 Catch That Cow 解题报告
-toc: true
 tags:
   - poj
-  - BFS
-  - STL
+  - 广度优先搜索
+  - 数据结构
   - 搜索
 categories:
   - 算法竞赛
-id: 933
-date: 2012-01-01 01:50:00
+date: 2018-09-14 18:36:00
 ---
 
 题目大意，就是给出a和b点的横坐标，求到a，b的最小行动次数，其中每次行动只能是下面两种情况之一

@@ -1,14 +1,10 @@
 title: USACO 3.1.5 Contact 解题报告
-toc: true
 tags:
-  - usaco
-  - STL
   - usaco
   - 字典树
 categories:
   - 算法竞赛
-id: 1397
-date: 2012-05-10 20:52:28
+date: 2018-09-14 18:09:28
 ---
 
 USACO卡题有一段时间了，没想到今天连A三题，看来有进步了？？？？不过，马上要数据库考试了，美国奶牛3.2要暂停了

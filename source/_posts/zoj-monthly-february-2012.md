@@ -1,5 +1,4 @@
 title: "ZOJ月赛解题报告-ZOJ Monthly, February 2012(ZOJ3571-3580)"
-toc: true
 tags:
  - zoj
  - 最大公约数

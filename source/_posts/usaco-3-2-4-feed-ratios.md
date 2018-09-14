@@ -1,5 +1,4 @@
 title: USACO 3.2.4 Feed Ratios 解题报告
-toc: false
 tags:
   - usaco
   - 高斯消元

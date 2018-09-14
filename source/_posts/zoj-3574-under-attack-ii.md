@@ -1,5 +1,4 @@
 title: ZOJ 3574 Under Attack II解题报告
-toc: false
 tags:
  - zoj
  - 矩形

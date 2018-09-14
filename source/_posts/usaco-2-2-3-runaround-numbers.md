@@ -1,13 +1,10 @@
 title: USACO 2.2.3 Runaround Numbers解题报告
-toc: true
 tags:
   - usaco
-  - 循环
   - 枚举
 categories:
   - 算法竞赛
-id: 901
-date: 2012-03-07 23:02:17
+date: 2018-09-14 18:17:17
 ---
 
 题目大意就是给出一个M，求比M大得最小的一个“循环数”

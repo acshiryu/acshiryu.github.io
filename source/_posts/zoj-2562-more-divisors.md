@@ -1,5 +1,4 @@
 title: ZOJ 2562 More Divisors 反素数
-toc: false
 tags:
   - zoj
   - 反素数

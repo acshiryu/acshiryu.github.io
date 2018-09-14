@@ -1,5 +1,4 @@
 title: USACO 3.2.5 Magic Squares (BFS+康托展开)
-toc: false
 tags:
   - usaco
   - 广度优先搜索

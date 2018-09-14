@@ -1,5 +1,4 @@
 title: USACO 3.2.2 Stringsobits 解题报告
-toc: false
 tags:
   - usaco
   - 组合数学

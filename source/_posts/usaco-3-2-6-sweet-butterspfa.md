@@ -1,5 +1,4 @@
 title: USACO 3.2.6 Sweet Butter(SPFA求最短路)
-toc: false
 tags:
   - usaco
   - spfa

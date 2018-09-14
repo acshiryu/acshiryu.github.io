@@ -1,12 +1,10 @@
 title: USACO 2.3.4 Money Systems 解题报告
-toc: true
 tags:
-  - DP
+  - usaco
   - 动态规划
 categories:
   - 算法竞赛
-id: 914
-date: 2012-03-08 23:28:45
+date: 2018-09-14 18:11:45
 ---
 
 题目大意很简单，就是给出钱币系统，求能拼出V的情况总数

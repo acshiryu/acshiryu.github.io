@@ -1,5 +1,4 @@
 title: USACO 3.2.3 Spinning Wheels
-toc: false
 tags:
   - usaco
   - 枚举

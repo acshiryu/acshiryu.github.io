@@ -27,7 +27,7 @@
 		<% if (page.path === "categories/index.html"){ %>
 			<%- partial('post/categories') %>
 		<% } %>
-	    <% if(!index && (post.toc !== false) && theme.toc.article){ %>
+	    <% if(!index && (post.toc !== false) && theme.toc.article && toc(post.content)){ %>
 		<div id="toc" class="toc-article">
 			<strong class="toc-title"><%= __('post.toc') %></strong>
 		<%- toc(post.content) %>

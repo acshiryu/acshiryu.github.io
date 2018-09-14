@@ -4,7 +4,7 @@ tags:
   - hdu
   - 深度优先搜索
   - 矩形
-  - 划分
+  - 分治
 categories:
   - 算法竞赛
 id: 1044

@@ -1,12 +1,10 @@
 title: USACO 2.3.5 Controlling Companies 解题报告
-toc: true
 tags:
   - usaco
   - 图论
 categories:
   - 算法竞赛
-id: 916
-date: 2012-03-08 23:30:22
+date: 2018-09-14 18:11:22
 ---
 
 题目意思就是打印所有的符合公司A能管理B的情况。其中A和B满足下面三个条件中的至少一个，就可以说A能管理B
