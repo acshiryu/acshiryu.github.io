@@ -1,14 +1,13 @@
 title: poj 2891 Strange Way to Express Integers 扩展欧几里得
-toc: true
 tags:
   - poj
-  - gcd
+  - 最大公约数
   - 扩展欧几里得
   - 欧几里得
+  - 数论
 categories:
   - 算法竞赛
-id: 1457
-date: 2012-01-01 01:44:00
+date: 2018-09-14 21:15:00
 ---
 
 题目大意就是给出$a$和$r$，求$c$,其中$c \bmod a_i = r_i$ 这题就是扩展欧几里得的一个简单应用

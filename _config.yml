@@ -73,6 +73,7 @@ tag_map:
   背包: backpack
   图论: graph-theory
   规律: regular-pattern
+  搜索: search
   反素数: anti-prime
   二分图: binary-picture
   快速幂: fast-power
@@ -83,7 +84,8 @@ tag_map:
   最短路: shortest-road
   逆序对: reverse-order
   二叉树: binary-tree
-  搜索: search
+  高精度: high-precision
+  欧几里得: euclid
   计算几何: computation-geometry
   动态规划: dynamic-planning
   矩形切割: rectangular-cutting
@@ -111,6 +113,7 @@ tag_map:
   深度优先搜索: depth-first-search
   广度优先搜索: breadth-first-search
   斐波那契数列: fibonacci-sequence
+  扩展欧几里得: extended-euclid
   算法竞赛入门经典训练指南: acm-training-guide
   
 

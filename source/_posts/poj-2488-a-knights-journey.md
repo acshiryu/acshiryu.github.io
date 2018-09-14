@@ -1,13 +1,11 @@
-title: "POJ2488 A Knight's Journey 解题报告"
-toc: true
+title: POJ2488 A Knight's Journey 解题报告
 tags:
   - poj
-  - DFS
+  - 深度优先搜索
   - 搜索
 categories:
   - 算法竞赛
-id: 924
-date: 2012-01-01 01:38:00
+date: 2018-09-14 21:27:00
 ---
 
 题目大意是给出一个规格小于8*8的棋盘，判断一个只能走“日”的骑士能否不重复的走遍整个棋盘，如果能，按字典序输出走的路径，否则输出“impossible”
