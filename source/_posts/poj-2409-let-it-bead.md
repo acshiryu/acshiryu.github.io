@@ -1,13 +1,11 @@
 title: poj2409 Let it Bead 解题报告
-toc: true
 tags:
   - poj
   - polya
   - 组合数学
 categories:
   - 算法竞赛
-id: 1062
-date: 2012-01-01 01:34:00
+date: 2018-09-15 12:05:00
 ---
 
 题目地址:[http://poj.org/problem?id=2409](http://poj.org/problem?id=2409 "Let it Bead")

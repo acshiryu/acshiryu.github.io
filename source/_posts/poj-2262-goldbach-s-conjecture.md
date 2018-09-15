@@ -1,13 +1,11 @@
 title: "POJ2262Goldbach's Conjecture 简单的素数判定"
-toc: true
 tags:
   - poj
   - 枚举
   - 素数
 categories:
   - 算法竞赛
-id: 967
-date: 2012-01-01 01:31:00
+date: 2018-09-15 12:10:00
 ---
 
 题目大意就是输入一个不小于6的合数，把它表示成两个质数的和，如果有多个，数出相差最大的一组
