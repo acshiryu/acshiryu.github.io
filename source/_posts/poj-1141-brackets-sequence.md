@@ -1,14 +1,11 @@
 title: poj1141 Brackets Sequence(经典DP) 解题报告另附官方测试数据
-toc: true
 tags:
   - poj
-  - DP
-  - 字符串
+  - 动态规划
   - 字符串匹配
 categories:
   - 算法竞赛
-id: 1330
-date: 2012-01-01 01:08:00
+date: 2018-09-16 10:16:00
 ---
 
 好久没写解题报告了！

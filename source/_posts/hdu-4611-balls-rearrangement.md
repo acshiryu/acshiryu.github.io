@@ -1,13 +1,11 @@
 title: hdu4611 Balls Rearrangement 最大公约数 2013多校2-1001
-toc: true
 tags:
   - hdu
   - 最大公约数
   - 数论
 categories:
   - 算法竞赛
-id: 1046
-date: 2010-01-01 00:23:00
+date: 2018-09-16 10:29:00
 ---
 
 题目实际上就是求$$\sum_{i=0}^{n-1}\left | i \mod a-i \mod b \right |$$

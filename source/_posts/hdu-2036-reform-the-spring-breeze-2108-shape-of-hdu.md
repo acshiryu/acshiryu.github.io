@@ -1,12 +1,10 @@
 title: hdu2036和hdu2108  叉乘的运用
-toc: true
 tags:
   - hdu
   - 计算几何
 categories:
   - 算法竞赛
-id: 1031
-date: 2010-01-01 00:08:00
+date: 2018-09-16 10:44:00
 ---
 
 题目地址：

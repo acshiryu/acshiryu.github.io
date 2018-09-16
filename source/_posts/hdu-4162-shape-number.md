@@ -1,5 +1,4 @@
 title: hdu4162 Shape Number 解题报告
-toc: true
 tags:
   - hdu
   - 后缀数组
@@ -8,8 +7,7 @@ tags:
   - 枚举
 categories:
   - 算法竞赛
-id: 1036
-date: 2010-01-01 00:13:00
+date: 2018-09-16 10:39:00
 ---
 
 原题地址：[http://acm.hdu.edu.cn/showproblem.php?pid=4162](http://acm.hdu.edu.cn/showproblem.php?pid=4162)

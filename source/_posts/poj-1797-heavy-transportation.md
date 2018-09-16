@@ -1,5 +1,4 @@
 title: POJ 1797 Heavy Transportation 解题报告
-toc: true
 tags:
   - poj
   - 图论
@@ -8,8 +7,7 @@ tags:
   - 生成树
 categories:
   - 算法竞赛
-id: 943
-date: 2012-01-01 01:25:00
+date: 2018-09-16 10:00:00
 ---
 
 题目大意是就是何处一个图，n个顶点和m条边，每个边都有最大承载量，现在我要从1点运送货物到n点，求能运送货物的最大重量。

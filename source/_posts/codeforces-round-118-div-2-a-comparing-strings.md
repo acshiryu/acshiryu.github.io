@@ -1,11 +1,9 @@
 title: "Codeforces Round #118 (Div. 2) :A. Comparing Strings"
-toc: true
 tags:
   - codeforces
 categories:
   - 算法竞赛
-id: 1011
-date: 2016-09-15 21:37:57
+date: 2018-09-16 11:03:00
 ---
 
 晕死，纯水题，竟然在最后给挂了！

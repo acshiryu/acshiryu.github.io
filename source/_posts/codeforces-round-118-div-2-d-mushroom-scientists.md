@@ -1,12 +1,10 @@
 title: "Codeforces Round #118 (Div. 2) :D. Mushroom Scientists"
-toc: true
 tags:
   - codeforces
   - 数论
 categories:
   - 算法竞赛
-id: 1014
-date: 2016-09-15 21:57:26
+date: 2018-09-16 11:00:00
 ---
 
 题目就是给出$a,b,c$和$S$，求出一组非负数$x,y,z$ 使得$x+y+z=S$,并且要求${x^a}{y^b}{z^c}$最大

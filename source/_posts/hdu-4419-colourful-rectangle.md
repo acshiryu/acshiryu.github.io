@@ -1,5 +1,4 @@
 title: hdu4419 Colourful Rectangle  搜索+矩形分割  杭州赛区网赛最后一题
-toc: true
 tags:
   - hdu
   - 深度优先搜索
@@ -7,8 +6,7 @@ tags:
   - 分治
 categories:
   - 算法竞赛
-id: 1044
-date: 2010-01-01 00:21:00
+date: 2018-09-16 10:31:00
 ---
 
 这题就是一个矩阵分割，因为之前做过USACO上类似的一题，所以最开始就看了这题

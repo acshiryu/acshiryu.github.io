@@ -1,5 +1,4 @@
 title: hdu2222 Keywords Search 解题报告
-toc: true
 tags:
   - hdu
   - AC自动机
@@ -7,8 +6,7 @@ tags:
   - 数据结构
 categories:
   - 算法竞赛
-id: 1032
-date: 2010-01-01 00:09:00
+date: 2018-09-16 10:43:00
 ---
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=2222](http://acm.hdu.edu.cn/showproblem.php?pid=2222 "Keywords Search")

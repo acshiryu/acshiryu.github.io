@@ -1,12 +1,10 @@
 title: hdu4301 Divide Chocolate 动态规划解题报告（多校1）
-toc: true
 tags:
   - hdu
   - 动态规划
 categories:
   - 算法竞赛
-id: 1041
-date: 2010-01-01 00:18:00
+date: 2018-09-16 10:34:00
 ---
 
 下面是官方的解题报告

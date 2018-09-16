@@ -1,12 +1,10 @@
 title: "Codeforces Round #118 (Div. 2) :C. Plant"
-toc: true
 tags:
   - codeforces
   - 矩阵快速幂
 categories:
   - 算法竞赛
-id: 1013
-date: 2016-09-15 21:51:20
+date: 2018-09-16 11:01:00
 ---
 
 就是求第$n$个图形的上三角的个数

@@ -1,5 +1,4 @@
 title: hdu4165 Pills 解题报告
-toc: true
 tags:
   - hdu
   - 卡特兰数
@@ -7,8 +6,7 @@ tags:
   - 递归
 categories:
   - 算法竞赛
-id: 1038
-date: 2010-01-01 00:15:00
+date: 2018-09-16 10:37:00
 ---
 
 原题地址：[http://acm.hdu.edu.cn/showproblem.php?pid=4161](http://acm.hdu.edu.cn/showproblem.php?pid=4161)

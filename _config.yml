@@ -75,6 +75,8 @@ tag_map:
   规律: regular-pattern
   搜索: search
   队列: queue
+  排列: arrangement
+  算法: algorithm
   反素数: anti-prime
   二分图: binary-picture
   快速幂: fast-power
@@ -109,14 +111,20 @@ tag_map:
   高斯消元: gaussian-elimination
   测试数据: test-data
   抽屉原理: drawer-principle
+  同余方程: congruence-equation
   记忆化搜索: memory-search
+  最小覆盖点: minimum-coverage-point
   字符串匹配: string-match
   最大公约数: greatest-common-divisor
+  费马小定理: fermat-little-theorem
+  匈牙利算法: hungarian-algorithm
   最小生成树: minimum-spanning-tree
   深度优先搜索: depth-first-search
   广度优先搜索: breadth-first-search
   斐波那契数列: fibonacci-sequence
   扩展欧几里得: extended-euclid
+  中国剩余定理: chinese-remainder-theorem
+  最长公共子序列: longest-common-subsequence
   算法竞赛入门经典训练指南: acm-training-guide
   
 

@@ -1,12 +1,10 @@
 title: hdu1711 Number Sequence 解题报告
-toc: true
 tags:
   - hdu
   - kmp
 categories:
   - 算法竞赛
-id: 1027
-date: 2010-01-01 00:04:00
+date: 2018-09-16 10:48:00
 ---
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=1711](http://acm.hdu.edu.cn/showproblem.php?pid=1711 "Number Sequence")

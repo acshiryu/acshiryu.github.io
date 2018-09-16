@@ -1,13 +1,11 @@
 title: "[转]高级数据结构设计－－并查集及实现学习笔记（有趣篇）"
-toc: true
 tags:
   - 并查集
   - 数据结构
   - 算法
 categories:
   - 学习笔记
-id: 559
-date: 2012-02-22 05:37:16
+date: 2018-09-16 10:26:00
 ---
 
 ## [高级数据结构设计－－并查集及实现学习笔记（有趣篇）](http://www.cnblogs.com/ACShiryu/archive/2011/11/24/unionset.html)

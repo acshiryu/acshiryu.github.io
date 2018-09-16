@@ -1,12 +1,10 @@
 title: hdu4163 Stock Prices 解题报告
-toc: true
 tags:
   - hdu
   - 排序
 categories:
   - 算法竞赛
-id: 1037
-date: 2010-01-01 00:14:00
+date: 2018-09-16 10:38:00
 ---
 
 原题地址：[http://acm.hdu.edu.cn/showproblem.php?pid=4163](http://acm.hdu.edu.cn/showproblem.php?pid=4163)

@@ -1,13 +1,10 @@
 title: POJ1142Smith Numbers一道简单的数学题
-toc: true
 tags:
   - poj
-  - 数学
   - 数论
 categories:
   - 算法竞赛
-id: 965
-date: 2012-01-01 01:09:00
+date: 2018-09-16 10:15:00
 ---
 
 题目大意就是要你找一个大于n的和数，并且满足他的各位的和与他所有的质因子的各位的和相等的最小的一个数，即此题的Smith Number

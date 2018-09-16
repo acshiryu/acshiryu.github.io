@@ -1,14 +1,11 @@
 title: poj1006 中国剩余定理
-toc: true
 tags:
   - poj
   - 中国剩余定理
-  - 数学
   - 数论
 categories:
   - 算法竞赛
-id: 981
-date: 2012-01-01 01:00:00
+date: 2018-09-16 10:24:00
 ---
 
 很明显这题要求的是使等式 $x + d = p \bmod 23 = e \bmod 28 = i \bmod 33$ 成立的最小的x，注意x不能为0

@@ -1,13 +1,11 @@
 title: hdu1232 畅通工程 解题报告
-toc: true
 tags:
   - hdu
   - 并查集
   - 数据结构
 categories:
   - 算法竞赛
-id: 1024
-date: 2010-01-01 00:01:00
+date: 2018-09-16 10:51:00
 ---
 
 题目地址：[http://acm.hdu.edu.cn/showproblem.php?pid=1232](http://acm.hdu.edu.cn/showproblem.php?pid=1232 "畅通工程")

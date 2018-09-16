@@ -1,5 +1,4 @@
 title: hdu2971 Tower 矩阵快速幂
-toc: true
 tags:
   - hdu
   - 快速幂
@@ -7,8 +6,7 @@ tags:
   - 递归
 categories:
   - 算法竞赛
-id: 1034
-date: 2010-01-01 00:11:00
+date: 2018-09-16 10:41:00
 ---
 
 从题意中可得出两个递推关系：

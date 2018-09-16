@@ -1,12 +1,10 @@
 title: hdu4300 Clairewd’s message 多校第一场
-toc: true
 tags:
   - hdu
   - kmp
 categories:
   - 算法竞赛
-id: 1040
-date: 2010-01-01 00:17:00
+date: 2018-09-16 10:35:00
 ---
 
 简单KMP，下面是官方题解
