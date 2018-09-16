@@ -91,8 +91,8 @@ https://segmentfault.com/a/1190000007261752
 代码文件需存放于source/assets/code文件夹
 ```
 {% include_code main Prime Ring lang:cpp main.cpp %}
+```
 ### 6-3 插如图片
 ```
 ![](/assets/image/img.jpg)
-```
 ```
