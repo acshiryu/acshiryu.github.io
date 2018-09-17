@@ -1,7 +1,8 @@
 title: "Codeforces Round #118 (Div. 2) :C. Plant"
 tags:
   - codeforces
-  - 矩阵快速幂
+  - 矩阵
+  - 快速幂
 categories:
   - 算法竞赛
 date: 2018-09-16 11:01:00
