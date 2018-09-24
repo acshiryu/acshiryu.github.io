@@ -37,9 +37,9 @@
       <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
-    
       <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+    
+      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
     
   </entry>
   
@@ -62,9 +62,9 @@
       <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
-    
       <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+    
+      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
     
   </entry>
   
@@ -116,9 +116,9 @@
       <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
-    
       <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+    
+      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
     
       <category term="离散" scheme="https://acshiryu.github.io/tags/disperse/"/>
     
@@ -201,9 +201,9 @@
       <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
-    
       <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+    
+      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
     
       <category term="递归" scheme="https://acshiryu.github.io/tags/recursive/"/>
     
@@ -232,9 +232,9 @@
       <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
-    
       <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+    
+      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
     
       <category term="状态压缩" scheme="https://acshiryu.github.io/tags/state-compression/"/>
     
@@ -1020,11 +1020,11 @@
     
       <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
     
-      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
-    
       <category term="后缀数组" scheme="https://acshiryu.github.io/tags/suffix-array/"/>
     
       <category term="旋转" scheme="https://acshiryu.github.io/tags/rotating/"/>
+    
+      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
     
   </entry>
   
@@ -1846,9 +1846,9 @@
     
       <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
     
-      <category term="kruskal" scheme="https://acshiryu.github.io/tags/kruskal/"/>
-    
       <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
+    
+      <category term="kruskal" scheme="https://acshiryu.github.io/tags/kruskal/"/>
     
   </entry>
   
@@ -1878,9 +1878,9 @@
     
       <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
     
-      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
-    
       <category term="prim" scheme="https://acshiryu.github.io/tags/prim/"/>
+    
+      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
     
   </entry>
   
@@ -2214,9 +2214,9 @@
     
       <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
     
-      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
-    
       <category term="prim" scheme="https://acshiryu.github.io/tags/prim/"/>
+    
+      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
     
   </entry>
   
