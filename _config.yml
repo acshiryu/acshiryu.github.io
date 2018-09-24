@@ -5,14 +5,14 @@
 # Site
 title: 永夜初晗凝碧天
 subtitle:
-description: acshiryu,acm,c++,仙剑,古剑,游戏
+description: acm,c++,程序猿,linux,cplusplus,github,poj,hdu,acshiryu,游戏,mysql
 author: 永夜初晗 
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://acshiryu.github.io/
+url: https://blog.zilong.pro/
 root: /
 permalink: archives/:category/:title.html
 permalink_defaults: /404.html
