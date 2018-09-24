@@ -1020,11 +1020,11 @@
     
       <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
     
+      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
+    
       <category term="后缀数组" scheme="https://acshiryu.github.io/tags/suffix-array/"/>
     
       <category term="旋转" scheme="https://acshiryu.github.io/tags/rotating/"/>
-    
-      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
     
   </entry>
   
@@ -1846,9 +1846,9 @@
     
       <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
     
-      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
-    
       <category term="kruskal" scheme="https://acshiryu.github.io/tags/kruskal/"/>
+    
+      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
     
   </entry>
   
@@ -1878,9 +1878,9 @@
     
       <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
     
-      <category term="prim" scheme="https://acshiryu.github.io/tags/prim/"/>
-    
       <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
+    
+      <category term="prim" scheme="https://acshiryu.github.io/tags/prim/"/>
     
   </entry>
   
@@ -2214,9 +2214,9 @@
     
       <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
     
-      <category term="prim" scheme="https://acshiryu.github.io/tags/prim/"/>
-    
       <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
+    
+      <category term="prim" scheme="https://acshiryu.github.io/tags/prim/"/>
     
   </entry>
   
