@@ -5,19 +5,19 @@
   
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <link rel="dns-prefetch" href="https://acshiryu.github.io">
+  <link rel="dns-prefetch" href="https://blog.zilong.pro">
   <title>永夜初晗凝碧天</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="acshiryu,acm,c++,仙剑,古剑,游戏">
+  <meta name="description" content="acm,c++,程序猿,linux,cplusplus,github,poj,hdu,acshiryu,游戏,mysql">
 <meta property="og:type" content="website">
 <meta property="og:title" content="永夜初晗凝碧天">
-<meta property="og:url" content="https://acshiryu.github.io/page/7/index.html">
+<meta property="og:url" content="https://blog.zilong.pro/page/7/index.html">
 <meta property="og:site_name" content="永夜初晗凝碧天">
-<meta property="og:description" content="acshiryu,acm,c++,仙剑,古剑,游戏">
+<meta property="og:description" content="acm,c++,程序猿,linux,cplusplus,github,poj,hdu,acshiryu,游戏,mysql">
 <meta property="og:locale" content="zh-CN">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="永夜初晗凝碧天">
-<meta name="twitter:description" content="acshiryu,acm,c++,仙剑,古剑,游戏">
+<meta name="twitter:description" content="acm,c++,程序猿,linux,cplusplus,github,poj,hdu,acshiryu,游戏,mysql">
   
     <link rel="alternative" href="/atom.xml" title="永夜初晗凝碧天" type="application/atom+xml">
   
@@ -47,6 +47,16 @@ ga('send', 'pageview');
 
 
   
+<script>
+var _hmt = _hmt || [];
+(function() {
+	var hm = document.createElement("script");
+	hm.src = "https://hm.baidu.com/hm.js?bef6cf365be9fc1bb6b96bed890ccfb4";
+	var s = document.getElementsByTagName("script")[0]; 
+	s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 
 </head>
 
@@ -312,7 +322,104 @@ ga('send', 'pageview');
         		</li>
       		 
         		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">生成树</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
         			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">kruskal</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
+      
+	<div class="article-category tagcloud">
+		<i class="icon-book icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="/categories/acm//" class="article-tag-list-link color5">算法竞赛</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
+
+      
+        <p class="article-more-link">
+          <a class="article-more-a" href="/archives/acm/poj-1251-jungle-roads.html">展开全文 >></a>
+        </p>
+      
+
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</article>
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        <div class="jump-container" id="js-jump-container" style="display:none;">
+            <a href="javascript:void(0)" class="mod-side-operation__jump-to-top">
+                <i class="icon-font icon-back"></i>
+            </a>
+            <div id="js-jump-plan-container" class="jump-plan-container" style="top: -11px;">
+                <i class="icon-font icon-plane jump-plane"></i>
+            </div>
+        </div>
+        
+        
+    </div>
+</aside>
+
+
+
+
+  
+    <article id="post-poj-1258-agri-net" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/archives/acm/poj-1258-agri-net.html">POJ1258 Agri-Net 解题报告</a>
+    </h1>
+  
+
+        
+        <a href="/archives/acm/poj-1258-agri-net.html" class="archive-article-date">
+  	<time datetime="2018-09-16T02:11:00.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>9月 16</time>
+</a>
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>题目给出了n个农场之间的距离，先要让这n个农场全部覆盖网络，求所用网线的最小长度，典型的最小生成树问题，比较简单，因为是稠密图，可直接用Prim算法解，我提交1次就A了，详情见代码.</p>
+<figure class="highlight cpp"><figcaption><span>poj1258 Agri-Net</span><a href="/assets/code/poj/1258.cpp">view raw</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment">Prim算法基本思想</span></span><br><span class="line"><span class="comment">1\. 在图G=(V, E) （V表示顶点 ，E表示边）中，从集合V中任取一个顶点（例如取顶点v0）放入集合 U中，这时 U={v0}，集合T(E)为空。</span></span><br><span class="line"><span class="comment">2\. 从v0出发寻找与U中顶点相邻（另一顶点在V中）权值最小的边的另一顶点v1，并使v1加入U。即U={v0,v1 }，同时将该边加入集合T(E)中。</span></span><br><span class="line"><span class="comment">3\. 重复2，直到U=V为止。</span></span><br><span class="line"><span class="comment">这时T(E)中有n-1条边，T = (U, T(E))就是一棵最小生成树。</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdlib&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cmath&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="keyword">int</span> <span class="built_in">map</span>[<span class="number">100</span>][<span class="number">100</span>];</span><br><span class="line"><span class="keyword">int</span> lowcost[<span class="number">100</span>];</span><br><span class="line"><span class="keyword">const</span> <span class="keyword">int</span> inf = (<span class="number">1</span>&lt;&lt;<span class="number">20</span>) ;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">int</span> n;</span><br><span class="line">    <span class="keyword">while</span> ( <span class="built_in">cin</span> &gt;&gt; n )</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">int</span> i , j ;</span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">0</span> ; i &lt; n ; i ++ )</span><br><span class="line">            <span class="keyword">for</span> ( j = <span class="number">0</span> ; j &lt; n ; j ++ )</span><br><span class="line">                <span class="built_in">cin</span> &gt;&gt; <span class="built_in">map</span>[i][j];</span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">0</span> ; i &lt; n ; i ++ )</span><br><span class="line">            lowcost[i]=<span class="built_in">map</span>[<span class="number">0</span>][i];    <span class="comment">//初始化各点到集合的距离</span></span><br><span class="line">        <span class="keyword">int</span> ans=<span class="number">0</span>;<span class="comment">//记录生成树的长度</span></span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">0</span> ; i &lt; n<span class="number">-1</span> ; i ++ )</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">int</span> mindis=inf;</span><br><span class="line">            <span class="keyword">int</span> minone;</span><br><span class="line">            <span class="keyword">for</span> ( j = <span class="number">0</span> ; j &lt; n ; j ++ )</span><br><span class="line">            {<span class="comment">//寻找到集合距离最近的点</span></span><br><span class="line">                <span class="keyword">if</span>(lowcost[j]&amp;&amp;mindis&gt;lowcost[j])</span><br><span class="line">                {</span><br><span class="line">                    mindis=lowcost[j];</span><br><span class="line">                    minone=j;</span><br><span class="line">                }</span><br><span class="line">            }</span><br><span class="line">            ans+=lowcost[minone];</span><br><span class="line">            lowcost[minone]=<span class="number">0</span>;</span><br><span class="line">            <span class="keyword">for</span> ( j = <span class="number">0</span> ; j &lt; n ; j ++ )</span><br><span class="line">            {<span class="comment">//更新各点到集合的距离</span></span><br><span class="line">                <span class="keyword">if</span>(lowcost[j]&gt;<span class="built_in">map</span>[minone][j])</span><br><span class="line">                    lowcost[j]=<span class="built_in">map</span>[minone][j];</span><br><span class="line">            }</span><br><span class="line">        }</span><br><span class="line">        <span class="built_in">cout</span>&lt;&lt;ans&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure>
+      
+
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+      
+	<div class="article-tag tagcloud">
+		<i class="icon-price-tags icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">图论</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">poj</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">prim</a>
         		</li>
       		 
         		<li class="article-tag-list-item">
@@ -337,7 +444,7 @@ ga('send', 'pageview');
 
       
         <p class="article-more-link">
-          <a class="article-more-a" href="/archives/acm/poj-1251-jungle-roads.html">展开全文 >></a>
+          <a class="article-more-a" href="/archives/acm/poj-1258-agri-net.html">展开全文 >></a>
         </p>
       
 
@@ -438,103 +545,6 @@ ga('send', 'pageview');
       
         <p class="article-more-link">
           <a class="article-more-a" href="/archives/acm/poj-1274-the-perfect-stall.html">展开全文 >></a>
-        </p>
-      
-
-      
-      <div class="clearfix"></div>
-    </div>
-  </div>
-</article>
-
-<aside class="wrap-side-operation">
-    <div class="mod-side-operation">
-        
-        <div class="jump-container" id="js-jump-container" style="display:none;">
-            <a href="javascript:void(0)" class="mod-side-operation__jump-to-top">
-                <i class="icon-font icon-back"></i>
-            </a>
-            <div id="js-jump-plan-container" class="jump-plan-container" style="top: -11px;">
-                <i class="icon-font icon-plane jump-plane"></i>
-            </div>
-        </div>
-        
-        
-    </div>
-</aside>
-
-
-
-
-  
-    <article id="post-poj-1258-agri-net" class="article article-type-post  article-index" itemscope itemprop="blogPost">
-  <div class="article-inner">
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/archives/acm/poj-1258-agri-net.html">POJ1258 Agri-Net 解题报告</a>
-    </h1>
-  
-
-        
-        <a href="/archives/acm/poj-1258-agri-net.html" class="archive-article-date">
-  	<time datetime="2018-09-16T02:11:00.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>9月 16</time>
-</a>
-        
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <p>题目给出了n个农场之间的距离，先要让这n个农场全部覆盖网络，求所用网线的最小长度，典型的最小生成树问题，比较简单，因为是稠密图，可直接用Prim算法解，我提交1次就A了，详情见代码.</p>
-<figure class="highlight cpp"><figcaption><span>poj1258 Agri-Net</span><a href="/assets/code/poj/1258.cpp">view raw</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment">Prim算法基本思想</span></span><br><span class="line"><span class="comment">1\. 在图G=(V, E) （V表示顶点 ，E表示边）中，从集合V中任取一个顶点（例如取顶点v0）放入集合 U中，这时 U={v0}，集合T(E)为空。</span></span><br><span class="line"><span class="comment">2\. 从v0出发寻找与U中顶点相邻（另一顶点在V中）权值最小的边的另一顶点v1，并使v1加入U。即U={v0,v1 }，同时将该边加入集合T(E)中。</span></span><br><span class="line"><span class="comment">3\. 重复2，直到U=V为止。</span></span><br><span class="line"><span class="comment">这时T(E)中有n-1条边，T = (U, T(E))就是一棵最小生成树。</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdlib&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cmath&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="keyword">int</span> <span class="built_in">map</span>[<span class="number">100</span>][<span class="number">100</span>];</span><br><span class="line"><span class="keyword">int</span> lowcost[<span class="number">100</span>];</span><br><span class="line"><span class="keyword">const</span> <span class="keyword">int</span> inf = (<span class="number">1</span>&lt;&lt;<span class="number">20</span>) ;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">int</span> n;</span><br><span class="line">    <span class="keyword">while</span> ( <span class="built_in">cin</span> &gt;&gt; n )</span><br><span class="line">    {</span><br><span class="line">        <span class="keyword">int</span> i , j ;</span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">0</span> ; i &lt; n ; i ++ )</span><br><span class="line">            <span class="keyword">for</span> ( j = <span class="number">0</span> ; j &lt; n ; j ++ )</span><br><span class="line">                <span class="built_in">cin</span> &gt;&gt; <span class="built_in">map</span>[i][j];</span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">0</span> ; i &lt; n ; i ++ )</span><br><span class="line">            lowcost[i]=<span class="built_in">map</span>[<span class="number">0</span>][i];    <span class="comment">//初始化各点到集合的距离</span></span><br><span class="line">        <span class="keyword">int</span> ans=<span class="number">0</span>;<span class="comment">//记录生成树的长度</span></span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">0</span> ; i &lt; n<span class="number">-1</span> ; i ++ )</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">int</span> mindis=inf;</span><br><span class="line">            <span class="keyword">int</span> minone;</span><br><span class="line">            <span class="keyword">for</span> ( j = <span class="number">0</span> ; j &lt; n ; j ++ )</span><br><span class="line">            {<span class="comment">//寻找到集合距离最近的点</span></span><br><span class="line">                <span class="keyword">if</span>(lowcost[j]&amp;&amp;mindis&gt;lowcost[j])</span><br><span class="line">                {</span><br><span class="line">                    mindis=lowcost[j];</span><br><span class="line">                    minone=j;</span><br><span class="line">                }</span><br><span class="line">            }</span><br><span class="line">            ans+=lowcost[minone];</span><br><span class="line">            lowcost[minone]=<span class="number">0</span>;</span><br><span class="line">            <span class="keyword">for</span> ( j = <span class="number">0</span> ; j &lt; n ; j ++ )</span><br><span class="line">            {<span class="comment">//更新各点到集合的距离</span></span><br><span class="line">                <span class="keyword">if</span>(lowcost[j]&gt;<span class="built_in">map</span>[minone][j])</span><br><span class="line">                    lowcost[j]=<span class="built_in">map</span>[minone][j];</span><br><span class="line">            }</span><br><span class="line">        }</span><br><span class="line">        <span class="built_in">cout</span>&lt;&lt;ans&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure>
-      
-
-      
-    </div>
-    <div class="article-info article-info-index">
-      
-      
-	<div class="article-tag tagcloud">
-		<i class="icon-price-tags icon"></i>
-		<ul class="article-tag-list">
-			 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">图论</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">poj</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">生成树</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">prim</a>
-        		</li>
-      		
-		</ul>
-	</div>
-
-      
-	<div class="article-category tagcloud">
-		<i class="icon-book icon"></i>
-		<ul class="article-tag-list">
-			 
-        		<li class="article-tag-list-item">
-        			<a href="/categories/acm//" class="article-tag-list-link color5">算法竞赛</a>
-        		</li>
-      		
-		</ul>
-	</div>
-
-
-      
-        <p class="article-more-link">
-          <a class="article-more-a" href="/archives/acm/poj-1258-agri-net.html">展开全文 >></a>
         </p>
       
 
@@ -1286,11 +1296,11 @@ MathJax.Hub.Queue(function() {
           <ul class="article-tag-list" q-show="showTags">
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">算法竞赛入门经典训练指南</a>
+                <a href="javascript:void(0)" class="js-tag color5">动态规划</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">动态规划</a>
+                <a href="javascript:void(0)" class="js-tag color3">算法竞赛入门经典训练指南</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -1398,11 +1408,11 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">hdu</a>
+                <a href="javascript:void(0)" class="js-tag color3">语录</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">语录</a>
+                <a href="javascript:void(0)" class="js-tag color4">hdu</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -1431,6 +1441,10 @@ MathJax.Hub.Queue(function() {
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color3">旋转</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color5">卡特兰数</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -1466,6 +1480,14 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color1">Linux</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">crontab</a>
+              </li>
+             
+              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color4">poj</a>
               </li>
              
@@ -1486,23 +1508,11 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color1">Linux</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">crontab</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">记忆化搜索</a>
               </li>
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">floyd</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">卡特兰数</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -1514,7 +1524,7 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">kruskal</a>
+                <a href="javascript:void(0)" class="js-tag color5">prim</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -1522,7 +1532,7 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">prim</a>
+                <a href="javascript:void(0)" class="js-tag color3">kruskal</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -1538,19 +1548,15 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">DP</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">最小覆盖点</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">最长公共子序列</a>
+                <a href="javascript:void(0)" class="js-tag color3">DP</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">队列</a>
+                <a href="javascript:void(0)" class="js-tag color3">最长公共子序列</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -1559,6 +1565,10 @@ MathJax.Hub.Queue(function() {
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color5">组合数学</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">队列</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -1578,11 +1588,11 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">法雷级数</a>
+                <a href="javascript:void(0)" class="js-tag color2">斐波那契数列</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color2">斐波那契数列</a>
+                <a href="javascript:void(0)" class="js-tag color5">法雷级数</a>
               </li>
              
               <li class="article-tag-list-item">

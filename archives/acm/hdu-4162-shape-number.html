@@ -5,14 +5,14 @@
   
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <link rel="dns-prefetch" href="https://acshiryu.github.io">
+  <link rel="dns-prefetch" href="https://blog.zilong.pro">
   <title>hdu4162 Shape Number 解题报告 | 永夜初晗凝碧天</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="原题地址：http://acm.hdu.edu.cn/showproblem.php?pid=4162 题目大意就是定义出方向如原题描述，单由于起点和旋转的不确定性，对于同一幅图有多种描述方法，为了统一，定义一种新的描述  以旋转方向为基础，每逆时针旋转45度，描述+1（也可以是之前描述的相邻位想减，若小于0则+8） 然后对所有转换后的描述中选择一个值最小的描述作为他的唯一描述  第一步转换很简单">
 <meta name="keywords" content="数据结构,hdu,枚举,后缀数组,旋转">
 <meta property="og:type" content="article">
 <meta property="og:title" content="hdu4162 Shape Number 解题报告">
-<meta property="og:url" content="https://acshiryu.github.io/archives/acm/hdu-4162-shape-number.html">
+<meta property="og:url" content="https://blog.zilong.pro/archives/acm/hdu-4162-shape-number.html">
 <meta property="og:site_name" content="永夜初晗凝碧天">
 <meta property="og:description" content="原题地址：http://acm.hdu.edu.cn/showproblem.php?pid=4162 题目大意就是定义出方向如原题描述，单由于起点和旋转的不确定性，对于同一幅图有多种描述方法，为了统一，定义一种新的描述  以旋转方向为基础，每逆时针旋转45度，描述+1（也可以是之前描述的相邻位想减，若小于0则+8） 然后对所有转换后的描述中选择一个值最小的描述作为他的唯一描述  第一步转换很简单">
 <meta property="og:locale" content="zh-CN">
@@ -49,6 +49,16 @@ ga('send', 'pageview');
 
 
   
+<script>
+var _hmt = _hmt || [];
+(function() {
+	var hm = document.createElement("script");
+	hm.src = "https://hm.baidu.com/hm.js?bef6cf365be9fc1bb6b96bed890ccfb4";
+	var s = document.getElementsByTagName("script")[0]; 
+	s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 
 </head>
 
@@ -293,7 +303,7 @@ ga('send', 'pageview');
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//pan.baidu.com/share/qrcode?url=https://acshiryu.github.io/archives/acm/hdu-4162-shape-number.html" alt="微信分享二维码">
+      <img src="//pan.baidu.com/share/qrcode?url=https://blog.zilong.pro/archives/acm/hdu-4162-shape-number.html" alt="微信分享二维码">
     </div>
 </div>
 
@@ -475,11 +485,11 @@ MathJax.Hub.Queue(function() {
           <ul class="article-tag-list" q-show="showTags">
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">算法竞赛入门经典训练指南</a>
+                <a href="javascript:void(0)" class="js-tag color5">动态规划</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">动态规划</a>
+                <a href="javascript:void(0)" class="js-tag color3">算法竞赛入门经典训练指南</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -587,11 +597,11 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">hdu</a>
+                <a href="javascript:void(0)" class="js-tag color3">语录</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">语录</a>
+                <a href="javascript:void(0)" class="js-tag color4">hdu</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -620,6 +630,10 @@ MathJax.Hub.Queue(function() {
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color3">旋转</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color5">卡特兰数</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -655,6 +669,14 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color1">Linux</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">crontab</a>
+              </li>
+             
+              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color4">poj</a>
               </li>
              
@@ -675,23 +697,11 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color1">Linux</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">crontab</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">记忆化搜索</a>
               </li>
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">floyd</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">卡特兰数</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -703,7 +713,7 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">kruskal</a>
+                <a href="javascript:void(0)" class="js-tag color5">prim</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -711,7 +721,7 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">prim</a>
+                <a href="javascript:void(0)" class="js-tag color3">kruskal</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -727,19 +737,15 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">DP</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">最小覆盖点</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">最长公共子序列</a>
+                <a href="javascript:void(0)" class="js-tag color3">DP</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">队列</a>
+                <a href="javascript:void(0)" class="js-tag color3">最长公共子序列</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -748,6 +754,10 @@ MathJax.Hub.Queue(function() {
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color5">组合数学</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">队列</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -767,11 +777,11 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">法雷级数</a>
+                <a href="javascript:void(0)" class="js-tag color2">斐波那契数列</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color2">斐波那契数列</a>
+                <a href="javascript:void(0)" class="js-tag color5">法雷级数</a>
               </li>
              
               <li class="article-tag-list-item">

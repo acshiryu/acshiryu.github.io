@@ -5,14 +5,14 @@
   
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <link rel="dns-prefetch" href="https://acshiryu.github.io">
+  <link rel="dns-prefetch" href="https://blog.zilong.pro">
   <title>USACO 2.3.2 Cow Pedigrees 解题报告 | 永夜初晗凝碧天</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="题目意思很简单，就是给出N和K，找出满足只有N个节点，并且每个节点的度为0或2，深度为K的二叉树的总数。 很显然可以的得到这个公式 a[i+j+1][max(h1+h2)+1]+=a[i][h1]*a[j][h2]; 四个循环就可以解决，求出a[N][K]； 但要注意a[i][h1] X a[j][h2]和a[j][h2] X a[i][h1]是一样的，所以我们不妨设i &amp;gt;= j，h1 &amp;g">
 <meta name="keywords" content="动态规划,usaco,二叉树">
 <meta property="og:type" content="article">
 <meta property="og:title" content="USACO 2.3.2 Cow Pedigrees 解题报告">
-<meta property="og:url" content="https://acshiryu.github.io/archives/acm/usaco-2-3-2-cow-pedigrees.html">
+<meta property="og:url" content="https://blog.zilong.pro/archives/acm/usaco-2-3-2-cow-pedigrees.html">
 <meta property="og:site_name" content="永夜初晗凝碧天">
 <meta property="og:description" content="题目意思很简单，就是给出N和K，找出满足只有N个节点，并且每个节点的度为0或2，深度为K的二叉树的总数。 很显然可以的得到这个公式 a[i+j+1][max(h1+h2)+1]+=a[i][h1]*a[j][h2]; 四个循环就可以解决，求出a[N][K]； 但要注意a[i][h1] X a[j][h2]和a[j][h2] X a[i][h1]是一样的，所以我们不妨设i &amp;gt;= j，h1 &amp;g">
 <meta property="og:locale" content="zh-CN">
@@ -49,6 +49,16 @@ ga('send', 'pageview');
 
 
   
+<script>
+var _hmt = _hmt || [];
+(function() {
+	var hm = document.createElement("script");
+	hm.src = "https://hm.baidu.com/hm.js?bef6cf365be9fc1bb6b96bed890ccfb4";
+	var s = document.getElementsByTagName("script")[0]; 
+	s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 
 </head>
 
@@ -285,7 +295,7 @@ ga('send', 'pageview');
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//pan.baidu.com/share/qrcode?url=https://acshiryu.github.io/archives/acm/usaco-2-3-2-cow-pedigrees.html" alt="微信分享二维码">
+      <img src="//pan.baidu.com/share/qrcode?url=https://blog.zilong.pro/archives/acm/usaco-2-3-2-cow-pedigrees.html" alt="微信分享二维码">
     </div>
 </div>
 
@@ -467,11 +477,11 @@ MathJax.Hub.Queue(function() {
           <ul class="article-tag-list" q-show="showTags">
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">算法竞赛入门经典训练指南</a>
+                <a href="javascript:void(0)" class="js-tag color5">动态规划</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">动态规划</a>
+                <a href="javascript:void(0)" class="js-tag color3">算法竞赛入门经典训练指南</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -579,11 +589,11 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">hdu</a>
+                <a href="javascript:void(0)" class="js-tag color3">语录</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">语录</a>
+                <a href="javascript:void(0)" class="js-tag color4">hdu</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -612,6 +622,10 @@ MathJax.Hub.Queue(function() {
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color3">旋转</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color5">卡特兰数</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -647,6 +661,14 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color1">Linux</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">crontab</a>
+              </li>
+             
+              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color4">poj</a>
               </li>
              
@@ -667,23 +689,11 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color1">Linux</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">crontab</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">记忆化搜索</a>
               </li>
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">floyd</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">卡特兰数</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -695,7 +705,7 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">kruskal</a>
+                <a href="javascript:void(0)" class="js-tag color5">prim</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -703,7 +713,7 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">prim</a>
+                <a href="javascript:void(0)" class="js-tag color3">kruskal</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -719,19 +729,15 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">DP</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">最小覆盖点</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">最长公共子序列</a>
+                <a href="javascript:void(0)" class="js-tag color3">DP</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">队列</a>
+                <a href="javascript:void(0)" class="js-tag color3">最长公共子序列</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -740,6 +746,10 @@ MathJax.Hub.Queue(function() {
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color5">组合数学</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">队列</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -759,11 +769,11 @@ MathJax.Hub.Queue(function() {
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">法雷级数</a>
+                <a href="javascript:void(0)" class="js-tag color2">斐波那契数列</a>
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color2">斐波那契数列</a>
+                <a href="javascript:void(0)" class="js-tag color5">法雷级数</a>
               </li>
              
               <li class="article-tag-list-item">

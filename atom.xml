@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://acshiryu.github.io/"/>
+  <link href="https://blog.zilong.pro/"/>
   <updated>2018-09-16T03:34:07.697Z</updated>
-  <id>https://acshiryu.github.io/</id>
+  <id>https://blog.zilong.pro/</id>
   
   <author>
     <name>永夜初晗</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>《算法竞赛入门经典训练指南》动态规划习题1</title>
-    <link href="https://acshiryu.github.io/archives/acm/acm-training-guide-dp-problem-1.html"/>
-    <id>https://acshiryu.github.io/archives/acm/acm-training-guide-dp-problem-1.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/acm-training-guide-dp-problem-1.html"/>
+    <id>https://blog.zilong.pro/archives/acm/acm-training-guide-dp-problem-1.html</id>
     <published>2018-09-16T03:13:00.000Z</published>
     <updated>2018-09-16T03:34:07.697Z</updated>
     
@@ -34,19 +34,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="算法竞赛入门经典训练指南" scheme="https://blog.zilong.pro/tags/acm-training-guide/"/>
     
   </entry>
   
   <entry>
     <title>《算法竞赛入门经典训练指南》动态规划习题2</title>
-    <link href="https://acshiryu.github.io/archives/acm/acm-training-guide-dp-problem-2.html"/>
-    <id>https://acshiryu.github.io/archives/acm/acm-training-guide-dp-problem-2.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/acm-training-guide-dp-problem-2.html"/>
+    <id>https://blog.zilong.pro/archives/acm/acm-training-guide-dp-problem-2.html</id>
     <published>2018-09-16T03:12:00.000Z</published>
     <updated>2018-09-16T02:58:10.606Z</updated>
     
@@ -59,19 +59,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="算法竞赛入门经典训练指南" scheme="https://blog.zilong.pro/tags/acm-training-guide/"/>
     
   </entry>
   
   <entry>
     <title>《算法竞赛入门经典训练指南》高效算法设计举例1</title>
-    <link href="https://acshiryu.github.io/archives/acm/acm-training-guide-efficient-algorithm-example-1.html"/>
-    <id>https://acshiryu.github.io/archives/acm/acm-training-guide-efficient-algorithm-example-1.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/acm-training-guide-efficient-algorithm-example-1.html"/>
+    <id>https://blog.zilong.pro/archives/acm/acm-training-guide-efficient-algorithm-example-1.html</id>
     <published>2018-09-16T03:11:00.000Z</published>
     <updated>2018-09-16T02:57:27.566Z</updated>
     
@@ -84,23 +84,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
+      <category term="算法竞赛入门经典训练指南" scheme="https://blog.zilong.pro/tags/acm-training-guide/"/>
     
-      <category term="排序" scheme="https://acshiryu.github.io/tags/sort/"/>
+      <category term="排序" scheme="https://blog.zilong.pro/tags/sort/"/>
     
-      <category term="计算几何" scheme="https://acshiryu.github.io/tags/computation-geometry/"/>
+      <category term="计算几何" scheme="https://blog.zilong.pro/tags/computation-geometry/"/>
     
-      <category term="贪心" scheme="https://acshiryu.github.io/tags/greedy/"/>
+      <category term="贪心" scheme="https://blog.zilong.pro/tags/greedy/"/>
     
   </entry>
   
   <entry>
     <title>《算法竞赛入门经典训练指南》高效算法设计举例2</title>
-    <link href="https://acshiryu.github.io/archives/acm/acm-training-guide-efficient-algorithm-example-2.html"/>
-    <id>https://acshiryu.github.io/archives/acm/acm-training-guide-efficient-algorithm-example-2.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/acm-training-guide-efficient-algorithm-example-2.html"/>
+    <id>https://blog.zilong.pro/archives/acm/acm-training-guide-efficient-algorithm-example-2.html</id>
     <published>2018-09-16T03:10:00.000Z</published>
     <updated>2018-09-16T02:57:16.178Z</updated>
     
@@ -113,23 +113,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="算法竞赛入门经典训练指南" scheme="https://blog.zilong.pro/tags/acm-training-guide/"/>
     
-      <category term="离散" scheme="https://acshiryu.github.io/tags/disperse/"/>
+      <category term="离散" scheme="https://blog.zilong.pro/tags/disperse/"/>
     
-      <category term="二分" scheme="https://acshiryu.github.io/tags/dichotomize/"/>
+      <category term="二分" scheme="https://blog.zilong.pro/tags/dichotomize/"/>
     
   </entry>
   
   <entry>
     <title>《算法竞赛入门经典训练指南》问题求解常见策略1</title>
-    <link href="https://acshiryu.github.io/archives/acm/acm-training-guide-problem-solving-strategy-1.html"/>
-    <id>https://acshiryu.github.io/archives/acm/acm-training-guide-problem-solving-strategy-1.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/acm-training-guide-problem-solving-strategy-1.html"/>
+    <id>https://blog.zilong.pro/archives/acm/acm-training-guide-problem-solving-strategy-1.html</id>
     <published>2018-09-16T03:09:00.000Z</published>
     <updated>2018-09-16T02:57:06.303Z</updated>
     
@@ -142,21 +142,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
+      <category term="算法竞赛入门经典训练指南" scheme="https://blog.zilong.pro/tags/acm-training-guide/"/>
     
-      <category term="深度优先搜索" scheme="https://acshiryu.github.io/tags/depth-first-search/"/>
+      <category term="深度优先搜索" scheme="https://blog.zilong.pro/tags/depth-first-search/"/>
     
-      <category term="递归" scheme="https://acshiryu.github.io/tags/recursive/"/>
+      <category term="递归" scheme="https://blog.zilong.pro/tags/recursive/"/>
     
   </entry>
   
   <entry>
     <title>《算法竞赛入门经典训练指南》问题求解常见策略2</title>
-    <link href="https://acshiryu.github.io/archives/acm/acm-training-guide-problem-solving-strategy-2.html"/>
-    <id>https://acshiryu.github.io/archives/acm/acm-training-guide-problem-solving-strategy-2.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/acm-training-guide-problem-solving-strategy-2.html"/>
+    <id>https://blog.zilong.pro/archives/acm/acm-training-guide-problem-solving-strategy-2.html</id>
     <published>2018-09-16T03:08:00.000Z</published>
     <updated>2018-09-16T02:56:55.350Z</updated>
     
@@ -169,21 +169,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
+      <category term="算法竞赛入门经典训练指南" scheme="https://blog.zilong.pro/tags/acm-training-guide/"/>
     
-      <category term="二分" scheme="https://acshiryu.github.io/tags/dichotomize/"/>
+      <category term="二分" scheme="https://blog.zilong.pro/tags/dichotomize/"/>
     
-      <category term="深度优先搜索" scheme="https://acshiryu.github.io/tags/depth-first-search/"/>
+      <category term="深度优先搜索" scheme="https://blog.zilong.pro/tags/depth-first-search/"/>
     
   </entry>
   
   <entry>
     <title>《算法竞赛入门经典训练指南》动态规划专题1</title>
-    <link href="https://acshiryu.github.io/archives/acm/acm-training-guide-special-topic-dp-1.html"/>
-    <id>https://acshiryu.github.io/archives/acm/acm-training-guide-special-topic-dp-1.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/acm-training-guide-special-topic-dp-1.html"/>
+    <id>https://blog.zilong.pro/archives/acm/acm-training-guide-special-topic-dp-1.html</id>
     <published>2018-09-16T03:07:00.000Z</published>
     <updated>2018-09-16T02:56:45.885Z</updated>
     
@@ -198,23 +198,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="算法竞赛入门经典训练指南" scheme="https://blog.zilong.pro/tags/acm-training-guide/"/>
     
-      <category term="递归" scheme="https://acshiryu.github.io/tags/recursive/"/>
+      <category term="递归" scheme="https://blog.zilong.pro/tags/recursive/"/>
     
-      <category term="状态压缩" scheme="https://acshiryu.github.io/tags/state-compression/"/>
+      <category term="状态压缩" scheme="https://blog.zilong.pro/tags/state-compression/"/>
     
   </entry>
   
   <entry>
     <title>《算法竞赛入门经典训练指南》动态规划专题2</title>
-    <link href="https://acshiryu.github.io/archives/acm/acm-training-guide-special-topic-dp-2.html"/>
-    <id>https://acshiryu.github.io/archives/acm/acm-training-guide-special-topic-dp-2.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/acm-training-guide-special-topic-dp-2.html"/>
+    <id>https://blog.zilong.pro/archives/acm/acm-training-guide-special-topic-dp-2.html</id>
     <published>2018-09-16T03:06:00.000Z</published>
     <updated>2018-09-16T02:56:34.174Z</updated>
     
@@ -229,21 +229,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="算法竞赛入门经典训练指南" scheme="https://blog.zilong.pro/tags/acm-training-guide/"/>
     
-      <category term="状态压缩" scheme="https://acshiryu.github.io/tags/state-compression/"/>
+      <category term="状态压缩" scheme="https://blog.zilong.pro/tags/state-compression/"/>
     
   </entry>
   
   <entry>
     <title>《算法竞赛入门经典训练指南》思维的体操</title>
-    <link href="https://acshiryu.github.io/archives/acm/acm-training-guide-thinking-gymnastics.html"/>
-    <id>https://acshiryu.github.io/archives/acm/acm-training-guide-thinking-gymnastics.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/acm-training-guide-thinking-gymnastics.html"/>
+    <id>https://blog.zilong.pro/archives/acm/acm-training-guide-thinking-gymnastics.html</id>
     <published>2018-09-16T03:05:00.000Z</published>
     <updated>2018-09-16T02:56:23.259Z</updated>
     
@@ -256,21 +256,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="算法竞赛入门经典训练指南" scheme="https://acshiryu.github.io/tags/acm-training-guide/"/>
+      <category term="算法竞赛入门经典训练指南" scheme="https://blog.zilong.pro/tags/acm-training-guide/"/>
     
-      <category term="贪心" scheme="https://acshiryu.github.io/tags/greedy/"/>
+      <category term="贪心" scheme="https://blog.zilong.pro/tags/greedy/"/>
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
   </entry>
   
   <entry>
     <title>20111120周赛解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/ccnuoj-weekly-problem-and-solution-20111120.html"/>
-    <id>https://acshiryu.github.io/archives/acm/ccnuoj-weekly-problem-and-solution-20111120.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/ccnuoj-weekly-problem-and-solution-20111120.html"/>
+    <id>https://blog.zilong.pro/archives/acm/ccnuoj-weekly-problem-and-solution-20111120.html</id>
     <published>2018-09-16T03:04:00.000Z</published>
     <updated>2018-09-16T02:56:12.325Z</updated>
     
@@ -286,19 +286,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="最大公约数" scheme="https://acshiryu.github.io/tags/greatest-common-divisor/"/>
+      <category term="最大公约数" scheme="https://blog.zilong.pro/tags/greatest-common-divisor/"/>
     
   </entry>
   
   <entry>
     <title>Codeforces Round #118 (Div. 2) :A. Comparing Strings</title>
-    <link href="https://acshiryu.github.io/archives/acm/codeforces-round-118-div-2-a-comparing-strings.html"/>
-    <id>https://acshiryu.github.io/archives/acm/codeforces-round-118-div-2-a-comparing-strings.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/codeforces-round-118-div-2-a-comparing-strings.html"/>
+    <id>https://blog.zilong.pro/archives/acm/codeforces-round-118-div-2-a-comparing-strings.html</id>
     <published>2018-09-16T03:03:00.000Z</published>
     <updated>2018-09-16T02:55:59.254Z</updated>
     
@@ -313,17 +313,17 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="codeforces" scheme="https://acshiryu.github.io/tags/codeforces/"/>
+      <category term="codeforces" scheme="https://blog.zilong.pro/tags/codeforces/"/>
     
   </entry>
   
   <entry>
     <title>Codeforces Round #118 (Div. 2) :B. Growing Mushrooms</title>
-    <link href="https://acshiryu.github.io/archives/acm/codeforces-round-118-div-2-b-growing-mushrooms.html"/>
-    <id>https://acshiryu.github.io/archives/acm/codeforces-round-118-div-2-b-growing-mushrooms.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/codeforces-round-118-div-2-b-growing-mushrooms.html"/>
+    <id>https://blog.zilong.pro/archives/acm/codeforces-round-118-div-2-b-growing-mushrooms.html</id>
     <published>2018-09-16T03:02:00.000Z</published>
     <updated>2018-09-16T02:55:42.748Z</updated>
     
@@ -338,17 +338,17 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="codeforces" scheme="https://acshiryu.github.io/tags/codeforces/"/>
+      <category term="codeforces" scheme="https://blog.zilong.pro/tags/codeforces/"/>
     
   </entry>
   
   <entry>
     <title>Codeforces Round #118 (Div. 2) :C. Plant</title>
-    <link href="https://acshiryu.github.io/archives/acm/codeforces-round-118-div-2-c-plant.html"/>
-    <id>https://acshiryu.github.io/archives/acm/codeforces-round-118-div-2-c-plant.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/codeforces-round-118-div-2-c-plant.html"/>
+    <id>https://blog.zilong.pro/archives/acm/codeforces-round-118-div-2-c-plant.html</id>
     <published>2018-09-16T03:01:00.000Z</published>
     <updated>2018-09-24T05:07:33.601Z</updated>
     
@@ -363,21 +363,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="codeforces" scheme="https://acshiryu.github.io/tags/codeforces/"/>
+      <category term="codeforces" scheme="https://blog.zilong.pro/tags/codeforces/"/>
     
-      <category term="矩阵" scheme="https://acshiryu.github.io/tags/matrix/"/>
+      <category term="矩阵" scheme="https://blog.zilong.pro/tags/matrix/"/>
     
-      <category term="快速幂" scheme="https://acshiryu.github.io/tags/fast-power/"/>
+      <category term="快速幂" scheme="https://blog.zilong.pro/tags/fast-power/"/>
     
   </entry>
   
   <entry>
     <title>Codeforces Round #118 (Div. 2) :D. Mushroom Scientists</title>
-    <link href="https://acshiryu.github.io/archives/acm/codeforces-round-118-div-2-d-mushroom-scientists.html"/>
-    <id>https://acshiryu.github.io/archives/acm/codeforces-round-118-div-2-d-mushroom-scientists.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/codeforces-round-118-div-2-d-mushroom-scientists.html"/>
+    <id>https://blog.zilong.pro/archives/acm/codeforces-round-118-div-2-d-mushroom-scientists.html</id>
     <published>2018-09-16T03:00:00.000Z</published>
     <updated>2018-09-16T02:55:18.874Z</updated>
     
@@ -392,19 +392,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="codeforces" scheme="https://acshiryu.github.io/tags/codeforces/"/>
+      <category term="codeforces" scheme="https://blog.zilong.pro/tags/codeforces/"/>
     
   </entry>
   
   <entry>
     <title>AC自动机简单模版</title>
-    <link href="https://acshiryu.github.io/archives/template/cpp-template-ac-automation.html"/>
-    <id>https://acshiryu.github.io/archives/template/cpp-template-ac-automation.html</id>
+    <link href="https://blog.zilong.pro/archives/template/cpp-template-ac-automation.html"/>
+    <id>https://blog.zilong.pro/archives/template/cpp-template-ac-automation.html</id>
     <published>2018-09-16T02:59:00.000Z</published>
     <updated>2018-09-16T02:55:01.646Z</updated>
     
@@ -419,25 +419,25 @@
     
     </summary>
     
-      <category term="模板编程" scheme="https://acshiryu.github.io/categories/template/"/>
+      <category term="模板编程" scheme="https://blog.zilong.pro/categories/template/"/>
     
     
-      <category term="AC自动机" scheme="https://acshiryu.github.io/tags/ac-automation/"/>
+      <category term="AC自动机" scheme="https://blog.zilong.pro/tags/ac-automation/"/>
     
-      <category term="kmp" scheme="https://acshiryu.github.io/tags/kmp/"/>
+      <category term="kmp" scheme="https://blog.zilong.pro/tags/kmp/"/>
     
-      <category term="字典树" scheme="https://acshiryu.github.io/tags/dictionary-tree/"/>
+      <category term="字典树" scheme="https://blog.zilong.pro/tags/dictionary-tree/"/>
     
-      <category term="字符串匹配" scheme="https://acshiryu.github.io/tags/string-match/"/>
+      <category term="字符串匹配" scheme="https://blog.zilong.pro/tags/string-match/"/>
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
   </entry>
   
   <entry>
     <title>欧拉函数模板</title>
-    <link href="https://acshiryu.github.io/archives/template/cpp-template-euler-function.html"/>
-    <id>https://acshiryu.github.io/archives/template/cpp-template-euler-function.html</id>
+    <link href="https://blog.zilong.pro/archives/template/cpp-template-euler-function.html"/>
+    <id>https://blog.zilong.pro/archives/template/cpp-template-euler-function.html</id>
     <published>2018-09-16T02:58:00.000Z</published>
     <updated>2018-09-16T02:54:46.516Z</updated>
     
@@ -453,21 +453,21 @@
     
     </summary>
     
-      <category term="模板编程" scheme="https://acshiryu.github.io/categories/template/"/>
+      <category term="模板编程" scheme="https://blog.zilong.pro/categories/template/"/>
     
     
-      <category term="欧拉函数" scheme="https://acshiryu.github.io/tags/euler-function/"/>
+      <category term="欧拉函数" scheme="https://blog.zilong.pro/tags/euler-function/"/>
     
-      <category term="素数" scheme="https://acshiryu.github.io/tags/prime/"/>
+      <category term="素数" scheme="https://blog.zilong.pro/tags/prime/"/>
     
-      <category term="筛选" scheme="https://acshiryu.github.io/tags/filter/"/>
+      <category term="筛选" scheme="https://blog.zilong.pro/tags/filter/"/>
     
   </entry>
   
   <entry>
     <title>矩阵快速幂模板</title>
-    <link href="https://acshiryu.github.io/archives/template/cpp-template-matrix-fast-power.html"/>
-    <id>https://acshiryu.github.io/archives/template/cpp-template-matrix-fast-power.html</id>
+    <link href="https://blog.zilong.pro/archives/template/cpp-template-matrix-fast-power.html"/>
+    <id>https://blog.zilong.pro/archives/template/cpp-template-matrix-fast-power.html</id>
     <published>2018-09-16T02:57:00.000Z</published>
     <updated>2018-09-16T02:54:35.349Z</updated>
     
@@ -482,19 +482,19 @@
     
     </summary>
     
-      <category term="模板编程" scheme="https://acshiryu.github.io/categories/template/"/>
+      <category term="模板编程" scheme="https://blog.zilong.pro/categories/template/"/>
     
     
-      <category term="矩阵" scheme="https://acshiryu.github.io/tags/matrix/"/>
+      <category term="矩阵" scheme="https://blog.zilong.pro/tags/matrix/"/>
     
-      <category term="快速幂" scheme="https://acshiryu.github.io/tags/fast-power/"/>
+      <category term="快速幂" scheme="https://blog.zilong.pro/tags/fast-power/"/>
     
   </entry>
   
   <entry>
     <title>burnside定理，polya计数 模版</title>
-    <link href="https://acshiryu.github.io/archives/template/cpp-template-polya.html"/>
-    <id>https://acshiryu.github.io/archives/template/cpp-template-polya.html</id>
+    <link href="https://blog.zilong.pro/archives/template/cpp-template-polya.html"/>
+    <id>https://blog.zilong.pro/archives/template/cpp-template-polya.html</id>
     <published>2018-09-16T02:56:00.000Z</published>
     <updated>2018-09-16T02:54:23.476Z</updated>
     
@@ -509,19 +509,19 @@
     
     </summary>
     
-      <category term="模板编程" scheme="https://acshiryu.github.io/categories/template/"/>
+      <category term="模板编程" scheme="https://blog.zilong.pro/categories/template/"/>
     
     
-      <category term="burnside" scheme="https://acshiryu.github.io/tags/burnside/"/>
+      <category term="burnside" scheme="https://blog.zilong.pro/tags/burnside/"/>
     
-      <category term="polya" scheme="https://acshiryu.github.io/tags/polya/"/>
+      <category term="polya" scheme="https://blog.zilong.pro/tags/polya/"/>
     
   </entry>
   
   <entry>
     <title>素性测试 miller rabin+pollard rho</title>
-    <link href="https://acshiryu.github.io/archives/template/cpp-template-prime-test-by-miller-pollard.html"/>
-    <id>https://acshiryu.github.io/archives/template/cpp-template-prime-test-by-miller-pollard.html</id>
+    <link href="https://blog.zilong.pro/archives/template/cpp-template-prime-test-by-miller-pollard.html"/>
+    <id>https://blog.zilong.pro/archives/template/cpp-template-prime-test-by-miller-pollard.html</id>
     <published>2018-09-16T02:55:00.000Z</published>
     <updated>2018-09-16T02:37:49.730Z</updated>
     
@@ -536,19 +536,19 @@
     
     </summary>
     
-      <category term="模板编程" scheme="https://acshiryu.github.io/categories/template/"/>
+      <category term="模板编程" scheme="https://blog.zilong.pro/categories/template/"/>
     
     
-      <category term="素数" scheme="https://acshiryu.github.io/tags/prime/"/>
+      <category term="素数" scheme="https://blog.zilong.pro/tags/prime/"/>
     
-      <category term="素性测试" scheme="https://acshiryu.github.io/tags/prime-test/"/>
+      <category term="素性测试" scheme="https://blog.zilong.pro/tags/prime-test/"/>
     
   </entry>
   
   <entry>
     <title>潸然泪下 盘点仙剑十大让人动情女子</title>
-    <link href="https://acshiryu.github.io/archives/games/game-pal-top10-emotional-woman.html"/>
-    <id>https://acshiryu.github.io/archives/games/game-pal-top10-emotional-woman.html</id>
+    <link href="https://blog.zilong.pro/archives/games/game-pal-top10-emotional-woman.html"/>
+    <id>https://blog.zilong.pro/archives/games/game-pal-top10-emotional-woman.html</id>
     <published>2018-09-16T02:54:00.000Z</published>
     <updated>2018-09-16T02:36:16.343Z</updated>
     
@@ -571,19 +571,19 @@
     
     </summary>
     
-      <category term="游戏人生" scheme="https://acshiryu.github.io/categories/games/"/>
+      <category term="游戏人生" scheme="https://blog.zilong.pro/categories/games/"/>
     
     
-      <category term="仙剑" scheme="https://acshiryu.github.io/tags/pal/"/>
+      <category term="仙剑" scheme="https://blog.zilong.pro/tags/pal/"/>
     
-      <category term="感动" scheme="https://acshiryu.github.io/tags/moving/"/>
+      <category term="感动" scheme="https://blog.zilong.pro/tags/moving/"/>
     
   </entry>
   
   <entry>
     <title>仙剑四十大感人经典语录</title>
-    <link href="https://acshiryu.github.io/archives/games/game-pal4-top10-affecting-quotations.html"/>
-    <id>https://acshiryu.github.io/archives/games/game-pal4-top10-affecting-quotations.html</id>
+    <link href="https://blog.zilong.pro/archives/games/game-pal4-top10-affecting-quotations.html"/>
+    <id>https://blog.zilong.pro/archives/games/game-pal4-top10-affecting-quotations.html</id>
     <published>2018-09-16T02:53:00.000Z</published>
     <updated>2018-09-16T02:35:59.301Z</updated>
     
@@ -608,21 +608,21 @@
     
     </summary>
     
-      <category term="游戏人生" scheme="https://acshiryu.github.io/categories/games/"/>
+      <category term="游戏人生" scheme="https://blog.zilong.pro/categories/games/"/>
     
     
-      <category term="仙剑" scheme="https://acshiryu.github.io/tags/pal/"/>
+      <category term="仙剑" scheme="https://blog.zilong.pro/tags/pal/"/>
     
-      <category term="感动" scheme="https://acshiryu.github.io/tags/moving/"/>
+      <category term="感动" scheme="https://blog.zilong.pro/tags/moving/"/>
     
-      <category term="语录" scheme="https://acshiryu.github.io/tags/quotations/"/>
+      <category term="语录" scheme="https://blog.zilong.pro/tags/quotations/"/>
     
   </entry>
   
   <entry>
     <title>hdu1016 Prime Ring Problem解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-1016-prime-ring-problem.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-1016-prime-ring-problem.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-1016-prime-ring-problem.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-1016-prime-ring-problem.html</id>
     <published>2018-09-16T02:52:00.000Z</published>
     <updated>2018-09-16T02:35:47.277Z</updated>
     
@@ -637,21 +637,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="深度优先搜索" scheme="https://acshiryu.github.io/tags/depth-first-search/"/>
+      <category term="深度优先搜索" scheme="https://blog.zilong.pro/tags/depth-first-search/"/>
     
-      <category term="素数" scheme="https://acshiryu.github.io/tags/prime/"/>
+      <category term="素数" scheme="https://blog.zilong.pro/tags/prime/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu1232 畅通工程 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-1232-smooth-engineering.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-1232-smooth-engineering.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-1232-smooth-engineering.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-1232-smooth-engineering.html</id>
     <published>2018-09-16T02:51:00.000Z</published>
     <updated>2018-09-16T02:35:34.721Z</updated>
     
@@ -666,21 +666,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="并查集" scheme="https://acshiryu.github.io/tags/union-set/"/>
+      <category term="并查集" scheme="https://blog.zilong.pro/tags/union-set/"/>
     
   </entry>
   
   <entry>
     <title>hdu1247 Hat’s Words 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-1247-hats-words.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-1247-hats-words.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-1247-hats-words.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-1247-hats-words.html</id>
     <published>2018-09-16T02:50:00.000Z</published>
     <updated>2018-09-16T02:35:22.313Z</updated>
     
@@ -695,21 +695,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="字典树" scheme="https://acshiryu.github.io/tags/dictionary-tree/"/>
+      <category term="字典树" scheme="https://blog.zilong.pro/tags/dictionary-tree/"/>
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu1604 Deque 2013多校第一场1005</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-1604-letter-sequence-analysis.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-1604-letter-sequence-analysis.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-1604-letter-sequence-analysis.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-1604-letter-sequence-analysis.html</id>
     <published>2018-09-16T02:49:00.000Z</published>
     <updated>2018-09-16T02:34:57.195Z</updated>
     
@@ -725,19 +725,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu1711 Number Sequence 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-1711-number-sequence.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-1711-number-sequence.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-1711-number-sequence.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-1711-number-sequence.html</id>
     <published>2018-09-16T02:48:00.000Z</published>
     <updated>2018-09-16T02:34:45.355Z</updated>
     
@@ -752,19 +752,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="kmp" scheme="https://acshiryu.github.io/tags/kmp/"/>
+      <category term="kmp" scheme="https://blog.zilong.pro/tags/kmp/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu1754 I Hate It 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-1754-i-hate-it.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-1754-i-hate-it.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-1754-i-hate-it.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-1754-i-hate-it.html</id>
     <published>2018-09-16T02:47:00.000Z</published>
     <updated>2018-09-16T02:34:24.540Z</updated>
     
@@ -781,21 +781,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="线段树" scheme="https://acshiryu.github.io/tags/segment-tree/"/>
+      <category term="线段树" scheme="https://blog.zilong.pro/tags/segment-tree/"/>
     
   </entry>
   
   <entry>
     <title>hdu1785 You Are All Excellent</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-1785-you-are-all-excellent.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-1785-you-are-all-excellent.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-1785-you-are-all-excellent.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-1785-you-are-all-excellent.html</id>
     <published>2018-09-16T02:46:00.000Z</published>
     <updated>2018-09-16T02:34:13.837Z</updated>
     
@@ -810,19 +810,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu1896 Stones 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-1896-stones.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-1896-stones.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-1896-stones.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-1896-stones.html</id>
     <published>2018-09-16T02:45:00.000Z</published>
     <updated>2018-09-16T02:33:43.499Z</updated>
     
@@ -838,19 +838,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="优先队列" scheme="https://acshiryu.github.io/tags/priority-queue/"/>
+      <category term="优先队列" scheme="https://blog.zilong.pro/tags/priority-queue/"/>
     
   </entry>
   
   <entry>
     <title>hdu2036和hdu2108  叉乘的运用</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-2036-reform-the-spring-breeze-2108-shape-of-hdu.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-2036-reform-the-spring-breeze-2108-shape-of-hdu.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-2036-reform-the-spring-breeze-2108-shape-of-hdu.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-2036-reform-the-spring-breeze-2108-shape-of-hdu.html</id>
     <published>2018-09-16T02:44:00.000Z</published>
     <updated>2018-09-16T02:33:10.939Z</updated>
     
@@ -865,19 +865,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="计算几何" scheme="https://acshiryu.github.io/tags/computation-geometry/"/>
+      <category term="计算几何" scheme="https://blog.zilong.pro/tags/computation-geometry/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu2222 Keywords Search 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-2222-keywords-search.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-2222-keywords-search.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-2222-keywords-search.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-2222-keywords-search.html</id>
     <published>2018-09-16T02:43:00.000Z</published>
     <updated>2018-09-16T02:32:56.186Z</updated>
     
@@ -892,23 +892,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="AC自动机" scheme="https://acshiryu.github.io/tags/ac-automation/"/>
+      <category term="AC自动机" scheme="https://blog.zilong.pro/tags/ac-automation/"/>
     
-      <category term="kmp" scheme="https://acshiryu.github.io/tags/kmp/"/>
+      <category term="kmp" scheme="https://blog.zilong.pro/tags/kmp/"/>
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu2955 Robberies 教你怎样抢银行划算！</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-2955-robberies.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-2955-robberies.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-2955-robberies.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-2955-robberies.html</id>
     <published>2018-09-16T02:42:00.000Z</published>
     <updated>2018-09-16T02:32:29.345Z</updated>
     
@@ -924,21 +924,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="背包问题" scheme="https://acshiryu.github.io/tags/backpack-problem/"/>
+      <category term="背包问题" scheme="https://blog.zilong.pro/tags/backpack-problem/"/>
     
   </entry>
   
   <entry>
     <title>hdu2971 Tower 矩阵快速幂</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-2971-tower.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-2971-tower.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-2971-tower.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-2971-tower.html</id>
     <published>2018-09-16T02:41:00.000Z</published>
     <updated>2018-09-16T02:32:15.008Z</updated>
     
@@ -955,23 +955,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="递归" scheme="https://acshiryu.github.io/tags/recursive/"/>
+      <category term="递归" scheme="https://blog.zilong.pro/tags/recursive/"/>
     
-      <category term="矩阵" scheme="https://acshiryu.github.io/tags/matrix/"/>
+      <category term="矩阵" scheme="https://blog.zilong.pro/tags/matrix/"/>
     
-      <category term="快速幂" scheme="https://acshiryu.github.io/tags/fast-power/"/>
+      <category term="快速幂" scheme="https://blog.zilong.pro/tags/fast-power/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu4161 Iterated Difference 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4161-iterated-difference.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4161-iterated-difference.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4161-iterated-difference.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4161-iterated-difference.html</id>
     <published>2018-09-16T02:40:00.000Z</published>
     <updated>2018-09-16T02:29:03.939Z</updated>
     
@@ -986,19 +986,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
+      <category term="枚举" scheme="https://blog.zilong.pro/tags/enumerate/"/>
     
   </entry>
   
   <entry>
     <title>hdu4162 Shape Number 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4162-shape-number.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4162-shape-number.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4162-shape-number.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4162-shape-number.html</id>
     <published>2018-09-16T02:39:00.000Z</published>
     <updated>2018-09-16T02:28:52.628Z</updated>
     
@@ -1013,25 +1013,25 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
+      <category term="枚举" scheme="https://blog.zilong.pro/tags/enumerate/"/>
     
-      <category term="后缀数组" scheme="https://acshiryu.github.io/tags/suffix-array/"/>
+      <category term="后缀数组" scheme="https://blog.zilong.pro/tags/suffix-array/"/>
     
-      <category term="旋转" scheme="https://acshiryu.github.io/tags/rotating/"/>
+      <category term="旋转" scheme="https://blog.zilong.pro/tags/rotating/"/>
     
   </entry>
   
   <entry>
     <title>hdu4163 Stock Prices 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4163-stock-prices.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4163-stock-prices.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4163-stock-prices.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4163-stock-prices.html</id>
     <published>2018-09-16T02:38:00.000Z</published>
     <updated>2018-09-16T02:28:09.244Z</updated>
     
@@ -1046,19 +1046,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="排序" scheme="https://acshiryu.github.io/tags/sort/"/>
+      <category term="排序" scheme="https://blog.zilong.pro/tags/sort/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu4165 Pills 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4165-pills.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4165-pills.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4165-pills.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4165-pills.html</id>
     <published>2018-09-16T02:37:00.000Z</published>
     <updated>2018-09-16T02:25:26.037Z</updated>
     
@@ -1073,23 +1073,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="递归" scheme="https://acshiryu.github.io/tags/recursive/"/>
+      <category term="递归" scheme="https://blog.zilong.pro/tags/recursive/"/>
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="卡特兰数" scheme="https://acshiryu.github.io/tags/catalan-number/"/>
+      <category term="卡特兰数" scheme="https://blog.zilong.pro/tags/catalan-number/"/>
     
   </entry>
   
   <entry>
     <title>hdu4291 A Short problem 矩阵快速幂 成都区预赛的一题</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4291-a-short-problem.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4291-a-short-problem.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4291-a-short-problem.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4291-a-short-problem.html</id>
     <published>2018-09-16T02:36:00.000Z</published>
     <updated>2018-09-16T02:25:13.947Z</updated>
     
@@ -1104,21 +1104,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="矩阵" scheme="https://acshiryu.github.io/tags/matrix/"/>
+      <category term="矩阵" scheme="https://blog.zilong.pro/tags/matrix/"/>
     
-      <category term="快速幂" scheme="https://acshiryu.github.io/tags/fast-power/"/>
+      <category term="快速幂" scheme="https://blog.zilong.pro/tags/fast-power/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu4300 Clairewd’s message 多校第一场</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4300-clairewds-message.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4300-clairewds-message.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4300-clairewds-message.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4300-clairewds-message.html</id>
     <published>2018-09-16T02:35:00.000Z</published>
     <updated>2018-09-16T02:24:56.315Z</updated>
     
@@ -1135,19 +1135,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="kmp" scheme="https://acshiryu.github.io/tags/kmp/"/>
+      <category term="kmp" scheme="https://blog.zilong.pro/tags/kmp/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu4301 Divide Chocolate 动态规划解题报告（多校1）</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4301-divide-chocolate.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4301-divide-chocolate.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4301-divide-chocolate.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4301-divide-chocolate.html</id>
     <published>2018-09-16T02:34:00.000Z</published>
     <updated>2018-09-16T02:24:42.218Z</updated>
     
@@ -1165,19 +1165,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu4308 Saving Princess claire 搜索解题报告（多校1）</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4308-saving-princess-claire.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4308-saving-princess-claire.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4308-saving-princess-claire.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4308-saving-princess-claire.html</id>
     <published>2018-09-16T02:33:00.000Z</published>
     <updated>2018-09-16T02:23:18.782Z</updated>
     
@@ -1194,21 +1194,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="广度优先搜索" scheme="https://acshiryu.github.io/tags/breadth-first-search/"/>
+      <category term="广度优先搜索" scheme="https://blog.zilong.pro/tags/breadth-first-search/"/>
     
-      <category term="最短路" scheme="https://acshiryu.github.io/tags/shortest-road/"/>
+      <category term="最短路" scheme="https://blog.zilong.pro/tags/shortest-road/"/>
     
   </entry>
   
   <entry>
     <title>hdu4412 Sky Soldiers 动态规划 杭州网赛的第三题</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4412-sky-soldiers.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4412-sky-soldiers.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4412-sky-soldiers.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4412-sky-soldiers.html</id>
     <published>2018-09-16T02:32:00.000Z</published>
     <updated>2018-09-16T02:23:07.250Z</updated>
     
@@ -1224,19 +1224,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu4419 Colourful Rectangle  搜索+矩形分割  杭州赛区网赛最后一题</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4419-colourful-rectangle.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4419-colourful-rectangle.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4419-colourful-rectangle.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4419-colourful-rectangle.html</id>
     <published>2018-09-16T02:31:00.000Z</published>
     <updated>2018-09-16T02:22:54.973Z</updated>
     
@@ -1252,23 +1252,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="深度优先搜索" scheme="https://acshiryu.github.io/tags/depth-first-search/"/>
+      <category term="深度优先搜索" scheme="https://blog.zilong.pro/tags/depth-first-search/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="矩形" scheme="https://acshiryu.github.io/tags/rectangle/"/>
+      <category term="矩形" scheme="https://blog.zilong.pro/tags/rectangle/"/>
     
-      <category term="分治" scheme="https://acshiryu.github.io/tags/division/"/>
+      <category term="分治" scheme="https://blog.zilong.pro/tags/division/"/>
     
   </entry>
   
   <entry>
     <title>hdu4602 Partition 2013多校第一场100</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4602-partition.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4602-partition.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4602-partition.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4602-partition.html</id>
     <published>2018-09-16T02:30:00.000Z</published>
     <updated>2018-09-16T02:22:31.983Z</updated>
     
@@ -1294,21 +1294,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="递归" scheme="https://acshiryu.github.io/tags/recursive/"/>
+      <category term="递归" scheme="https://blog.zilong.pro/tags/recursive/"/>
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu4611 Balls Rearrangement 最大公约数 2013多校2-1001</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4611-balls-rearrangement.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4611-balls-rearrangement.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4611-balls-rearrangement.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4611-balls-rearrangement.html</id>
     <published>2018-09-16T02:29:00.000Z</published>
     <updated>2018-09-16T02:22:20.739Z</updated>
     
@@ -1325,21 +1325,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="最大公约数" scheme="https://acshiryu.github.io/tags/greatest-common-divisor/"/>
+      <category term="最大公约数" scheme="https://blog.zilong.pro/tags/greatest-common-divisor/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>hdu4619 Warm up 2 二分图匹配 2013多校第二场1009</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4619-warm-up-2.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4619-warm-up-2.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4619-warm-up-2.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4619-warm-up-2.html</id>
     <published>2018-09-16T02:28:00.000Z</published>
     <updated>2018-09-16T02:21:47.456Z</updated>
     
@@ -1354,25 +1354,25 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="贪心" scheme="https://acshiryu.github.io/tags/greedy/"/>
+      <category term="贪心" scheme="https://blog.zilong.pro/tags/greedy/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
-      <category term="二分图" scheme="https://acshiryu.github.io/tags/binary-picture/"/>
+      <category term="二分图" scheme="https://blog.zilong.pro/tags/binary-picture/"/>
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="最大匹配" scheme="https://acshiryu.github.io/tags/maximum-match/"/>
+      <category term="最大匹配" scheme="https://blog.zilong.pro/tags/maximum-match/"/>
     
   </entry>
   
   <entry>
     <title>hdu4632 Palindrome subsequence 20103多校4-1001</title>
-    <link href="https://acshiryu.github.io/archives/acm/hdu-4632-palindrome-subsequence.html"/>
-    <id>https://acshiryu.github.io/archives/acm/hdu-4632-palindrome-subsequence.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/hdu-4632-palindrome-subsequence.html"/>
+    <id>https://blog.zilong.pro/archives/acm/hdu-4632-palindrome-subsequence.html</id>
     <published>2018-09-16T02:27:00.000Z</published>
     <updated>2018-09-16T02:21:35.761Z</updated>
     
@@ -1387,19 +1387,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="hdu" scheme="https://acshiryu.github.io/tags/hdu/"/>
+      <category term="hdu" scheme="https://blog.zilong.pro/tags/hdu/"/>
     
   </entry>
   
   <entry>
     <title>[转]高级数据结构设计－－并查集及实现学习笔记（有趣篇）</title>
-    <link href="https://acshiryu.github.io/archives/notes/notes-algorithm-union-set.html"/>
-    <id>https://acshiryu.github.io/archives/notes/notes-algorithm-union-set.html</id>
+    <link href="https://blog.zilong.pro/archives/notes/notes-algorithm-union-set.html"/>
+    <id>https://blog.zilong.pro/archives/notes/notes-algorithm-union-set.html</id>
     <published>2018-09-16T02:26:00.000Z</published>
     <updated>2018-09-16T02:21:11.607Z</updated>
     
@@ -1414,21 +1414,21 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="https://acshiryu.github.io/categories/notes/"/>
+      <category term="学习笔记" scheme="https://blog.zilong.pro/categories/notes/"/>
     
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
-      <category term="并查集" scheme="https://acshiryu.github.io/tags/union-set/"/>
+      <category term="并查集" scheme="https://blog.zilong.pro/tags/union-set/"/>
     
-      <category term="算法" scheme="https://acshiryu.github.io/tags/algorithm/"/>
+      <category term="算法" scheme="https://blog.zilong.pro/tags/algorithm/"/>
     
   </entry>
   
   <entry>
     <title>Linux命令之Crontab学习笔记</title>
-    <link href="https://acshiryu.github.io/archives/notes/notes-linux-crontab.html"/>
-    <id>https://acshiryu.github.io/archives/notes/notes-linux-crontab.html</id>
+    <link href="https://blog.zilong.pro/archives/notes/notes-linux-crontab.html"/>
+    <id>https://blog.zilong.pro/archives/notes/notes-linux-crontab.html</id>
     <published>2018-09-16T02:25:00.000Z</published>
     <updated>2018-09-16T02:20:23.759Z</updated>
     
@@ -1445,19 +1445,19 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="https://acshiryu.github.io/categories/notes/"/>
+      <category term="学习笔记" scheme="https://blog.zilong.pro/categories/notes/"/>
     
     
-      <category term="Linux" scheme="https://acshiryu.github.io/tags/Linux/"/>
+      <category term="Linux" scheme="https://blog.zilong.pro/tags/Linux/"/>
     
-      <category term="crontab" scheme="https://acshiryu.github.io/tags/crontab/"/>
+      <category term="crontab" scheme="https://blog.zilong.pro/tags/crontab/"/>
     
   </entry>
   
   <entry>
     <title>poj1006 中国剩余定理</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1006-biorhythms.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1006-biorhythms.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1006-biorhythms.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1006-biorhythms.html</id>
     <published>2018-09-16T02:24:00.000Z</published>
     <updated>2018-09-16T02:20:08.381Z</updated>
     
@@ -1476,21 +1476,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="中国剩余定理" scheme="https://acshiryu.github.io/tags/chinese-remainder-theorem/"/>
+      <category term="中国剩余定理" scheme="https://blog.zilong.pro/tags/chinese-remainder-theorem/"/>
     
   </entry>
   
   <entry>
     <title>POJ1019 ---简单的数学找规律题</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1019-number-sequence.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1019-number-sequence.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1019-number-sequence.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1019-number-sequence.html</id>
     <published>2018-09-16T02:23:00.000Z</published>
     <updated>2018-09-16T02:19:52.432Z</updated>
     
@@ -1506,21 +1506,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="递归" scheme="https://acshiryu.github.io/tags/recursive/"/>
+      <category term="递归" scheme="https://blog.zilong.pro/tags/recursive/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="规律" scheme="https://acshiryu.github.io/tags/regular-pattern/"/>
+      <category term="规律" scheme="https://blog.zilong.pro/tags/regular-pattern/"/>
     
   </entry>
   
   <entry>
     <title>poj1050经典DP的二维形式</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1050-to-the-max.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1050-to-the-max.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1050-to-the-max.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1050-to-the-max.html</id>
     <published>2018-09-16T02:22:00.000Z</published>
     <updated>2018-09-16T02:19:05.247Z</updated>
     
@@ -1537,19 +1537,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>通过POJ1061青蛙的约会来谈扩展欧几里得算法</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1061-frog-dating.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1061-frog-dating.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1061-frog-dating.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1061-frog-dating.html</id>
     <published>2018-09-16T02:21:00.000Z</published>
     <updated>2018-09-24T05:07:33.602Z</updated>
     
@@ -1570,23 +1570,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="同余方程" scheme="https://acshiryu.github.io/tags/congruence-equation/"/>
+      <category term="同余方程" scheme="https://blog.zilong.pro/tags/congruence-equation/"/>
     
-      <category term="扩展欧几里得" scheme="https://acshiryu.github.io/tags/extended-euclid/"/>
+      <category term="扩展欧几里得" scheme="https://blog.zilong.pro/tags/extended-euclid/"/>
     
   </entry>
   
   <entry>
     <title>POJ 1062 昂贵的聘礼 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1062-expensive-dowry.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1062-expensive-dowry.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1062-expensive-dowry.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1062-expensive-dowry.html</id>
     <published>2018-09-16T02:20:00.000Z</published>
     <updated>2018-09-16T02:16:48.203Z</updated>
     
@@ -1601,21 +1601,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="最短路" scheme="https://acshiryu.github.io/tags/shortest-road/"/>
+      <category term="最短路" scheme="https://blog.zilong.pro/tags/shortest-road/"/>
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>poj1080 人类基因配对</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1080-human-gene-functions.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1080-human-gene-functions.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1080-human-gene-functions.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1080-human-gene-functions.html</id>
     <published>2018-09-16T02:19:00.000Z</published>
     <updated>2018-09-16T02:15:44.589Z</updated>
     
@@ -1634,19 +1634,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>poj1088记忆化搜索</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1088-skiing.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1088-skiing.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1088-skiing.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1088-skiing.html</id>
     <published>2018-09-16T02:18:00.000Z</published>
     <updated>2018-09-16T02:15:27.010Z</updated>
     
@@ -1662,19 +1662,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="记忆化搜索" scheme="https://acshiryu.github.io/tags/memory-search/"/>
+      <category term="记忆化搜索" scheme="https://blog.zilong.pro/tags/memory-search/"/>
     
   </entry>
   
   <entry>
     <title>POJ 1125 Stockbroker Grapevine 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1125-stockbroker-grapevine.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1125-stockbroker-grapevine.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1125-stockbroker-grapevine.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1125-stockbroker-grapevine.html</id>
     <published>2018-09-16T02:17:00.000Z</published>
     <updated>2018-09-16T02:14:49.421Z</updated>
     
@@ -1689,23 +1689,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="最短路" scheme="https://acshiryu.github.io/tags/shortest-road/"/>
+      <category term="最短路" scheme="https://blog.zilong.pro/tags/shortest-road/"/>
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="floyd" scheme="https://acshiryu.github.io/tags/floyd/"/>
+      <category term="floyd" scheme="https://blog.zilong.pro/tags/floyd/"/>
     
   </entry>
   
   <entry>
     <title>poj1141 Brackets Sequence(经典DP) 解题报告另附官方测试数据</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1141-brackets-sequence.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1141-brackets-sequence.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1141-brackets-sequence.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1141-brackets-sequence.html</id>
     <published>2018-09-16T02:16:00.000Z</published>
     <updated>2018-09-16T02:14:34.156Z</updated>
     
@@ -1720,21 +1720,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="字符串匹配" scheme="https://acshiryu.github.io/tags/string-match/"/>
+      <category term="字符串匹配" scheme="https://blog.zilong.pro/tags/string-match/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>POJ1142Smith Numbers一道简单的数学题</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1142-smith-numbers.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1142-smith-numbers.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1142-smith-numbers.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1142-smith-numbers.html</id>
     <published>2018-09-16T02:15:00.000Z</published>
     <updated>2018-09-16T02:14:05.685Z</updated>
     
@@ -1751,19 +1751,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>poj1191棋盘分割(动态规划)</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1191-checkerboard-segmentation.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1191-checkerboard-segmentation.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1191-checkerboard-segmentation.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1191-checkerboard-segmentation.html</id>
     <published>2018-09-16T02:14:00.000Z</published>
     <updated>2018-09-16T02:13:51.082Z</updated>
     
@@ -1779,19 +1779,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>POJ1222EXTENDED LIGHTS OUT 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1222-extended-lights-out.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1222-extended-lights-out.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1222-extended-lights-out.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1222-extended-lights-out.html</id>
     <published>2018-09-16T02:13:00.000Z</published>
     <updated>2018-09-16T02:13:37.444Z</updated>
     
@@ -1807,23 +1807,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
+      <category term="枚举" scheme="https://blog.zilong.pro/tags/enumerate/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="位运算" scheme="https://acshiryu.github.io/tags/bit-operation/"/>
+      <category term="位运算" scheme="https://blog.zilong.pro/tags/bit-operation/"/>
     
-      <category term="高斯消元" scheme="https://acshiryu.github.io/tags/gaussian-elimination/"/>
+      <category term="高斯消元" scheme="https://blog.zilong.pro/tags/gaussian-elimination/"/>
     
   </entry>
   
   <entry>
     <title>POJ1251 Jungle Roads 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1251-jungle-roads.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1251-jungle-roads.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1251-jungle-roads.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1251-jungle-roads.html</id>
     <published>2018-09-16T02:12:00.000Z</published>
     <updated>2018-09-16T02:13:24.204Z</updated>
     
@@ -1839,52 +1839,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="kruskal" scheme="https://acshiryu.github.io/tags/kruskal/"/>
+      <category term="生成树" scheme="https://blog.zilong.pro/tags/spanning-tree/"/>
     
-      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>POJ 1274 The Perfect Stall 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1274-the-perfect-stall.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1274-the-perfect-stall.html</id>
-    <published>2018-09-16T02:11:00.000Z</published>
-    <updated>2018-09-16T02:10:58.780Z</updated>
-    
-    <content type="html"><![CDATA[<p>题目大意就是求二分图的最大匹配，算得上是基础题，直接运用匈牙利算法可以求解，关于匈牙利算法昨天找了一天资料，看了无数ppt都没有搞懂，那些讲解都太抽象了，直接文字表述，连个图都没有，现在也只是对该算法一知半解。匈牙利算法的思想说白了就是要你从二分图中找出一条路径来，让路径的起点和终点都是还没有匹配过的点，并且路径经过的连线是一条没被匹配、一条已经匹配过，再下一条又没匹配这样交替地出现。找到这样的路径后，显然路径里没被匹配的连线比已经匹配了的连线多一条，于是修改匹配图，把路径里所有匹配过的连线去掉匹配关系，把没有匹配的连线变成匹配的，这样匹配数就比原来多1个。不断执行上述操作，直到找不到这样的路径为止。（传自Matrix67大牛的博客）</p><p>第一次做，刚开始不懂，看了nocow的代码后，自己当CPU运行了一遍，知道了大概，直接套模板把这题给AC了<br><a id="more"></a><br><figure class="highlight cpp"><figcaption><span>poj1274 The Perfect Stall</span><a href="/assets/code/poj/1274.cpp">view raw</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdlib&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cmath&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="keyword">bool</span> <span class="built_in">map</span>[<span class="number">201</span>][<span class="number">201</span>], vis[<span class="number">201</span>] ;    <span class="comment">//map保存两点间是否有边，vis保存每次操作后该数是否操作过</span></span><br><span class="line"><span class="keyword">int</span> link[<span class="number">201</span>] ;                    <span class="comment">//link保存改点连接的另一点的序号</span></span><br><span class="line"><span class="keyword">int</span> m , n ;</span><br><span class="line"><span class="function"><span class="keyword">bool</span> <span class="title">find</span> <span class="params">( <span class="keyword">int</span> k )</span> </span></span><br><span class="line"><span class="function"></span>{<span class="comment">//对k寻找匹配，如果找到就记录匹配，并返回true,否则返回false</span></span><br><span class="line">    <span class="keyword">int</span> i , j ;</span><br><span class="line">    <span class="keyword">for</span> ( i = <span class="number">1</span> ; i &lt;= n ; i ++ )</span><br><span class="line">    {<span class="comment">//对所有节点遍历一遍，寻找没有访问过并且与i连同的点</span></span><br><span class="line">        <span class="keyword">if</span> ( <span class="built_in">map</span> [k][i] ==<span class="literal">true</span> &amp;&amp; ! vis[i] )</span><br><span class="line">        {</span><br><span class="line">            vis [i] = <span class="literal">true</span> ;    <span class="comment">//记录改点以被访问</span></span><br><span class="line">            <span class="keyword">if</span> ( link [i] == <span class="number">0</span> || find ( link [i] ) )</span><br><span class="line">            {<span class="comment">//如果该点还未与其他点匹配，或还能找到其他点能与该点匹配的点j进行匹配，即存在增广路</span></span><br><span class="line">                link [ i ] = k ;    <span class="comment">//将i与k进行匹配</span></span><br><span class="line">                <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">            }</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">}</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">while</span> ( <span class="built_in">cin</span> &gt;&gt; m &gt;&gt; n ) </span><br><span class="line">    {<span class="comment">//初始化，接受数据的输入</span></span><br><span class="line">        <span class="built_in">memset</span> ( <span class="built_in">map</span> , <span class="literal">false</span> , <span class="keyword">sizeof</span> ( <span class="built_in">map</span> ) ) ;</span><br><span class="line">        <span class="built_in">memset</span> ( link , <span class="number">0</span> , <span class="keyword">sizeof</span> ( link ) ) ;</span><br><span class="line">        <span class="keyword">int</span> i , j ;</span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">1</span> ; i &lt;= m ; i ++ )</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">int</span> s ;</span><br><span class="line">            <span class="built_in">cin</span> &gt;&gt; s ;</span><br><span class="line">            <span class="keyword">for</span> ( j = <span class="number">0</span> ; j &lt; s ; j ++ )</span><br><span class="line">            {</span><br><span class="line">                <span class="keyword">int</span> k ;</span><br><span class="line">                <span class="built_in">cin</span> &gt;&gt; k ;</span><br><span class="line">                <span class="built_in">map</span> [i][k] = <span class="literal">true</span> ;</span><br><span class="line">            }</span><br><span class="line">        }</span><br><span class="line"> </span><br><span class="line">        <span class="keyword">int</span> ans = <span class="number">0</span> ;    <span class="comment">//最大匹配数</span></span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">1</span> ; i &lt;= m ; i ++ )</span><br><span class="line">        {</span><br><span class="line">            <span class="built_in">memset</span> ( vis , <span class="literal">false</span> , <span class="keyword">sizeof</span> ( vis ) ) ;<span class="comment">//对所有数据都初始为0，表明数据还没有试探</span></span><br><span class="line">            <span class="keyword">if</span> ( find ( i ) ) <span class="comment">//如果对i找到一个匹配</span></span><br><span class="line">                ans ++ ;</span><br><span class="line">        }</span><br><span class="line">        <span class="built_in">cout</span>&lt;&lt;ans&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;题目大意就是求二分图的最大匹配，算得上是基础题，直接运用匈牙利算法可以求解，关于匈牙利算法昨天找了一天资料，看了无数ppt都没有搞懂，那些讲解都太抽象了，直接文字表述，连个图都没有，现在也只是对该算法一知半解。匈牙利算法的思想说白了就是要你从二分图中找出一条路径来，让路径的起点和终点都是还没有匹配过的点，并且路径经过的连线是一条没被匹配、一条已经匹配过，再下一条又没匹配这样交替地出现。找到这样的路径后，显然路径里没被匹配的连线比已经匹配了的连线多一条，于是修改匹配图，把路径里所有匹配过的连线去掉匹配关系，把没有匹配的连线变成匹配的，这样匹配数就比原来多1个。不断执行上述操作，直到找不到这样的路径为止。（传自Matrix67大牛的博客）&lt;/p&gt;
-&lt;p&gt;第一次做，刚开始不懂，看了nocow的代码后，自己当CPU运行了一遍，知道了大概，直接套模板把这题给AC了&lt;br&gt;
-    
-    </summary>
-    
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
-    
-    
-      <category term="二分图" scheme="https://acshiryu.github.io/tags/binary-picture/"/>
-    
-      <category term="最大匹配" scheme="https://acshiryu.github.io/tags/maximum-match/"/>
-    
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
-    
-      <category term="匈牙利算法" scheme="https://acshiryu.github.io/tags/hungarian-algorithm/"/>
+      <category term="kruskal" scheme="https://blog.zilong.pro/tags/kruskal/"/>
     
   </entry>
   
   <entry>
     <title>POJ1258 Agri-Net 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1258-agri-net.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1258-agri-net.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1258-agri-net.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1258-agri-net.html</id>
     <published>2018-09-16T02:11:00.000Z</published>
     <updated>2018-09-16T02:13:07.549Z</updated>
     
@@ -1900,23 +1871,52 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
+      <category term="prim" scheme="https://blog.zilong.pro/tags/prim/"/>
     
-      <category term="prim" scheme="https://acshiryu.github.io/tags/prim/"/>
+      <category term="生成树" scheme="https://blog.zilong.pro/tags/spanning-tree/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>POJ 1274 The Perfect Stall 解题报告</title>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1274-the-perfect-stall.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1274-the-perfect-stall.html</id>
+    <published>2018-09-16T02:11:00.000Z</published>
+    <updated>2018-09-16T02:10:58.780Z</updated>
+    
+    <content type="html"><![CDATA[<p>题目大意就是求二分图的最大匹配，算得上是基础题，直接运用匈牙利算法可以求解，关于匈牙利算法昨天找了一天资料，看了无数ppt都没有搞懂，那些讲解都太抽象了，直接文字表述，连个图都没有，现在也只是对该算法一知半解。匈牙利算法的思想说白了就是要你从二分图中找出一条路径来，让路径的起点和终点都是还没有匹配过的点，并且路径经过的连线是一条没被匹配、一条已经匹配过，再下一条又没匹配这样交替地出现。找到这样的路径后，显然路径里没被匹配的连线比已经匹配了的连线多一条，于是修改匹配图，把路径里所有匹配过的连线去掉匹配关系，把没有匹配的连线变成匹配的，这样匹配数就比原来多1个。不断执行上述操作，直到找不到这样的路径为止。（传自Matrix67大牛的博客）</p><p>第一次做，刚开始不懂，看了nocow的代码后，自己当CPU运行了一遍，知道了大概，直接套模板把这题给AC了<br><a id="more"></a><br><figure class="highlight cpp"><figcaption><span>poj1274 The Perfect Stall</span><a href="/assets/code/poj/1274.cpp">view raw</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdlib&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstring&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cmath&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="keyword">bool</span> <span class="built_in">map</span>[<span class="number">201</span>][<span class="number">201</span>], vis[<span class="number">201</span>] ;    <span class="comment">//map保存两点间是否有边，vis保存每次操作后该数是否操作过</span></span><br><span class="line"><span class="keyword">int</span> link[<span class="number">201</span>] ;                    <span class="comment">//link保存改点连接的另一点的序号</span></span><br><span class="line"><span class="keyword">int</span> m , n ;</span><br><span class="line"><span class="function"><span class="keyword">bool</span> <span class="title">find</span> <span class="params">( <span class="keyword">int</span> k )</span> </span></span><br><span class="line"><span class="function"></span>{<span class="comment">//对k寻找匹配，如果找到就记录匹配，并返回true,否则返回false</span></span><br><span class="line">    <span class="keyword">int</span> i , j ;</span><br><span class="line">    <span class="keyword">for</span> ( i = <span class="number">1</span> ; i &lt;= n ; i ++ )</span><br><span class="line">    {<span class="comment">//对所有节点遍历一遍，寻找没有访问过并且与i连同的点</span></span><br><span class="line">        <span class="keyword">if</span> ( <span class="built_in">map</span> [k][i] ==<span class="literal">true</span> &amp;&amp; ! vis[i] )</span><br><span class="line">        {</span><br><span class="line">            vis [i] = <span class="literal">true</span> ;    <span class="comment">//记录改点以被访问</span></span><br><span class="line">            <span class="keyword">if</span> ( link [i] == <span class="number">0</span> || find ( link [i] ) )</span><br><span class="line">            {<span class="comment">//如果该点还未与其他点匹配，或还能找到其他点能与该点匹配的点j进行匹配，即存在增广路</span></span><br><span class="line">                link [ i ] = k ;    <span class="comment">//将i与k进行匹配</span></span><br><span class="line">                <span class="keyword">return</span> <span class="literal">true</span>;</span><br><span class="line">            }</span><br><span class="line">        }</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">}</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">    <span class="keyword">while</span> ( <span class="built_in">cin</span> &gt;&gt; m &gt;&gt; n ) </span><br><span class="line">    {<span class="comment">//初始化，接受数据的输入</span></span><br><span class="line">        <span class="built_in">memset</span> ( <span class="built_in">map</span> , <span class="literal">false</span> , <span class="keyword">sizeof</span> ( <span class="built_in">map</span> ) ) ;</span><br><span class="line">        <span class="built_in">memset</span> ( link , <span class="number">0</span> , <span class="keyword">sizeof</span> ( link ) ) ;</span><br><span class="line">        <span class="keyword">int</span> i , j ;</span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">1</span> ; i &lt;= m ; i ++ )</span><br><span class="line">        {</span><br><span class="line">            <span class="keyword">int</span> s ;</span><br><span class="line">            <span class="built_in">cin</span> &gt;&gt; s ;</span><br><span class="line">            <span class="keyword">for</span> ( j = <span class="number">0</span> ; j &lt; s ; j ++ )</span><br><span class="line">            {</span><br><span class="line">                <span class="keyword">int</span> k ;</span><br><span class="line">                <span class="built_in">cin</span> &gt;&gt; k ;</span><br><span class="line">                <span class="built_in">map</span> [i][k] = <span class="literal">true</span> ;</span><br><span class="line">            }</span><br><span class="line">        }</span><br><span class="line"> </span><br><span class="line">        <span class="keyword">int</span> ans = <span class="number">0</span> ;    <span class="comment">//最大匹配数</span></span><br><span class="line">        <span class="keyword">for</span> ( i = <span class="number">1</span> ; i &lt;= m ; i ++ )</span><br><span class="line">        {</span><br><span class="line">            <span class="built_in">memset</span> ( vis , <span class="literal">false</span> , <span class="keyword">sizeof</span> ( vis ) ) ;<span class="comment">//对所有数据都初始为0，表明数据还没有试探</span></span><br><span class="line">            <span class="keyword">if</span> ( find ( i ) ) <span class="comment">//如果对i找到一个匹配</span></span><br><span class="line">                ans ++ ;</span><br><span class="line">        }</span><br><span class="line">        <span class="built_in">cout</span>&lt;&lt;ans&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    }</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;题目大意就是求二分图的最大匹配，算得上是基础题，直接运用匈牙利算法可以求解，关于匈牙利算法昨天找了一天资料，看了无数ppt都没有搞懂，那些讲解都太抽象了，直接文字表述，连个图都没有，现在也只是对该算法一知半解。匈牙利算法的思想说白了就是要你从二分图中找出一条路径来，让路径的起点和终点都是还没有匹配过的点，并且路径经过的连线是一条没被匹配、一条已经匹配过，再下一条又没匹配这样交替地出现。找到这样的路径后，显然路径里没被匹配的连线比已经匹配了的连线多一条，于是修改匹配图，把路径里所有匹配过的连线去掉匹配关系，把没有匹配的连线变成匹配的，这样匹配数就比原来多1个。不断执行上述操作，直到找不到这样的路径为止。（传自Matrix67大牛的博客）&lt;/p&gt;
+&lt;p&gt;第一次做，刚开始不懂，看了nocow的代码后，自己当CPU运行了一遍，知道了大概，直接套模板把这题给AC了&lt;br&gt;
+    
+    </summary>
+    
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
+    
+    
+      <category term="二分图" scheme="https://blog.zilong.pro/tags/binary-picture/"/>
+    
+      <category term="最大匹配" scheme="https://blog.zilong.pro/tags/maximum-match/"/>
+    
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
+    
+      <category term="匈牙利算法" scheme="https://blog.zilong.pro/tags/hungarian-algorithm/"/>
     
   </entry>
   
   <entry>
     <title>poj1284 欧拉函数的运用</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1284-primitive-roots.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1284-primitive-roots.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1284-primitive-roots.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1284-primitive-roots.html</id>
     <published>2018-09-16T02:10:00.000Z</published>
     <updated>2018-09-16T02:10:07.863Z</updated>
     
@@ -1932,25 +1932,25 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="最大公约数" scheme="https://acshiryu.github.io/tags/greatest-common-divisor/"/>
+      <category term="最大公约数" scheme="https://blog.zilong.pro/tags/greatest-common-divisor/"/>
     
-      <category term="欧拉函数" scheme="https://acshiryu.github.io/tags/euler-function/"/>
+      <category term="欧拉函数" scheme="https://blog.zilong.pro/tags/euler-function/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="费马小定理" scheme="https://acshiryu.github.io/tags/fermat-little-theorem/"/>
+      <category term="费马小定理" scheme="https://blog.zilong.pro/tags/fermat-little-theorem/"/>
     
   </entry>
   
   <entry>
     <title>POJ1321 棋盘问题 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1321-checkerboard-problem.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1321-checkerboard-problem.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1321-checkerboard-problem.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1321-checkerboard-problem.html</id>
     <published>2018-09-16T02:09:00.000Z</published>
     <updated>2018-09-16T02:07:51.822Z</updated>
     
@@ -1966,21 +1966,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="深度优先搜索" scheme="https://acshiryu.github.io/tags/depth-first-search/"/>
+      <category term="深度优先搜索" scheme="https://blog.zilong.pro/tags/depth-first-search/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="搜索" scheme="https://acshiryu.github.io/tags/search/"/>
+      <category term="搜索" scheme="https://blog.zilong.pro/tags/search/"/>
     
   </entry>
   
   <entry>
     <title>POJ 1325 Machine Schedule 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1325-machine-schedule.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1325-machine-schedule.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1325-machine-schedule.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1325-machine-schedule.html</id>
     <published>2018-09-16T02:08:00.000Z</published>
     <updated>2018-09-16T02:07:26.821Z</updated>
     
@@ -1996,21 +1996,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="最小覆盖点" scheme="https://acshiryu.github.io/tags/minimum-coverage-point/"/>
+      <category term="最小覆盖点" scheme="https://blog.zilong.pro/tags/minimum-coverage-point/"/>
     
   </entry>
   
   <entry>
     <title>POJ1390 Blocks 常见动态规划模型</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1390-blocks.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1390-blocks.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1390-blocks.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1390-blocks.html</id>
     <published>2018-09-16T02:07:00.000Z</published>
     <updated>2018-09-16T02:06:37.239Z</updated>
     
@@ -2026,21 +2026,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="DP" scheme="https://acshiryu.github.io/tags/DP/"/>
+      <category term="DP" scheme="https://blog.zilong.pro/tags/DP/"/>
     
   </entry>
   
   <entry>
     <title>POJ1426 Find The Multiple 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1426-find-the-multiple.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1426-find-the-multiple.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1426-find-the-multiple.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1426-find-the-multiple.html</id>
     <published>2018-09-16T02:06:00.000Z</published>
     <updated>2018-09-16T02:06:17.788Z</updated>
     
@@ -2056,23 +2056,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="深度优先搜索" scheme="https://acshiryu.github.io/tags/depth-first-search/"/>
+      <category term="深度优先搜索" scheme="https://blog.zilong.pro/tags/depth-first-search/"/>
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="搜索" scheme="https://acshiryu.github.io/tags/search/"/>
+      <category term="搜索" scheme="https://blog.zilong.pro/tags/search/"/>
     
   </entry>
   
   <entry>
     <title>poj1458 最长公共子序列问题</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1458-common-subsequence.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1458-common-subsequence.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1458-common-subsequence.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1458-common-subsequence.html</id>
     <published>2018-09-16T02:05:00.000Z</published>
     <updated>2018-09-16T02:04:42.345Z</updated>
     
@@ -2087,21 +2087,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="最长公共子序列" scheme="https://acshiryu.github.io/tags/longest-common-subsequence/"/>
+      <category term="最长公共子序列" scheme="https://blog.zilong.pro/tags/longest-common-subsequence/"/>
     
   </entry>
   
   <entry>
     <title>POJ 1469 COURSES 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1469-courses.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1469-courses.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1469-courses.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1469-courses.html</id>
     <published>2018-09-16T02:04:00.000Z</published>
     <updated>2018-09-16T02:03:28.919Z</updated>
     
@@ -2117,23 +2117,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="二分图" scheme="https://acshiryu.github.io/tags/binary-picture/"/>
+      <category term="二分图" scheme="https://blog.zilong.pro/tags/binary-picture/"/>
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="最大匹配" scheme="https://acshiryu.github.io/tags/maximum-match/"/>
+      <category term="最大匹配" scheme="https://blog.zilong.pro/tags/maximum-match/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>poj1579 Function Run Fun 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1579-function-run-fun.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1579-function-run-fun.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1579-function-run-fun.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1579-function-run-fun.html</id>
     <published>2018-09-16T02:03:00.000Z</published>
     <updated>2018-09-16T02:02:53.619Z</updated>
     
@@ -2148,19 +2148,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="记忆化搜索" scheme="https://acshiryu.github.io/tags/memory-search/"/>
+      <category term="记忆化搜索" scheme="https://blog.zilong.pro/tags/memory-search/"/>
     
   </entry>
   
   <entry>
     <title>POJ1681 Painter&#39;s Problem 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1681-painters-problem.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1681-painters-problem.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1681-painters-problem.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1681-painters-problem.html</id>
     <published>2018-09-16T02:02:00.000Z</published>
     <updated>2018-09-16T02:02:34.282Z</updated>
     
@@ -2175,23 +2175,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
+      <category term="枚举" scheme="https://blog.zilong.pro/tags/enumerate/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="位运算" scheme="https://acshiryu.github.io/tags/bit-operation/"/>
+      <category term="位运算" scheme="https://blog.zilong.pro/tags/bit-operation/"/>
     
-      <category term="高斯消元" scheme="https://acshiryu.github.io/tags/gaussian-elimination/"/>
+      <category term="高斯消元" scheme="https://blog.zilong.pro/tags/gaussian-elimination/"/>
     
   </entry>
   
   <entry>
     <title>POJ 1789 Truck History 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1789-truck-history.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1789-truck-history.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1789-truck-history.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1789-truck-history.html</id>
     <published>2018-09-16T02:01:00.000Z</published>
     <updated>2018-09-16T02:02:13.552Z</updated>
     
@@ -2207,23 +2207,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
+      <category term="prim" scheme="https://blog.zilong.pro/tags/prim/"/>
     
-      <category term="prim" scheme="https://acshiryu.github.io/tags/prim/"/>
+      <category term="生成树" scheme="https://blog.zilong.pro/tags/spanning-tree/"/>
     
   </entry>
   
   <entry>
     <title>POJ 1797 Heavy Transportation 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1797-heavy-transportation.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1797-heavy-transportation.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1797-heavy-transportation.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1797-heavy-transportation.html</id>
     <published>2018-09-16T02:00:00.000Z</published>
     <updated>2018-09-16T02:00:37.270Z</updated>
     
@@ -2239,25 +2239,25 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="并查集" scheme="https://acshiryu.github.io/tags/union-set/"/>
+      <category term="并查集" scheme="https://blog.zilong.pro/tags/union-set/"/>
     
-      <category term="最短路" scheme="https://acshiryu.github.io/tags/shortest-road/"/>
+      <category term="最短路" scheme="https://blog.zilong.pro/tags/shortest-road/"/>
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
+      <category term="生成树" scheme="https://blog.zilong.pro/tags/spanning-tree/"/>
     
   </entry>
   
   <entry>
     <title>POJ1830 开关问题 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-1830-switch-problem.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-1830-switch-problem.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-1830-switch-problem.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-1830-switch-problem.html</id>
     <published>2018-09-16T01:59:00.000Z</published>
     <updated>2018-09-16T02:00:13.097Z</updated>
     
@@ -2273,21 +2273,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="位运算" scheme="https://acshiryu.github.io/tags/bit-operation/"/>
+      <category term="位运算" scheme="https://blog.zilong.pro/tags/bit-operation/"/>
     
-      <category term="高斯消元" scheme="https://acshiryu.github.io/tags/gaussian-elimination/"/>
+      <category term="高斯消元" scheme="https://blog.zilong.pro/tags/gaussian-elimination/"/>
     
   </entry>
   
   <entry>
     <title>poj2115 同余方程与扩展欧几里得</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2115-c-looooops.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2115-c-looooops.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2115-c-looooops.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2115-c-looooops.html</id>
     <published>2018-09-16T01:58:00.000Z</published>
     <updated>2018-09-24T05:07:33.604Z</updated>
     
@@ -2302,23 +2302,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="中国剩余定理" scheme="https://acshiryu.github.io/tags/chinese-remainder-theorem/"/>
+      <category term="中国剩余定理" scheme="https://blog.zilong.pro/tags/chinese-remainder-theorem/"/>
     
-      <category term="同余方程" scheme="https://acshiryu.github.io/tags/congruence-equation/"/>
+      <category term="同余方程" scheme="https://blog.zilong.pro/tags/congruence-equation/"/>
     
-      <category term="扩展欧几里得" scheme="https://acshiryu.github.io/tags/extended-euclid/"/>
+      <category term="扩展欧几里得" scheme="https://blog.zilong.pro/tags/extended-euclid/"/>
     
   </entry>
   
   <entry>
     <title>POJ2249--一道简单的排列组合题</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2249-binomial-showdown.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2249-binomial-showdown.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2249-binomial-showdown.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2249-binomial-showdown.html</id>
     <published>2018-09-16T01:55:00.000Z</published>
     <updated>2018-09-16T01:55:53.628Z</updated>
     
@@ -2333,23 +2333,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="排列" scheme="https://acshiryu.github.io/tags/arrangement/"/>
+      <category term="排列" scheme="https://blog.zilong.pro/tags/arrangement/"/>
     
-      <category term="组合数学" scheme="https://acshiryu.github.io/tags/combinatorial-mathematics/"/>
+      <category term="组合数学" scheme="https://blog.zilong.pro/tags/combinatorial-mathematics/"/>
     
   </entry>
   
   <entry>
     <title>POJ2689 Prime Distance 素数筛选</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2689-prime-distance.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2689-prime-distance.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2689-prime-distance.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2689-prime-distance.html</id>
     <published>2018-09-15T13:17:00.000Z</published>
     <updated>2018-09-15T14:56:37.960Z</updated>
     
@@ -2364,21 +2364,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="素数" scheme="https://acshiryu.github.io/tags/prime/"/>
+      <category term="素数" scheme="https://blog.zilong.pro/tags/prime/"/>
     
-      <category term="筛选" scheme="https://acshiryu.github.io/tags/filter/"/>
+      <category term="筛选" scheme="https://blog.zilong.pro/tags/filter/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>POJ2251 Dungeon Master 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2251-dungeon-master.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2251-dungeon-master.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2251-dungeon-master.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2251-dungeon-master.html</id>
     <published>2018-09-15T04:12:00.000Z</published>
     <updated>2018-09-15T14:56:37.952Z</updated>
     
@@ -2393,25 +2393,25 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
-      <category term="广度优先搜索" scheme="https://acshiryu.github.io/tags/breadth-first-search/"/>
+      <category term="广度优先搜索" scheme="https://blog.zilong.pro/tags/breadth-first-search/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="搜索" scheme="https://acshiryu.github.io/tags/search/"/>
+      <category term="搜索" scheme="https://blog.zilong.pro/tags/search/"/>
     
-      <category term="队列" scheme="https://acshiryu.github.io/tags/queue/"/>
+      <category term="队列" scheme="https://blog.zilong.pro/tags/queue/"/>
     
   </entry>
   
   <entry>
     <title>POJ 2253 Frogger 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2253-frogger.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2253-frogger.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2253-frogger.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2253-frogger.html</id>
     <published>2018-09-15T04:11:00.000Z</published>
     <updated>2018-09-15T14:56:37.953Z</updated>
     
@@ -2426,23 +2426,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="最短路" scheme="https://acshiryu.github.io/tags/shortest-road/"/>
+      <category term="最短路" scheme="https://blog.zilong.pro/tags/shortest-road/"/>
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="生成树" scheme="https://acshiryu.github.io/tags/spanning-tree/"/>
+      <category term="生成树" scheme="https://blog.zilong.pro/tags/spanning-tree/"/>
     
   </entry>
   
   <entry>
     <title>POJ2262Goldbach&#39;s Conjecture 简单的素数判定</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2262-goldbach-s-conjecture.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2262-goldbach-s-conjecture.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2262-goldbach-s-conjecture.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2262-goldbach-s-conjecture.html</id>
     <published>2018-09-15T04:10:00.000Z</published>
     <updated>2018-09-15T14:56:37.953Z</updated>
     
@@ -2460,21 +2460,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="素数" scheme="https://acshiryu.github.io/tags/prime/"/>
+      <category term="素数" scheme="https://blog.zilong.pro/tags/prime/"/>
     
-      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
+      <category term="枚举" scheme="https://blog.zilong.pro/tags/enumerate/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>从poj2356来体会 抽屉原理 的妙用</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2356-find-a-multiple.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2356-find-a-multiple.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2356-find-a-multiple.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2356-find-a-multiple.html</id>
     <published>2018-09-15T04:09:00.000Z</published>
     <updated>2018-09-15T14:56:37.954Z</updated>
     
@@ -2492,21 +2492,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="抽屉原理" scheme="https://acshiryu.github.io/tags/drawer-principle/"/>
+      <category term="抽屉原理" scheme="https://blog.zilong.pro/tags/drawer-principle/"/>
     
   </entry>
   
   <entry>
     <title>POJ2407Relatives --欧拉函数的简单运用</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2407-relatives.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2407-relatives.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2407-relatives.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2407-relatives.html</id>
     <published>2018-09-15T04:06:00.000Z</published>
     <updated>2018-09-15T14:56:37.955Z</updated>
     
@@ -2522,21 +2522,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="欧拉函数" scheme="https://acshiryu.github.io/tags/euler-function/"/>
+      <category term="欧拉函数" scheme="https://blog.zilong.pro/tags/euler-function/"/>
     
-      <category term="素数" scheme="https://acshiryu.github.io/tags/prime/"/>
+      <category term="素数" scheme="https://blog.zilong.pro/tags/prime/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>poj2409 Let it Bead 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2409-let-it-bead.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2409-let-it-bead.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2409-let-it-bead.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2409-let-it-bead.html</id>
     <published>2018-09-15T04:05:00.000Z</published>
     <updated>2018-09-15T14:56:37.955Z</updated>
     
@@ -2552,21 +2552,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="polya" scheme="https://acshiryu.github.io/tags/polya/"/>
+      <category term="polya" scheme="https://blog.zilong.pro/tags/polya/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="组合数学" scheme="https://acshiryu.github.io/tags/combinatorial-mathematics/"/>
+      <category term="组合数学" scheme="https://blog.zilong.pro/tags/combinatorial-mathematics/"/>
     
   </entry>
   
   <entry>
     <title>poj2478 又一欧拉公式的运用</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2478-farey-sequence.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2478-farey-sequence.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2478-farey-sequence.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2478-farey-sequence.html</id>
     <published>2018-09-15T04:04:00.000Z</published>
     <updated>2018-09-24T05:07:33.606Z</updated>
     
@@ -2583,21 +2583,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="欧拉函数" scheme="https://acshiryu.github.io/tags/euler-function/"/>
+      <category term="欧拉函数" scheme="https://blog.zilong.pro/tags/euler-function/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>poj2479与poj2593,同一道DP题</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2479-maximum-sum-2593-max-sequence.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2479-maximum-sum-2593-max-sequence.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2479-maximum-sum-2593-max-sequence.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2479-maximum-sum-2593-max-sequence.html</id>
     <published>2018-09-15T04:03:00.000Z</published>
     <updated>2018-09-15T14:56:37.956Z</updated>
     
@@ -2612,19 +2612,19 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="动态规划" scheme="https://acshiryu.github.io/tags/dynamic-planning/"/>
+      <category term="动态规划" scheme="https://blog.zilong.pro/tags/dynamic-planning/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>POJ 2485 Highways 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2485-highways.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2485-highways.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2485-highways.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2485-highways.html</id>
     <published>2018-09-15T04:02:00.000Z</published>
     <updated>2018-09-15T14:56:37.957Z</updated>
     
@@ -2640,21 +2640,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="图论" scheme="https://acshiryu.github.io/tags/graph-theory/"/>
+      <category term="图论" scheme="https://blog.zilong.pro/tags/graph-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="最小生成树" scheme="https://acshiryu.github.io/tags/minimum-spanning-tree/"/>
+      <category term="最小生成树" scheme="https://blog.zilong.pro/tags/minimum-spanning-tree/"/>
     
   </entry>
   
   <entry>
     <title>POJ2488 A Knight&#39;s Journey 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2488-a-knights-journey.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2488-a-knights-journey.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2488-a-knights-journey.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2488-a-knights-journey.html</id>
     <published>2018-09-14T13:27:00.000Z</published>
     <updated>2018-09-15T14:56:37.957Z</updated>
     
@@ -2671,21 +2671,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="深度优先搜索" scheme="https://acshiryu.github.io/tags/depth-first-search/"/>
+      <category term="深度优先搜索" scheme="https://blog.zilong.pro/tags/depth-first-search/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="搜索" scheme="https://acshiryu.github.io/tags/search/"/>
+      <category term="搜索" scheme="https://blog.zilong.pro/tags/search/"/>
     
   </entry>
   
   <entry>
     <title>poj 2492 并查集</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2492-a-bug-s-life.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2492-a-bug-s-life.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2492-a-bug-s-life.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2492-a-bug-s-life.html</id>
     <published>2018-09-14T13:26:00.000Z</published>
     <updated>2018-09-15T14:56:37.958Z</updated>
     
@@ -2701,21 +2701,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
-      <category term="并查集" scheme="https://acshiryu.github.io/tags/union-set/"/>
+      <category term="并查集" scheme="https://blog.zilong.pro/tags/union-set/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>POJ 2506 高精度+递推</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2506-tiling.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2506-tiling.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2506-tiling.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2506-tiling.html</id>
     <published>2018-09-14T13:25:00.000Z</published>
     <updated>2018-09-15T14:56:37.959Z</updated>
     
@@ -2730,21 +2730,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="递归" scheme="https://acshiryu.github.io/tags/recursive/"/>
+      <category term="递归" scheme="https://blog.zilong.pro/tags/recursive/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="高精度" scheme="https://acshiryu.github.io/tags/high-precision/"/>
+      <category term="高精度" scheme="https://blog.zilong.pro/tags/high-precision/"/>
     
   </entry>
   
   <entry>
     <title>poj2663 Tri Tiling 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2663-tri-tiling.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2663-tri-tiling.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2663-tri-tiling.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2663-tri-tiling.html</id>
     <published>2018-09-14T13:24:00.000Z</published>
     <updated>2018-09-15T14:56:37.959Z</updated>
     
@@ -2760,21 +2760,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="递归" scheme="https://acshiryu.github.io/tags/recursive/"/>
+      <category term="递归" scheme="https://blog.zilong.pro/tags/recursive/"/>
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>POJ 2773 互素问题</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2773-happy-2006.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2773-happy-2006.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2773-happy-2006.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2773-happy-2006.html</id>
     <published>2018-09-14T13:16:00.000Z</published>
     <updated>2018-09-15T14:56:37.960Z</updated>
     
@@ -2792,21 +2792,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="素数" scheme="https://acshiryu.github.io/tags/prime/"/>
+      <category term="素数" scheme="https://blog.zilong.pro/tags/prime/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>poj 2891 Strange Way to Express Integers 扩展欧几里得</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-2891-strange-way-to-express-integers.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-2891-strange-way-to-express-integers.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-2891-strange-way-to-express-integers.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-2891-strange-way-to-express-integers.html</id>
     <published>2018-09-14T13:15:00.000Z</published>
     <updated>2018-09-15T14:56:37.961Z</updated>
     
@@ -2822,25 +2822,25 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="最大公约数" scheme="https://acshiryu.github.io/tags/greatest-common-divisor/"/>
+      <category term="最大公约数" scheme="https://blog.zilong.pro/tags/greatest-common-divisor/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="扩展欧几里得" scheme="https://acshiryu.github.io/tags/extended-euclid/"/>
+      <category term="扩展欧几里得" scheme="https://blog.zilong.pro/tags/extended-euclid/"/>
     
-      <category term="欧几里得" scheme="https://acshiryu.github.io/tags/euclid/"/>
+      <category term="欧几里得" scheme="https://blog.zilong.pro/tags/euclid/"/>
     
   </entry>
   
   <entry>
     <title>POJ3009Curling 2.0解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-3009-curling-2-0.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-3009-curling-2-0.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-3009-curling-2-0.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-3009-curling-2-0.html</id>
     <published>2018-09-14T13:00:13.000Z</published>
     <updated>2018-09-15T14:56:37.962Z</updated>
     
@@ -2855,21 +2855,21 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="深度优先搜索" scheme="https://acshiryu.github.io/tags/depth-first-search/"/>
+      <category term="深度优先搜索" scheme="https://blog.zilong.pro/tags/depth-first-search/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="搜索" scheme="https://acshiryu.github.io/tags/search/"/>
+      <category term="搜索" scheme="https://blog.zilong.pro/tags/search/"/>
     
   </entry>
   
   <entry>
     <title>poj3070来体会矩阵的妙用</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-3070-fibonacci.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-3070-fibonacci.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-3070-fibonacci.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-3070-fibonacci.html</id>
     <published>2018-09-14T10:43:00.000Z</published>
     <updated>2018-09-15T14:56:37.962Z</updated>
     
@@ -2887,23 +2887,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="矩阵" scheme="https://acshiryu.github.io/tags/matrix/"/>
+      <category term="矩阵" scheme="https://blog.zilong.pro/tags/matrix/"/>
     
-      <category term="快速幂" scheme="https://acshiryu.github.io/tags/fast-power/"/>
+      <category term="快速幂" scheme="https://blog.zilong.pro/tags/fast-power/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="斐波那契数列" scheme="https://acshiryu.github.io/tags/fibonacci-sequence/"/>
+      <category term="斐波那契数列" scheme="https://blog.zilong.pro/tags/fibonacci-sequence/"/>
     
   </entry>
   
   <entry>
     <title>poj3090 欧拉函数与法雷级数</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-3090-visible-lattice-points.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-3090-visible-lattice-points.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-3090-visible-lattice-points.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-3090-visible-lattice-points.html</id>
     <published>2018-09-14T10:42:00.000Z</published>
     <updated>2018-09-15T14:56:37.963Z</updated>
     
@@ -2919,23 +2919,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="欧拉函数" scheme="https://acshiryu.github.io/tags/euler-function/"/>
+      <category term="欧拉函数" scheme="https://blog.zilong.pro/tags/euler-function/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="法雷级数" scheme="https://acshiryu.github.io/tags/farrell-series/"/>
+      <category term="法雷级数" scheme="https://blog.zilong.pro/tags/farrell-series/"/>
     
   </entry>
   
   <entry>
     <title>POJ3185 The Water Bowls 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-3185-the-water-bowls.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-3185-the-water-bowls.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-3185-the-water-bowls.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-3185-the-water-bowls.html</id>
     <published>2018-09-14T10:41:00.000Z</published>
     <updated>2018-09-15T14:56:37.963Z</updated>
     
@@ -2951,23 +2951,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="枚举" scheme="https://acshiryu.github.io/tags/enumerate/"/>
+      <category term="枚举" scheme="https://blog.zilong.pro/tags/enumerate/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="位运算" scheme="https://acshiryu.github.io/tags/bit-operation/"/>
+      <category term="位运算" scheme="https://blog.zilong.pro/tags/bit-operation/"/>
     
-      <category term="高斯消元" scheme="https://acshiryu.github.io/tags/gaussian-elimination/"/>
+      <category term="高斯消元" scheme="https://blog.zilong.pro/tags/gaussian-elimination/"/>
     
   </entry>
   
   <entry>
     <title>poj3233 又见矩阵，不过是等比吗？</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-3233-matrix-power-series.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-3233-matrix-power-series.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-3233-matrix-power-series.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-3233-matrix-power-series.html</id>
     <published>2018-09-14T10:40:00.000Z</published>
     <updated>2018-09-15T14:56:37.964Z</updated>
     
@@ -2985,23 +2985,23 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数论" scheme="https://acshiryu.github.io/tags/number-theory/"/>
+      <category term="数论" scheme="https://blog.zilong.pro/tags/number-theory/"/>
     
-      <category term="矩阵" scheme="https://acshiryu.github.io/tags/matrix/"/>
+      <category term="矩阵" scheme="https://blog.zilong.pro/tags/matrix/"/>
     
-      <category term="分治" scheme="https://acshiryu.github.io/tags/division/"/>
+      <category term="分治" scheme="https://blog.zilong.pro/tags/division/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
   </entry>
   
   <entry>
     <title>POJ3278 Catch That Cow 解题报告</title>
-    <link href="https://acshiryu.github.io/archives/acm/poj-3278-catch-that-cow.html"/>
-    <id>https://acshiryu.github.io/archives/acm/poj-3278-catch-that-cow.html</id>
+    <link href="https://blog.zilong.pro/archives/acm/poj-3278-catch-that-cow.html"/>
+    <id>https://blog.zilong.pro/archives/acm/poj-3278-catch-that-cow.html</id>
     <published>2018-09-14T10:36:00.000Z</published>
     <updated>2018-09-15T14:56:37.965Z</updated>
     
@@ -3021,16 +3021,16 @@
     
     </summary>
     
-      <category term="算法竞赛" scheme="https://acshiryu.github.io/categories/acm/"/>
+      <category term="算法竞赛" scheme="https://blog.zilong.pro/categories/acm/"/>
     
     
-      <category term="数据结构" scheme="https://acshiryu.github.io/tags/data-structure/"/>
+      <category term="数据结构" scheme="https://blog.zilong.pro/tags/data-structure/"/>
     
-      <category term="广度优先搜索" scheme="https://acshiryu.github.io/tags/breadth-first-search/"/>
+      <category term="广度优先搜索" scheme="https://blog.zilong.pro/tags/breadth-first-search/"/>
     
-      <category term="poj" scheme="https://acshiryu.github.io/tags/poj/"/>
+      <category term="poj" scheme="https://blog.zilong.pro/tags/poj/"/>
     
-      <category term="搜索" scheme="https://acshiryu.github.io/tags/search/"/>
+      <category term="搜索" scheme="https://blog.zilong.pro/tags/search/"/>
     
   </entry>
   
