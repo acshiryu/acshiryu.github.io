@@ -2,7 +2,7 @@ title: USACO 2.3.1 Longest Prefix 解题报告
 tags:
   - usaco
   - 动态规划
-  - 字典数
+  - 字典树
   - 数据结构
 categories:
   - 算法竞赛
